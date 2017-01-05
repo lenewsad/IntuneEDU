@@ -5,5 +5,6 @@
 # Groups
 # Apps
 ## [What are apps](apps/apps-intune-education.md)
+## [Preset apps](apps/preset-apps.md)
 ## [Add apps](apps/add-apps.md)
-## [Deploy apps](apps/deploy-apps.md)
+## [Install apps](apps/install-apps.md)
