@@ -12,7 +12,7 @@ ms.topic: article
 ms.prod:
 ms.service:
 ms.technology:
-ms.assetid: [GET ONE FROM guidgenerator.com]
+ms.assetid: f9cb6daf-a789-427b-bbfd-fa0a3d36e01f
 
 ---
 
@@ -34,4 +34,4 @@ You can also sync your Active Directory data to Azure AD by using AD Connect. [L
 
 >[!div class="step-by-step"]
 
-><!-- [&larr; **Add apps**](.\add-apps.md) -->     [**Install apps** &rarr;](.\install-apps.md)
+><!-- [&larr; **Add apps**](.\add-apps.md)     [**Install apps** &rarr;](.\install-apps.md) -->

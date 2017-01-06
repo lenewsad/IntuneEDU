@@ -81,4 +81,4 @@ You can move a group within the group structure:
 
 >[!div class="step-by-step"]
 
-><!-- [&larr; **Add apps**](.\add-apps.md) -->     [**Install apps** &rarr;](.\install-apps.md)
+><!-- [&larr; **Add apps**](.\add-apps.md)     [**Install apps** &rarr;](.\install-apps.md) -->

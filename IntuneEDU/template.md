@@ -25,4 +25,4 @@ When creating a markdown file you shluld copy the template to a new file, fill o
 
 >[!div class="step-by-step"]
 
-><!-- [&larr; **Add apps**](.\add-apps.md) -->     [**Install apps** &rarr;](.\install-apps.md)
+><!-- [&larr; **Add apps**](.\add-apps.md)    [**Install apps** &rarr;](.\install-apps.md)  -->
