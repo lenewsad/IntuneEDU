@@ -1,7 +1,7 @@
 ---
 # required metadata
 
-title: Apps overview  | Intune for Education
+title: What are apps?  | Intune for Education | Microsoft Docs
 description:
 keywords:
 author: NathBarn
