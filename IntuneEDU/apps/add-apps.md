@@ -41,14 +41,14 @@ For your convenience, you can install popular educational apps with a single cli
 You can deploy web apps as links to in the Start menu of Windows 10 devices using Intune for Education. To deploy a web app, you must first add it to Intune for Education in the **Manage apps** section.
 
 Use the following steps to add web apps to Intune for Education:
-1. In the [Intune for Education] console, click **Manage Apps**, click **Add apps**, and then **Quick add popular apps**. A list of **Web apps** and **Windows Store apps** are displayed.
+1. In the [Intune for Education](https://manage.windowsazure.com) console, click **Manage Apps**, click **Add apps**, and then **Quick add popular apps**. A list of **Web apps** and **Windows Store apps** are displayed.
 2. Select the apps you want to add.
 3. Click **Add apps**
 
 ## Add web apps
 
 Use the following steps to add web apps:
-1. In the [Intune for Education portal](https://manage.windowsazure.com), click **Apps**, click **Add apps**, and then **+ Web apps**.
+1. In the [Intune for Education](https://manage.windowsazure.com) console, click **Apps**, click **Add apps**, and then **+ Web apps**.
 2. Specify the following:
 - **URL** - The app store URL of the app that you want to deploy
 - **App name** - The name of the app displayed in the Start menu on devices
@@ -62,7 +62,7 @@ You can edit the application at any time by clicking **Edit** which re-opens the
 Applications that you own in Windows Store for Business are automatically available in Intune for Education. Any time you make changes to your app ownership, whether  buying new apps or revoking purchases, that change is reflected in Intune for Education.
 
 To add a new Windows Store for Business apps:
-1. In the [Intune for Education portal](https://manage.windowsazure.com), click **Apps**.
+1. In the [Intune for Education](https://manage.windowsazure.com) console, click **Apps**.
 2. Click the **+ New Windows Store App** to open your Windows Store for Business account. You can search for app you want to add. Once you find it, go ahead and buy the required number of licenses for the application.
 3. Intune for Education will be updated to show your purchase.  This might take up to 12 hours.
 4. You can now [install the app on devices](install-apps.md).
