@@ -5,7 +5,7 @@
 ## [Setup school data](get-started/school-data-service.md)
 ## [Add devices](get-started/add-devices.md)
 ## [Admin tasks](get-started/admin-tasks.md)
-# Groups
+# [Groups](get-started.md)
 ## [Manage groups](groups/groups-intune-education.md)
 # Apps
 ## [What are apps](apps/apps-intune-education.md)
