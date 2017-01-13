@@ -31,7 +31,7 @@ To create a new group:
 4.	Click **Create Group**.
 
 ## Create a subgroup
-You can create subgroups under any group except certain default groups.  
+You can create subgroups under any group except certain default groups. Subgroups might be useful to refine the organization of device users.  
 
 **To create a subgroup**
 1.	In the [Intune for Education portal](https://manage.windowsazure.com), click the **Manage Groups** workplace.  The **Groups** blade opens.
@@ -66,7 +66,7 @@ You can edit both device or user members of an existing group.
 You can move a group within the group structure:
 1.	In the [Intune for Education portal](https://manage.windowsazure.com), click the **Manage Groups** workplace.  The **Groups** blade opens.
 2. Select the group that needs to be Moved
-3.	Click **Move group** either in the ellipses menu list or by clicking **Move group** button.
+3.	Click **Move group** either in the menu list or by clicking **Move group** button.
 4.	Select the group location to which you want to move the group by either searching a group name or by selecting it in the hierarchy.
 5.	Select **Ok** to save your changes.
 

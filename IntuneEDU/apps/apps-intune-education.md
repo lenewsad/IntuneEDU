@@ -33,10 +33,10 @@ Intune for Education helps you manage the apps that students use on your devices
 - Install apps
 - Remove apps
 
-Intune for Education supports the following types of applications:
+Intune for Education supports the following types of apps:
 - Preset apps - Popular apps preconfigured in Intune for Education
 - Web apps - Links to websites (for example, [Bing Translator website](https://www.bing.com/translator/))
-- Windows Store for Business apps - Universal apps distributed from Microsoft (for example, )
+- Windows Store for Business apps - Universal apps distributed from Microsoft
 <!-- - Win32 applications (example) -->
 
 >[!div class="step-by-step"]

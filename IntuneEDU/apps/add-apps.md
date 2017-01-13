@@ -29,16 +29,16 @@ ms.reviewer: tanmayb
 # Add apps in Intune for Education
 
 Before you can install apps to your devices with Intune for Education, those apps must be added. Intune for Education supports the following types of applications:
-- Web apps - Links to websites (example)
-- Windows Store for Business apps - Universal apps distributed from Microsoft (example)
+- Web apps - Links to websites
+- Windows Store for Business apps - Universal apps distributed from Microsoft
 <!-- - Win32 applications (example) -->
 
 ## Popular apps
 
-For your convenience, you can install popular educational apps with a single click. Before trying to install any applications be sure to check the list of preset apps available in Express Setup or under the **Manage applications**. The Intune for Education service shows the top-12 educational web apps and top-12 education Windows Store for Business apps that you haven’t added under **Apps** management. Our goal is to make it easy for you to install your favorite apps to your users.
+For your convenience, you can install popular educational apps with a single click. Before trying to install any applications be sure to check the list of preset apps available in Express Setup or under the **Manage applications**. The Intune for Education service shows the top-12 educational web apps and top-12 educational Windows Store for Business apps that you haven’t added under **Apps** management. Our goal is to make it easy for you to install your favorite apps to your users.
 
 ## Add popular apps
-You can deploy web apps as links to in the Start menu of Windows 10 devices using Intune for Education. To deploy a web app, you must first add it to Intune for Education in the **Manage apps** section.
+You can deploy web apps as links to in the Start menu of Windows 10 devices using Intune for Education. To deploy an app, you must first add it to Intune for Education in the **Manage apps** section.
 
 Use the following steps to add web apps to Intune for Education:
 1. In the [Intune for Education](https://manage.windowsazure.com) console, click **Manage Apps**, click **Add apps**, and then **Quick add popular apps**. A list of **Web apps** and **Windows Store apps** are displayed.
@@ -59,11 +59,11 @@ Use the following steps to add web apps:
 You can edit the application at any time by clicking **Edit** which re-opens the web app details.
 
 ## Add Windows Store for Business apps
-Applications that you own in Windows Store for Business are automatically available in Intune for Education. Any time you make changes to your app ownership, whether  buying new apps or revoking purchases, that change is reflected in Intune for Education.
+Apps that you own in Windows Store for Business are automatically available in Intune for Education. Any time you make changes to your app ownership, whether  buying new apps or revoking purchases, that change is reflected in Intune for Education.
 
 To add a new Windows Store for Business apps:
 1. In the [Intune for Education](https://manage.windowsazure.com) console, click **Apps**.
-2. Click the **+ New Windows Store App** to open your Windows Store for Business account. You can search for app you want to add. Once you find it, go ahead and buy the required number of licenses for the application.
+2. Click the **+ New Windows Store App** to open your Windows Store for Business account. You can search for app you want to add. Once you find it, go ahead and buy the required number of licenses for the app.
 3. Intune for Education will be updated to show your purchase.  This might take up to 12 hours.
 4. You can now [install the app on devices](install-apps.md).
 
