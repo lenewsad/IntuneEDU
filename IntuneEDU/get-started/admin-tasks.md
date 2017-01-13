@@ -20,10 +20,10 @@ ms.assetid: 50bd115f-a167-456a-910d-8f31ec17a422
 
 Intune for Education  administrators can perform certain tasks to improve management.
 
-## Tenant-wide settings
-Tenant-wide settings affect all users and devices you have under Intune management. Only Intune administrators can see or change these settings.
+## Intune for Education settings
+Certain settings affect all users and devices you have under Intune management. Intune for Education refers to these as **tenant settings**. Only Intune for Education administrators can see or change these settings.
 
-To manage tenant-wide settings, click **Tenant settings** in the left-side navigation bar in the [Intune for Education](https://manage.windowsazure.com) console.
+To manage these settings, click **Tenant settings** in the left-side navigation bar in the [Intune for Education](https://manage.windowsazure.com) console.
 
 As an administrator, you can perform the following tenant-wide tasks:
 -	Force a sync between Intune and Windows Store for Business

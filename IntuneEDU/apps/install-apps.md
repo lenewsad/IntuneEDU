@@ -31,11 +31,11 @@ ms.reviewer: tanmayb
 You can install apps on groups of devices using Intune for Education. The app is automatically installed on all devices in targeted groups. Before an app can be deployed, it must be added to Intune for Education. Some common apps are available by default. You can also [add additional apps](add-apps.md) as needed.
 
 You can install apps in the following ways:
-- [Select a group to receive the app](#install-apps-for-a-group)
+- [Install apps for a group](#install-apps-for-a-group)
 - [Install apps using Express Setup](#install-apps-with-express-setup)
 - [Select an app to install on multiple groups](#deploy-an-app-to-multiple-groups)
 
-##  Install apps to for group
+##  Install apps for a group
 This method lets you select a group and install one or more apps to the devices in that group.
 1. In the [Intune for Education portal](https://manage.windowsazure.com), click the **Manage Groups** workplace.  The **Groups** blade opens.
 2. Select the group to which you want to deploy apps.

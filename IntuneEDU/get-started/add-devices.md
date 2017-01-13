@@ -18,7 +18,7 @@ ms.assetid: c884df47-61a9-4799-a407-8cd311d376d1
 
 # Add devices to Intune for Education
 
-Once you have Intune for Education set up with your school information and the apps and settings you want on your devices, you need to connect those devices with Intune for Education. You can do this as part of the setup experience on new Windows 10 devices.
+Once you have Intune for Education set up with your school information and the apps and settings you want on your devices, you need to connect those devices with Intune for Education so the apps and settings can be applied. You can do this as part of the setup experience on new Windows 10 devices.
 
 > [!NOTE]
 > To complete setup, devices need access to the internet and your account must have enough Intune for Education device licenses available.
