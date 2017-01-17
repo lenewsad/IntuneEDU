@@ -34,7 +34,7 @@ To create a new group:
 You can create subgroups under any group except certain default groups. Subgroups might be useful to refine the organization of device users.  
 
 **To create a subgroup**
-1.	In the [Intune for Education portal](https://manage.windowsazure.com), click the **Manage Groups** workplace.  The **Groups** blade opens.
+1.	In the [Intune for Education console](https://manage.windowsazure.com), click the **Manage Groups** workplace.  The **Groups** blade opens.
 2. Select the group beneath which you want to create a subgroup.
 3.	Click **Create subgroup** either in the ellipses menu or in the task list.
 3.	Enter the **Group Name**.
