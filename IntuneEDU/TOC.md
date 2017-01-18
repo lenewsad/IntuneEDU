@@ -1,7 +1,7 @@
-# Overview
+# [Overview](overview/overview-intune-education.md)
 ## [What is Intune for Education](overview/overview-intune-education.md)
 # [Get Started](get-started/get-started.md)
-## [Express configuration](get-started/setup.md)
+## [Express Setup](get-started/setup.md)
 ## [Setup school data](get-started/school-data-service.md)
 ## [Add devices](get-started/add-devices.md)
 ## [Admin tasks](get-started/admin-tasks.md)
