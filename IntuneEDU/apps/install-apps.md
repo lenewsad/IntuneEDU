@@ -44,9 +44,9 @@ This method lets you select a group and install one or more apps to the devices 
 5. Click **Save** to deploy the selected apps to that group.
 
 ## Install apps with Express Setup
-This method lets you deploy multiple apps to a selected group using the Express Configuration process.
-1. In the [Intune for Education portal](https://manage.windowsazure.com), click the **Express Configuration** workplace.  
-2. In the Express Configuration workflow, select the **Group** you want to add apps to and then click **Next**.
+This method lets you deploy multiple apps to a selected group using the Express Setup process.
+1. In the [Intune for Education portal](https://manage.windowsazure.com), click the **Express Setup** workplace.  
+2. In the Express Setup workflow, select the **Group** you want to add apps to and then click **Next**.
 3. Select the apps you want to deploy to that group, and then click **Next**.
 
 ## Install an app to multiple groups
