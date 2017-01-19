@@ -14,16 +14,6 @@ ms.service:
 ms.technology:
 ms.assetid: 93527826-b81e-4202-9eb5-2de9b1ee8132
 
-# optional metadata
-
-#ROBOTS:
-#audience:
-#ms.devlang:
-ms.reviewer: tanmayb
-#ms.suite: ems
-#ms.tgt_pltfrm:
-#ms.custom:
-
 ---
 
 # Use apps in Intune for Education

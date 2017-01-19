@@ -11,5 +11,7 @@
 ## [What are apps](apps/apps-intune-education.md)
 ## [Add apps](apps/add-apps.md)
 ## [Install apps](apps/install-apps.md)
+# Settings
+## [What are settings](settings/settings-intune-education.md)
 # Reports
 ## [What are reports](reports/reports-intune-education.md)
