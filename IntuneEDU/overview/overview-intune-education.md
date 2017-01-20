@@ -1,7 +1,7 @@
 ---
 # required metadata
 
-title: What is Intune for Education  | Intune for Education
+title: What is Intune for Education  | Intune for Education | Microsoft Docs
 description:
 keywords:
 author: NathBarn

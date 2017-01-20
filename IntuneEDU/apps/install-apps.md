@@ -1,7 +1,7 @@
 ---
 # required metadata
 
-title: Install apps  | Intune for Education
+title: Install apps  | Intune for Education | Microsoft Docs
 description:
 keywords:
 author: NathBarn
