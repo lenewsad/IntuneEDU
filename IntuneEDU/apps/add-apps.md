@@ -1,7 +1,7 @@
 ---
 # required metadata
 
-title: Add apps  | Intune for Education
+title: Add apps  | Intune for Education | Microsoft Docs
 description:
 keywords:
 author: NathBarn
