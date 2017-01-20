@@ -13,5 +13,6 @@
 ## [Install apps](apps/install-apps.md)
 # Settings
 ## [What are settings](settings/settings-intune-education.md)
+### [Available settings](settings/settings.md)
 # Reports
 ## [What are reports](reports/reports-intune-education.md)
