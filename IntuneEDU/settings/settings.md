@@ -30,6 +30,9 @@ Intune for Education allows you to manage the following categories settings.:
 - [Sign in settings](#app-settings)
 - [Email settings](#email-settings) (advanced)
 - [Edition upgrade settings](#edition-upgrade-settings) (advanced)
+- [Sign in settings](#sign-in-settings)
+- [Email settings](#email-settings) (advanced)
+- [Edition upgrade](#edition-upgrade) (advanced)
 
 Settings marked **(advanced)** are not included in Express Setup, but you can [manage settings for groups](settings-intune-education.md#manage-settings-for-groups).
 

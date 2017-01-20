@@ -31,13 +31,14 @@ Use the following steps to manage simplified list of settings in Intune for Educ
 3. Select the group whose settings you want to manage, and then click **Next**.
 4. Review the list of apps, and then click **Next**.
 5. On the **Settings** page, expand the categories of available settings:
-  - Basic device settings
-  - Internet browser settings
-  - Device update settings
-  - Networking and connection settings
-  - App settings
-  - Sign in settings
-  Manage settings by expanding each category and making your selections, and then click **Next**.
+  - [Basic device settings](#basic-device-settings)
+  - [Internet browser settings](#internet-browser-settings)
+  - [Device update settings](#device-update-settings)
+  - [Networking and connection settings](#networking-and-connection-settings)
+  - [App settings](#app-settings)
+  - [Sign in settings](#sign-in-settings)
+
+  Expand a category and toggle the control to modify settings, and then click **Next**.
 6. Review your choices and then click **Finish** to save your changes update them on devices in the selected group.
 
 ### Manage settings for groups
