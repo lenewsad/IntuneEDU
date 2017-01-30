@@ -19,9 +19,9 @@ ms.assetid: 93527826-b81e-4202-9eb5-2de9b1ee8132
 # Use apps in Intune for Education
 
 Intune for Education helps you manage the apps that students use on your devices. App management allows you to do the following:
-- Add apps
-- Install apps
-- Remove apps
+- [Add apps](add-apps.md)
+- [Install apps](install-apps.md)
+<!-- - Remove apps -->
 
 Intune for Education supports the following types of apps:
 - Preset apps - Popular apps preconfigured in Intune for Education
