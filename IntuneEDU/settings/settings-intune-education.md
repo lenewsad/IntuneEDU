@@ -23,6 +23,10 @@ Intune for Education helps you manage devices in your schools with groups of set
 
 Settings are managed on a per-group basis. You can manage the simple list of useful settings using [Express Setup](#manage-settings-in-express-setup) or view a full list of settings for a group for fine-tuning from [Groups management](#manage-settings-for-groups).
 
+Device settings apply to all devices in their group. Settings that are **Not configured** default to the setting made on the device. Intune for Education settings such as **Block** or **Allow** overrule the device’s settings. Subgroup settings overrule their parent group settings.
+
+For example, if devices in the **All Devices** have **Camera** set to **Not configured**, the devices in that group can turn the camera on or off. If devices belong to the **Students** subgroup of **All Devices** and the **Camera** setting for the **Students** subgroup is set to **Block**, the camera is blocked for all of those devices.
+
 ## Manage settings in Express setup
 
 Use the following steps to manage simplified list of settings in Intune for Education:
