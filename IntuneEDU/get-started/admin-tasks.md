@@ -20,21 +20,23 @@ ms.assetid: 50bd115f-a167-456a-910d-8f31ec17a422
 
 Intune for Education  administrators can perform certain tasks to improve management.
 
-## Intune for Education settings
+## Settings
 Certain settings affect all users and devices you have under Intune management. Intune for Education refers to these as **tenant settings**. Only Intune for Education administrators can see or change these settings.
 
 To manage these settings, click **Tenant settings** in the left-side navigation bar in the [Intune for Education](https://manage.windowsazure.com) console.
+
+  ![Screenshot of the "Tenant Settings" option in Intune for Education console](../media/edu-tenant-settings.png)
 
 As an administrator, you can perform the following tenant-wide tasks:
 -	Force a sync between Intune and Windows Store for Business
 -	Manage IT contact information
 -	Manage settings for support website information
 
-## Certificate management in Intune for Education
+## Certificate management
 
-Certificate management cannot be done in the Intune for Education portal. A tenant administrator can access certificate management in the enterprise Intune portal. Only a tenant administrator has access to certificate management.
+The tenant administrator manages certificates. Certificate management is not available from the Intune for Education portal. Use the enterprise Intune portal. For more information about certificate management in the enterprise Intune portal, see [Secure resource access with certificate profiles in Microsoft Intune])https://docs.microsoft.com/intune/deploy-use/secure-resource-access-with-certificate-profiles.
 
-## Troubleshooting Intune for Education
+## Troubleshooting
 
 Errors in the Intune for Education portal are reported in a notification tab at the top right of the Intune for Education console. An error message appear typically includes a description and an error code. To view a list of recent errors and notifications, click the bell icon at the top-right of the Intune for Education console.
 

@@ -21,17 +21,17 @@ ms.assetid: af5d35ee-84f5-4245-a441-671600bcc376
 Express Setup in Intune for Education helps you quickly provide a group of users the apps and settings they need. You can use Express Setup any time you want to modify a group of devices. We’ve chosen some apps and default settings that we think you’ll find useful. You can change these choices to fit your needs.
 
 Express Setup has the following steps:
-  1. [Get school information](#get-school-information)
+  1. [(Optional) Get school information](#get-school-information)
   2. [Choose a group](#choose-a-group)
   3. [Choose apps](#choose-apps)
   4. [Choose settings](#choose-settings)
-  5. [Next steps](#next-steps)
+  5. [Finish up](#finish-up)
 
 ## Get school information
 
 **Optional/Prep-work**: Before you can organize students and devices in Intune for Education, you'll want to sync your School Information System (SIS) with Intune. This makes information about student names, teacher names, and classes available in the Intune for Education console so you can assign specific apps and settings to groups of students and teachers.
 
-There are a variety of ways this can be done, and it only needs to be done once. Express Setup provides a link to [School Data Sync](school-data-service.md) to get information from your School Information System connected with Intune. This can be done in a variety of ways depending upon the services available to your school or school district.  Schools that use third-party services like PowerSchool or Clever can use those services to sync data with SDS. Or you can export data files from your information service and then import them to SDS. Either way, the information is added to Microsoft's Azure Active Directory service, which helps manage that data for Intune for Education. For more information, see [School Data Sync](school-data-service.md).
+There are a variety of ways this can be done, and it only needs to be done once. Express Setup provides a link to School Data Sync to get information from your School Information System connected with Intune. This can be done in a variety of ways depending upon the services available to your school or school district.  You can use third-party services like PowerSchool or Clever, or export data files from your information service and then import them to SDS. Either way, the information is added to Microsoft's Azure Active Directory service, which helps manage that data for Intune for Education. For more information, see [School Data Sync](school-data-service.md).
 
 ## Choose a group
 
@@ -41,7 +41,7 @@ Select a group to set up, then click **Next** to continue.
 
 ## Choose apps
 
-Next you choose apps to install on the selected group of devices. When you first run Express Setup, you'll see any apps that you’re already managing in Intune as well as some recommended apps. You can select the apps to be installed. As with all Express Setup settings, you can change installed apps later. You can also add apps from other sources such as web apps and apps from the Windows Store.
+Choose apps to install on the selected group of devices. When you first run Express Setup, you'll see any apps that you’re already managing in Intune as well as some recommended apps. You can select the apps to be installed. As with all Express Setup settings, you can change installed apps later. You can also add apps from other sources such as web apps and apps from the Windows Store.
 
 Select apps to install on selected group, and then click **Next**.
 
