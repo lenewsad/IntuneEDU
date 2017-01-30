@@ -32,6 +32,8 @@ As an administrator, you can perform the following tenant-wide tasks:
 -	Manage IT contact information
 -	Manage settings for support website information
 
+![Screenshot of the "Tenant Settings" option in Intune for Education console showing school, support website, and other information. ](../media/tenant-settings.png)
+
 ## Certificate management
 
 The tenant administrator manages certificates. Certificate management is not available from the Intune for Education portal. Use the enterprise Intune portal. For more information about certificate management in the enterprise Intune portal, see [Secure resource access with certificate profiles in Microsoft Intune])https://docs.microsoft.com/intune/deploy-use/secure-resource-access-with-certificate-profiles.
