@@ -38,7 +38,7 @@ Use the following steps to manage simplified list of settings in Intune for Educ
   - [Basic device settings](settings.md#basic-device-settings)
   - [Internet browser settings](settings.md#internet-browser-settings)
   - [Device update settings](settings.md#device-update-settings)
-  - [Networking and connection settings](settings.md#networking-and-connection-settings)
+  - [Networking and connection settings](settings.md#networking-and-connectivity)
   - [App settings](settings.md#app-settings)
   - [Sign in settings](settings.md#sign-in-settings)
 

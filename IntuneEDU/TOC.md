@@ -1,4 +1,4 @@
-# [What is Intune for Education?](overview/overview-intune-education.md)
+# [What is Intune for Education?](overview/what-is-intune-for-education.md)
 
 # [Get Started](get-started/get-started.md)
 ## [Express Configuration](get-started/express-configuration.md)

@@ -24,7 +24,7 @@ Intune for Education allows you to manage the following categories settings.:
 - [Internet browser settings](#internet-browser-settings)
 - [Device update settings](#device-update-settings)
 - [Windows Defender settings](#windows-defender-settings) (advanced)
-- [Networking and connection settings](#networking-and-connection-settings)
+- [Networking and connection settings](#networking-and-connectivity)
 - [Device sharing](#device-sharing)
 - [App settings](#app-settings)
 - [Sign in settings](#app-settings)
