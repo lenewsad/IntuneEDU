@@ -4,8 +4,8 @@
 title: Get started  | Intune for Education | Microsoft Docs
 description:
 keywords:
-author: NathBarn
-ms.author: nathbarn
+author: barlanmsft
+ms.author: barlan
 manager: angrobe
 ms.date: 03/24/2017
 ms.topic: article
@@ -21,8 +21,8 @@ ms.assetid: 9d0466c5-d69d-4b85-814a-76e63dd65e63
 To setup Intune for Education, you connect Intune with your schools' data and then configure apps and settings for groups of students and teacher. Once you have setup the configurations you want on your devices, you can start managing devices.
 
 To get started with Intune for Education, you can follow these steps:
-1. [Setup school data](school-data-service.md) - Import or sync your schools' information with Microsoft's School Data Sync (SDS)
-2. [Run Express Setup](setup.md) - Easily assign apps and settings to groups of students and teachers
+1. [Set up school data](school-data-sync.md) - Import or sync your schools' information with Microsoft's School Data Sync (SDS)
+2. [Run Express Configuration](express-configuration.md) - Easily assign apps and settings to groups of students and teachers
 3. [Add devices](add-devices.md) - Connect devices with Intune for Education to install apps and apply settings
 
 In addition to these setup steps, you can also perform the following administrative tasks:
