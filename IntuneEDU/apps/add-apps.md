@@ -39,7 +39,7 @@ After you add apps, you can then [intall apps](install-apps.md) on groups of dev
 
 ## Popular apps
 
-For your convenience, you can install popular educational apps with a single click. These apps are recommended because they are frequently useful to schools. Before trying to install any applications, be sure to check the list of preset apps available in Express Setup or under the **Manage applications**. The Intune for Education service shows the top-12 educational web apps and top-12 educational Windows Store for Business apps that you haven’t added under **Apps** management. Our goal is to make it easy for you to install your favorite apps to your users.
+For your convenience, you can install popular educational apps with a single click. These apps are recommended because they are frequently useful to schools. Before trying to install any applications, be sure to check the list of preset apps available in Express Configuration or under the **Manage applications**. The Intune for Education service shows the top-12 educational web apps and top-12 educational Windows Store for Business apps that you haven’t added under **Apps** management. Our goal is to make it easy for you to install your favorite apps to your users.
 
 ### Add popular apps
 You can deploy web apps as links to in the Start menu of Windows 10 devices using Intune for Education. To deploy an app, you must first add it to Intune for Education in the **Manage apps** section.
