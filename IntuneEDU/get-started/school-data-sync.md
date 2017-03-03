@@ -4,8 +4,8 @@
 title: Sync school data service  | Intune for Education | Microsoft Docs
 description:
 keywords:
-author: NathBarn
-ms.author: nathbarn
+author: barlanmsft
+ms.author: barlan
 manager: angrobe
 ms.date: 03/24/2017
 ms.topic: article
@@ -30,6 +30,8 @@ You can import information into SDS by using one of the following:
 
 
 You can also sync your Active Directory data to Azure AD by using AD Connect. [Learn more about AD Connect](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnect).
+
+Find out more at [Microsoft School Data Sync](https://sds.microsoft.com/). 
 
 
 >[!div class="step-by-step"]

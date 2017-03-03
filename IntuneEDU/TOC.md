@@ -2,7 +2,7 @@
 
 # [Get Started](get-started/get-started.md)
 ## [Express Configuration](get-started/express-configuration.md)
-## [Set up school data](get-started/school-data-service.md)
+## [Set up school data](get-started/school-data-sync.md)
 ## [Add devices](get-started/add-devices.md)
 ## [Admin tasks](get-started/admin-tasks.md)
 
