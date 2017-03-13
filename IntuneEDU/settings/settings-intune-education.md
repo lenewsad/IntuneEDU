@@ -1,7 +1,7 @@
 ---
 # required metadata
 
-title: What are settings  | Intune for Education | Microsoft Docs
+title: What are settings? | Intune for Education | Microsoft Docs
 description:
 keywords:
 author: barlanmsft
@@ -16,8 +16,12 @@ ms.assetid: 91d004c0-8d06-4307-8868-46ac7b119101
 
 ---
 
-# Settings in Intune for Education
-Intune for Education helps you manage devices in your schools with groups of settings that are applied to those devices. Devices can be used to enable or disable device components like built-in cameras, removable storage, or location services. They can also manage software settings like disabling browser pop-ups, limiting which apps can be installed, or fine-tuning Windows Defender to protect devices from malware.
+# What are settings?
+<!--intro text-->
+
+## How settings work between different groups
+
+<!--inheritance and override-->
 
 ## Manage settings
 
