@@ -3,7 +3,7 @@
 
 # [Get Started](get-started/get-started.md)
 ## [Express Configuration](get-started/express-configuration.md)
-## [Add devices](get-started/add-devices.md)
+## [Enroll devices](get-started/add-devices.md)
 ## [Admin tasks](get-started/admin-tasks.md)
 
 # [Plan things out](plan/plan-overview.md)
