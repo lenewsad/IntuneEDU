@@ -4,8 +4,8 @@
 title: Available settings  | Intune for Education | Microsoft Docs
 description:
 keywords:
-author: NathBarn
-ms.author: nathbarn
+author: barlanmsft
+ms.author: barlan
 manager: angrobe
 ms.date: 03/24/2017
 ms.topic: article
@@ -24,7 +24,7 @@ Intune for Education allows you to manage the following categories settings.:
 - [Internet browser settings](#internet-browser-settings)
 - [Device update settings](#device-update-settings)
 - [Windows Defender settings](#windows-defender-settings) (advanced)
-- [Networking and connection settings](#networking-and-connection-settings)
+- [Networking and connection settings](#networking-and-connectivity)
 - [Device sharing](#device-sharing)
 - [App settings](#app-settings)
 - [Sign in settings](#app-settings)
@@ -34,7 +34,7 @@ Intune for Education allows you to manage the following categories settings.:
 - [Email settings](#email-settings) (advanced)
 - [Edition upgrade](#edition-upgrade) (advanced)
 
-Settings marked **(advanced)** are not included in Express Setup, but you can [manage settings for groups](settings-intune-education.md#manage-settings-for-groups).
+Settings marked **(advanced)** are not included in Express Configuration, but you can [manage settings for groups](settings-intune-education.md#manage-settings-for-groups).
 
 ## Basic device settings
 

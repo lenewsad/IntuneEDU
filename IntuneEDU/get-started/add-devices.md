@@ -4,8 +4,8 @@
 title: Add devices  | Intune for Education | Microsoft Docs
 description:
 keywords:
-author: NathBarn
-ms.author: nathbarn
+author: barlanmsft
+ms.author: barlan
 manager: angrobe
 ms.date: 03/24/2017
 ms.topic: article
