@@ -39,7 +39,7 @@ Device settings apply to all devices in their group. Settings that are **Not con
 
 Subgroup settings overrule their parent group settings. For example, if a device belongs to the **All Students** group which has **Camera** set to **Not configured** and also belongs to the **Kindergarten** subgroup which has **Camera** set to **Block**, then the camera on devices in the **Kindergarten** group will be turned off.
 
-## Manage settings in Express setup
+## Manage settings in Express Configuration
 
 Use the following steps to manage simplified list of settings in Intune for Education:
 1. In the [Intune for Education](https://manage.windowsazure.com) console, click **Launch Express Configuration**. Review the **Welcome** page and click **Get started**.
@@ -57,7 +57,7 @@ Use the following steps to manage simplified list of settings in Intune for Educ
   Expand a category and toggle the control to modify settings, and then click **Next**.
 6. Review your choices and then click **Finish** to save your changes update them on devices in the selected group.
 
-### Manage settings for groups
+## Manage settings for groups
 
 Use the following steps to manage the full list of settings in Intune for Education:
 1. In the [Intune for Education](https://manage.windowsazure.com) console, in the left-side navigation menu, click **Groups**.

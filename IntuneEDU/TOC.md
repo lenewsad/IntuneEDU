@@ -21,7 +21,7 @@
 ### [Install apps](how-to/apps/install-apps.md)
 ## Use settings
 ### [What are settings?](how-to/settings/what-are-settings.md)
-### [Available settings](how-to/settings/available-what-are-settings.md)
+### [Available settings](how-to/settings/available-settings.md)
 
 # Monitor
 ## Groups
