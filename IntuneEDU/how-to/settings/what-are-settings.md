@@ -33,7 +33,7 @@ Any time you have a subgroup, it will naturally inherit from its parent group
 
 ## Manage settings
 
-Settings are managed on a per-group basis. You can manage the simple list of useful settings using [Express Configuration](#manage-settings-in-express-configuration) or view a full list of settings for a group for fine-tuning from [Groups management](#manage-settings-for-groups).
+Settings are managed on a per-group basis. You can manage the simple list of useful settings using [Express Configuration](available-settings.md#manage-settings-in-express-configuration) or view a full list of settings for a group for fine-tuning from [Groups management](available-settings.md#manage-settings-for-groups).
 
 Device settings apply to all devices in their group. Settings that are **Not configured** default to the settings made on the device. Intune for Education settings such as **Block** or **Allow** overrule the device’s settings. For example, if a device has a camera and that camera is enabled by default, but the group setting for that device has Camera set to **Block**, then the camera on the device will be turned off.
 
@@ -47,12 +47,12 @@ Use the following steps to manage simplified list of settings in Intune for Educ
 3. Select the group whose settings you want to manage, and then click **Next**.
 4. Review the list of apps, and then click **Next**.
 5. On the **Settings** page, expand the categories of available settings:
-  - [Basic device settings](what-are-settings.md#basic-device-settings)
-  - [Internet browser settings](what-are-settings.md#internet-browser-settings)
-  - [Device update settings](what-are-settings.md#device-update-settings)
-  - [Networking and connection settings](what-are-settings.md#networking-and-connectivity)
-  - [App settings](what-are-settings.md#app-settings)
-  - [Sign in settings](what-are-settings.md#sign-in-settings)
+  - [Basic device settings](available-settings.md#basic-device-settings)
+  - [Internet browser settings](available-settings.md#internet-browser-settings)
+  - [Device update settings](available-settings.md#device-update-settings)
+  - [Networking and connection settings](available-settings.md#networking-and-connectivity)
+  - [App settings](available-settings.md#app-settings)
+  - [Sign in settings](available-settings.md#sign-in-settings)
 
   Expand a category and toggle the control to modify settings, and then click **Next**.
 6. Review your choices and then click **Finish** to save your changes update them on devices in the selected group.
