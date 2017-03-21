@@ -1,7 +1,8 @@
 ---
 # required metadata
 
-title: Sync school data service  | Intune for Education | Microsoft Docs
+title: Sync school data with Azure AD  
+titleSuffix: Intune for Education
 description:
 keywords:
 author: barlanmsft
@@ -13,10 +14,22 @@ ms.prod:
 ms.service:
 ms.technology:
 ms.assetid: f9cb6daf-a789-427b-bbfd-fa0a3d36e01f
+searchScope:
+ - IntuneEDU
+
+ # optional metadata
+
+ #ROBOTS:
+ #audience:
+ #ms.devlang:
+ #ms.reviewer:
+ #ms.suite: ems
+ #ms.tgt_pltfrm:
+ #ms.custom:
 
 ---
 
-# Sync school data service with Azure Active Directory
+# Sync school data with Azure Active Directory
 
 You can use Microsoft's School Data Sync (SDS) to import school Student Information System (SIS) data with Intune for Education and Office 365 education aids.
 
@@ -31,7 +44,7 @@ You can import information into SDS by using one of the following:
 
 You can also sync your Active Directory data to Azure AD by using AD Connect. [Learn more about AD Connect](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnect).
 
-Find out more at [Microsoft School Data Sync](https://sds.microsoft.com/). 
+Find out more at [Microsoft School Data Sync](https://sds.microsoft.com/).
 
 
 

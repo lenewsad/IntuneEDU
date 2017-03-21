@@ -1,7 +1,8 @@
 ---
 # required metadata
 
-title: Express Configuration  | Intune for Education | Microsoft Docs
+title: Express Configuration
+titleSuffix: Intune for Education
 description:
 keywords:
 author: barlanmsft
@@ -13,6 +14,18 @@ ms.prod:
 ms.service:
 ms.technology:
 ms.assetid: af5d35ee-84f5-4245-a441-671600bcc376
+searchScope:
+ - IntuneEDU
+
+# optional metadata
+
+#ROBOTS:
+#audience:
+#ms.devlang:
+#ms.reviewer:
+#ms.suite: ems
+#ms.tgt_pltfrm:
+#ms.custom:
 
 ---
 

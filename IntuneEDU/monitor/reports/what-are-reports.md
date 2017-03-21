@@ -1,7 +1,8 @@
 ---
 # required metadata
 
-title: What are reports?  | Intune for Education | Microsoft Docs
+title: What are reports?  
+titleSuffix: Intune for Education
 description:
 keywords:
 author: barlanmsft
@@ -13,6 +14,18 @@ ms.prod:
 ms.service:
 ms.technology:
 ms.assetid: a5922c35-261c-43db-9c7b-c5c93af9cbec
+searchScope:
+- IntuneEDU
+
+# optional metadata
+
+#ROBOTS:
+#audience:
+#ms.devlang:
+ms.reviewer: tanmayb
+#ms.suite: ems
+#ms.tgt_pltfrm:
+#ms.custom:
 
 ---
 

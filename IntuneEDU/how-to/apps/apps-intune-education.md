@@ -1,7 +1,8 @@
 ---
 # required metadata
 
-title: What are apps?  | Intune for Education | Microsoft Docs
+title: What are apps?
+titleSuffix: Intune for Education
 description:
 keywords:
 author: barlanmsft
@@ -13,6 +14,18 @@ ms.prod:
 ms.service:
 ms.technology:
 ms.assetid: 93527826-b81e-4202-9eb5-2de9b1ee8132
+searchScope:
+- IntuneEDU
+
+# optional metadata
+
+#ROBOTS:
+#audience:
+#ms.devlang:
+#ms.reviewer:
+#ms.suite: ems
+#ms.tgt_pltfrm:
+#ms.custom:
 
 ---
 

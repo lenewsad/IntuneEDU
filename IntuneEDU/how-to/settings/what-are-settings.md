@@ -1,7 +1,8 @@
 ---
 # required metadata
 
-title: What are settings? | Intune for Education | Microsoft Docs
+title: What are settings?
+titleSuffix: Intune for Education
 description:
 keywords:
 author: barlanmsft
@@ -13,6 +14,19 @@ ms.prod:
 ms.service:
 ms.technology:
 ms.assetid: 91d004c0-8d06-4307-8868-46ac7b119101
+searchScope:
+- IntuneEDU
+
+# optional metadata
+
+#ROBOTS:
+#audience:
+#ms.devlang:
+ms.reviewer: tanmayb
+#ms.suite: ems
+#ms.tgt_pltfrm:
+#ms.custom:
+
 
 ---
 

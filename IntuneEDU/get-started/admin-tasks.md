@@ -1,7 +1,8 @@
 ---
 # required metadata
 
-title: Administrative tasks  | Intune for Education | Microsoft Docs
+title: Admin tasks
+titleSuffix: Intune for Education
 description:
 keywords:
 author: barlanmsft
@@ -13,12 +14,24 @@ ms.prod:
 ms.service:
 ms.technology:
 ms.assetid: 50bd115f-a167-456a-910d-8f31ec17a422
+searchScope:
+ - IntuneEDU
+
+# optional metadata
+
+#ROBOTS:
+#audience:
+#ms.devlang:
+#ms.reviewer:
+#ms.suite: ems
+#ms.tgt_pltfrm:
+#ms.custom:
 
 ---
 
-# Administrative tasks for Intune for Education
+# Admin tasks for Intune for Education
 
-Intune for Education  administrators can perform certain tasks to improve management.
+Intune for Education administrators can perform certain tasks to improve management.
 
 ## Settings
 Certain settings affect all users and devices you have under Intune management. Intune for Education refers to these as **tenant settings**. Only Intune for Education administrators can see or change these settings.

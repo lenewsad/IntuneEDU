@@ -1,7 +1,8 @@
 ---
 # required metadata
 
-title: Available settings  | Intune for Education | Microsoft Docs
+title: Available settings
+titleSuffix: Intune for Education
 description:
 keywords:
 author: barlanmsft
@@ -13,6 +14,18 @@ ms.prod:
 ms.service:
 ms.technology:
 ms.assetid: 2221009e-68cf-4171-8118-0d750b0f35f1
+searchScope:
+- IntuneEDU
+
+# optional metadata
+
+#ROBOTS:
+#audience:
+#ms.devlang:
+ms.reviewer: tanmayb
+#ms.suite: ems
+#ms.tgt_pltfrm:
+#ms.custom:
 
 ---
 

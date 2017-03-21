@@ -1,7 +1,8 @@
 ---
 # required metadata
 
-title: Add apps  | Intune for Education | Microsoft Docs
+title: Add apps 
+titleSuffix: Intune for Education
 description:
 keywords:
 author: barlanmsft
@@ -13,13 +14,15 @@ ms.prod:
 ms.service:
 ms.technology:
 ms.assetid: 24ab6547-aa65-428a-b184-06b806e95bd1
+searchScope:
+ - IntuneEDU
 
 # optional metadata
 
 #ROBOTS:
 #audience:
 #ms.devlang:
-ms.reviewer: tanmayb
+ms.reviewer:
 #ms.suite: ems
 #ms.tgt_pltfrm:
 #ms.custom:

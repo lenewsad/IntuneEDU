@@ -1,7 +1,8 @@
 ---
 # required metadata
 
-title: Why can't I move this group? | Intune for Education | Microsoft Docs
+title: Why can't I move this group?
+titleSuffix: Intune for Education
 description:
 keywords:
 author: barlanmsft
@@ -13,6 +14,18 @@ ms.prod:
 ms.service:
 ms.technology:
 ms.assetid: 4e34c493-2209-44d4-92c5-ce79f2b70e7d
+searchScope:
+- IntuneEDU
+
+# optional metadata
+
+#ROBOTS:
+#audience:
+#ms.devlang:
+ms.reviewer: tanmayb
+#ms.suite: ems
+#ms.tgt_pltfrm:
+#ms.custom:
 
 ---
 

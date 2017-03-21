@@ -1,7 +1,8 @@
 ---
 # required metadata
 
-title: Core concepts and key terms  | Intune for Education | Microsoft Docs
+title: Core concepts and key terms
+titleSuffix: Intune for Education
 description:
 keywords:
 author: barlanmsft
@@ -13,6 +14,8 @@ ms.prod:
 ms.service:
 ms.technology:
 ms.assetid: 166ef52f-e3d2-4b82-94b0-775e6cf40cf6
+searchScope:
+- IntuneEDU
 
 # optional metadata
 
@@ -37,6 +40,6 @@ ms.assetid: 166ef52f-e3d2-4b82-94b0-775e6cf40cf6
 ## Role-based access controls
 
 
-<!-- 
+<!--
 
 >[&larr; **Add apps**](.\add-apps.md)      [**Get Started** &rarr;](..\get-started\get-started.md) -->
