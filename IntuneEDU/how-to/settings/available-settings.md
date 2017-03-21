@@ -34,7 +34,7 @@ Intune for Education allows you to manage the following categories settings.:
 - [Email settings](#email-settings) (advanced)
 - [Edition upgrade](#edition-upgrade) (advanced)
 
-Settings marked **(advanced)** are not included in Express Configuration, but you can [manage settings for groups](settings-intune-education.md#manage-settings-for-groups).
+Settings marked **(advanced)** are not included in Express Configuration, but you can [manage settings for groups](what-are-settings.md#manage-settings-for-groups).
 
 ## Basic device settings
 

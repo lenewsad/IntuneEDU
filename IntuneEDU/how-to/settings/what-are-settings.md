@@ -47,12 +47,12 @@ Use the following steps to manage simplified list of settings in Intune for Educ
 3. Select the group whose settings you want to manage, and then click **Next**.
 4. Review the list of apps, and then click **Next**.
 5. On the **Settings** page, expand the categories of available settings:
-  - [Basic device settings](settings.md#basic-device-settings)
-  - [Internet browser settings](settings.md#internet-browser-settings)
-  - [Device update settings](settings.md#device-update-settings)
-  - [Networking and connection settings](settings.md#networking-and-connectivity)
-  - [App settings](settings.md#app-settings)
-  - [Sign in settings](settings.md#sign-in-settings)
+  - [Basic device settings](what-are-settings.md#basic-device-settings)
+  - [Internet browser settings](what-are-settings.md#internet-browser-settings)
+  - [Device update settings](what-are-settings.md#device-update-settings)
+  - [Networking and connection settings](what-are-settings.md#networking-and-connectivity)
+  - [App settings](what-are-settings.md#app-settings)
+  - [Sign in settings](what-are-settings.md#sign-in-settings)
 
   Expand a category and toggle the control to modify settings, and then click **Next**.
 6. Review your choices and then click **Finish** to save your changes update them on devices in the selected group.
@@ -61,7 +61,7 @@ Use the following steps to manage simplified list of settings in Intune for Educ
 
 Use the following steps to manage the full list of settings in Intune for Education:
 1. In the [Intune for Education](https://manage.windowsazure.com) console, in the left-side navigation menu, click **Groups**.
-2. Select the group whose settings you want to manage. For a complete list, see [Available settings](settings.md).
+2. Select the group whose settings you want to manage. For a complete list, see [Available settings](what-are-settings.md).
 3. Click **Settings** at the top of the page to view the full list of available settings.
 4. Expand categories and modify individual settings for the selected group.
 5. Click **Save** to save the changes for that group. Settings are automatically sent to devices in that group.
