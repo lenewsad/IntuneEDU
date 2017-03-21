@@ -81,6 +81,6 @@ Deleting a group removes the collection of apps and settings on the device. Dele
 2. Select the group you want to delete
 2.	Click **Delete group** either in the ellipses menu or task list.
 
->[!div class="step-by-step"]
+
 
 ><!-- [&larr; **Add apps**](.\add-apps.md)     [**Install apps** &rarr;](.\install-apps.md) -->

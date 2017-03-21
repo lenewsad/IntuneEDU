@@ -34,6 +34,6 @@ You can also sync your Active Directory data to Azure AD by using AD Connect. [L
 Find out more at [Microsoft School Data Sync](https://sds.microsoft.com/). 
 
 
->[!div class="step-by-step"]
+
 
 ><!-- [&larr; **Add apps**](.\add-apps.md)     [**Install apps** &rarr;](.\install-apps.md) -->

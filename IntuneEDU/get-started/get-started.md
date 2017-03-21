@@ -35,6 +35,6 @@ In addition to these setup steps, you can also perform the following administrat
 
 Read more about [administrative tasks for Intune for Education](admin-tasks.md).
 
->[!div class="step-by-step"]
+
 
 ><!-- [&larr; **Add apps**](.\add-apps.md)    [**Install apps** &rarr;](.\install-apps.md)  -->

@@ -57,6 +57,6 @@ This method lets you select an app and deploy it to one or more groups.
 4. From the list, select the groups you want to deploy the app.
 
 
->[!div class="step-by-step"]
+
 
 >[&larr; **Add apps**](.\add-apps.md)     <!-- [**Manage Intune licenses** &rarr;](.\start-with-a-paid-subscription-to-microsoft-intune-step-4.md)  -->

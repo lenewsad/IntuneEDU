@@ -58,6 +58,6 @@ To get started with Intune for Education, open the [Intune for Education console
 
 After you log in, you'll see our [Express Configuration](../get-started/express-configuration.md), a workspace to help get you up and running. There you can select a group containing students' or teachers' devices and start deploying apps and settings. We automatically add Intune for Education as a management tool to your Windows Store tenant and to Azure Active Directory (AD) to simplify getting started.
 
-<!-- >[!div class="step-by-step"]
+<!-- 
 
 >[&larr; **Add apps**](.\add-apps.md)      [**Get Started** &rarr;](..\get-started\get-started.md) -->

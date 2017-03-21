@@ -73,6 +73,6 @@ Apps that you own in Windows Store for Business are automatically available in I
 3. Intune for Education will be updated to show your purchase.  This might take up to 12 hours.
 4. You can now [install the app on devices](install-apps.md).
 
->[!div class="step-by-step"]
+
 
 ><!-- [&larr; **Add apps**](.\add-apps.md)      [**Install apps** &rarr;](.\install-apps.md) -->

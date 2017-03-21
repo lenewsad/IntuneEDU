@@ -37,6 +37,6 @@ ms.assetid: 166ef52f-e3d2-4b82-94b0-775e6cf40cf6
 ## Role-based access controls
 
 
-<!-- >[!div class="step-by-step"]
+<!-- 
 
 >[&larr; **Add apps**](.\add-apps.md)      [**Get Started** &rarr;](..\get-started\get-started.md) -->
