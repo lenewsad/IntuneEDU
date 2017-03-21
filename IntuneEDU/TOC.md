@@ -20,12 +20,12 @@
 ### [Add apps](how-to/apps/add-apps.md)
 ### [Install apps](how-to/apps/install-apps.md)
 ## Use settings
-### [What are settings?](how-to/settings/settings-intune-education.md)
-### [Available settings](how-to/settings/settings.md)
+### [What are settings?](how-to/settings/what-are-settings.md)
+### [Available settings](how-to/settings/available-settings.md)
 
 # Monitor
 ## Groups
-### [Manage groups](monitor/groups/groups-intune-education.md)
+### [What are groups?](monitor/groups/what-are-groups.md)
 ### [Why can't I move this group?](monitor/groups/why-cant-i-move-this-group.md)
 ## Reports
 ### [What are reports?](monitor/reports/what-are-reports.md)
