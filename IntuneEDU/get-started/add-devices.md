@@ -1,7 +1,8 @@
 ---
 # required metadata
 
-title: Add devices  | Intune for Education | Microsoft Docs
+title: Add devices
+titleSuffix: Intune for Education
 description:
 keywords:
 author: barlanmsft
@@ -13,6 +14,18 @@ ms.prod:
 ms.service:
 ms.technology:
 ms.assetid: c884df47-61a9-4799-a407-8cd311d376d1
+searchScope:
+ - IntuneEDU
+
+# optional metadata
+
+#ROBOTS:
+#audience:
+#ms.devlang:
+#ms.reviewer: 
+#ms.suite: ems
+#ms.tgt_pltfrm:
+#ms.custom:
 
 ---
 

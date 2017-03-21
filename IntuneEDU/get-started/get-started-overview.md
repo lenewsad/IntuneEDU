@@ -2,6 +2,7 @@
 # required metadata
 
 title: Get started  | Intune for Education | Microsoft Docs
+titleSuffix: Intune for Education
 description:
 keywords:
 author: barlanmsft
@@ -13,6 +14,18 @@ ms.prod:
 ms.service:
 ms.technology:
 ms.assetid: 9d0466c5-d69d-4b85-814a-76e63dd65e63
+searchScope:
+ - IntuneEDU
+
+# optional metadata
+
+#ROBOTS:
+#audience:
+#ms.devlang:
+#ms.reviewer:
+#ms.suite: ems
+#ms.tgt_pltfrm:
+#ms.custom:
 
 ---
 

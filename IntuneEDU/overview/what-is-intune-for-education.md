@@ -1,7 +1,8 @@
 ---
 # required metadata
 
-title: What is Intune for Education?  | Intune for Education | Microsoft Docs
+title: What is Intune for Education?
+titleSuffix: Intune for Education
 description:
 keywords:
 author: barlanmsft
@@ -13,6 +14,8 @@ ms.prod:
 ms.service:
 ms.technology:
 ms.assetid: c66e1700-aac0-44c0-af89-d5d9d4fac9ae
+searchScope:
+- IntuneEDU
 
 # optional metadata
 
