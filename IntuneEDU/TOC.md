@@ -29,4 +29,4 @@
 ### [Why can't I move this group?](monitor/groups/why-cant-i-move-this-group.md)
 ## Reports
 ### [What are reports?](monitor/reports/what-are-reports.md)
-## [Check Intune service health dashboard](monitor/reports/service-health.md)
+### [Service health dashboard](monitor/reports/service-health.md)
