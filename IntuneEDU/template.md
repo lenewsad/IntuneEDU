@@ -23,6 +23,6 @@ This docs.ms template contains examples of markdown syntax, as well as guidance 
 
 When creating a markdown file you shluld copy the template to a new file, fill out the metadata as specified below, set the H1 heading above to the title of the article, and delete the content.
 
->[!div class="step-by-step"]
+
 
 ><!-- [&larr; **Add apps**](.\add-apps.md)    [**Install apps** &rarr;](.\install-apps.md)  -->

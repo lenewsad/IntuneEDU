@@ -29,6 +29,6 @@ Intune for Education supports the following types of apps:
 - Windows Store for Business apps - Universal apps distributed from Microsoft
 <!-- - Win32 applications (example) -->
 
->[!div class="step-by-step"]
+
 
 <!-- >[&larr; **Add apps**](.\add-apps.md)   [**Manage Intune licenses** &rarr;](.\start-with-a-paid-subscription-to-microsoft-intune-step-4.md)  -->

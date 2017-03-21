@@ -24,6 +24,6 @@ Intune for Education provides a set of default groups when your tenant is create
 
 
 
->[!div class="step-by-step"]
+
 
 ><!-- [&larr; **Add apps**](.\add-apps.md)     [**Install apps** &rarr;](.\install-apps.md) -->

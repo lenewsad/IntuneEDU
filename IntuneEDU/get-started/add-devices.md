@@ -36,6 +36,6 @@ To bring Windows 10 devices into management by Intune for Education, do the foll
 
 Your device will authenticate with Azure AD and, after completing setup, the device will install your apps and settings.
 
->[!div class="step-by-step"]
+
 
 ><!-- [&larr; **Add apps**](.\add-apps.md)    [**Install apps** &rarr;](.\install-apps.md)  -->

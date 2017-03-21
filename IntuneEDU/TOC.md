@@ -1,27 +1,32 @@
 # [What is Intune for Education?](overview/what-is-intune-for-education.md)
+## [What's new](overview/whats-new-in-edu.md)
 ## [Core concepts](overview/core-concepts.md)
 
-# [Get Started](get-started/get-started.md)
+# [Get Started](get-started/get-started-overview.md)
 ## [Express Configuration](get-started/express-configuration.md)
+## [School Data Sync](get-started/what-is-school-data-sync.md)
 ## [Enroll devices](get-started/add-devices.md)
 ## [Admin tasks](get-started/admin-tasks.md)
+## [Acquiring Store apps](get-started/acquire-store-apps.md)
 
-# [Plan things out](plan/plan-overview.md)
-## [Using current school data](get-started/school-data-sync.md)
+# [Planning](plan/plan-overview.md)
+## [Using current school data](plan/using-school-data-sync.md)
 ## [Enrollment managers](plan/enrollment-managers.md)
 
-# [How to...](how-to/how-to-overview.md)
-## Apps
-### [What are apps?](apps/apps-intune-education.md)
-### [Add apps](apps/add-apps.md)
-### [Install apps](apps/install-apps.md)
-## Settings
-### [What are settings?](settings/settings-intune-education.md)
-### [Available settings](settings/settings.md)
+# How to
+## [Set up school data](how-to/sds/set-up-school-data-sync.md)
+## Use apps
+### [What are apps?](how-to/apps/apps-intune-education.md)
+### [Add apps](how-to/apps/add-apps.md)
+### [Install apps](how-to/apps/install-apps.md)
+## Use settings
+### [What are settings?](how-to/settings/what-are-settings.md)
+### [Available settings](how-to/settings/available-settings.md)
 
-# [Monitor]
+# Monitor
 ## Groups
-### [Manage groups](groups/groups-intune-education.md)
-### [Why can't I move this group?](groups/why-cant-i-move-this-group.md)
+### [What are groups?](monitor/groups/what-are-groups.md)
+### [Why can't I move this group?](monitor/groups/why-cant-i-move-this-group.md)
 ## Reports
-### [What are reports?](reports/reports-intune-education.md)
+### [What are reports?](monitor/reports/what-are-reports.md)
+## [Check Intune service health dashboard](monitor/reports/service-health.md)

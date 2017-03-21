@@ -42,6 +42,6 @@ The tenant administrator manages certificates. Certificate management is not ava
 
 Errors in the Intune for Education portal are reported in a notification tab at the top right of the Intune for Education console. An error message appear typically includes a description and an error code. To view a list of recent errors and notifications, click the bell icon at the top-right of the Intune for Education console.
 
->[!div class="step-by-step"]
+
 
 ><!-- [&larr; **Add apps**](.\add-apps.md)    [**Install apps** &rarr;](.\install-apps.md)  -->
