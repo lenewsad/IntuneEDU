@@ -9,23 +9,23 @@
 ## [Acquiring Store apps](get-started/acquire-store-apps.md)
 
 # [Planning](plan/plan-overview.md)
-## [Using current school data](get-started/school-data-sync.md)
+## [Using current school data](plan/school-data-sync.md)
 ## [Enrollment managers](plan/enrollment-managers.md)
 
 # How to
 ## [Set up school data](how-to/set-up-sds.md)
 ## Use apps
-### [What are apps?](apps/apps-intune-education.md)
-### [Add apps](apps/add-apps.md)
-### [Install apps](apps/install-apps.md)
+### [What are apps?](how-to/apps/apps-intune-education.md)
+### [Add apps](how-to/apps/add-apps.md)
+### [Install apps](how-to/apps/install-apps.md)
 ## Use settings
-### [What are settings?](settings/settings-intune-education.md)
-### [Available settings](settings/settings.md)
+### [What are settings?](how-to/settings/settings-intune-education.md)
+### [Available settings](how-to/settings/settings.md)
 
 # Monitor
 ## Groups
-### [Manage groups](groups/groups-intune-education.md)
-### [Why can't I move this group?](groups/why-cant-i-move-this-group.md)
+### [Manage groups](monitor/groups/groups-intune-education.md)
+### [Why can't I move this group?](monitor/groups/why-cant-i-move-this-group.md)
 ## Reports
-### [What are reports?](reports/reports-intune-education.md)
-## [Check Intune service health dashboard](reports/service-health.md)
+### [What are reports?](monitor/reports/reports-intune-education.md)
+## [Check Intune service health dashboard](monitor/reports/service-health.md)
