@@ -30,6 +30,7 @@ searchScope:
 ---
 
 # Use apps in Intune for Education
+<!---Linda: the title and the H1 are rather different, and so is the file name. What's the customer intent of this topic? --->
 
 Intune for Education helps you manage the apps that students use on your devices. App management allows you to do the following:
 - [Add apps](add-apps.md)
