@@ -3,7 +3,7 @@
 
 title: Sync school data with Azure AD  
 titleSuffix: Intune for Education
-description: You need a description
+description: Use School Data Sync to import school groups and people into Azure AD.
 keywords:
 author: barlanmsft
 ms.author: barlan
