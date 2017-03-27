@@ -1,7 +1,7 @@
 ---
 # required metadata
 
-title: What is Intune for Education?
+title: What is Intune for Education? 
 titleSuffix: Intune for Education
 description:
 keywords:
@@ -31,7 +31,7 @@ searchScope:
 
 # What is Intune for Education?
 
-Microsoft Intune for Education is a cloud-based device and app management service that can be used to quickly configure and manage Windows 10 devices for schools and other learning environments. Intune for Education is designed for schools who want to put devices in classrooms and not touch them for the rest of the school year. It makes it easy for professional IT admins, or teachers acting as IT for their classroom, to get up-and-running in minutes with Windows 10 devices.
+Microsoft Intune for Education is a cloud-based device and app management service that can be used to quickly configure and manage Windows 10 devices for schools and other learning environments. Intune for Education is designed for schools who want to put devices in classrooms and not touch them for the rest of the school year. It makes it easy for professional IT admins, or teachers acting as IT for their classroom, to get up-and-running in minutes with Windows 10 devices. It uses a subscription plan to let users increase or decrease the number of devices under management.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ukrnCwcLvV8" frameborder="0" allowfullscreen></iframe>
 
