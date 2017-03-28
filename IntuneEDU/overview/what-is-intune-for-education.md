@@ -39,7 +39,7 @@ Microsoft Intune for Education is a cloud-based device and app management servic
 - Save teachers' time when using shared and individual Windows 10 devices
 - Improve student learning outcomes through connected classrooms and engaging new technologies
 - Integrate with [existing Student Information Systems](../get-started/what-is-school-data-sync.md)
-<!-- - Optimize devices for testing -->
+- Optimize devices for testing
 
 Intune for Education works closely with Azure Active Directory (Azure AD), Microsoft School Data Sync, and Office 365 to simplify device management.
 
