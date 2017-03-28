@@ -16,7 +16,7 @@
 # How to
 ## [Set up school data](how-to/sds/set-up-school-data-sync.md)
 ## Use apps
-### [What are apps?](how-to/apps/apps-intune-education.md)
+### [What are apps?](how-to/apps/what-are-apps.md)
 ### [Add apps](how-to/apps/add-apps.md)
 ### [Install apps](how-to/apps/install-apps.md)
 ## Use settings
