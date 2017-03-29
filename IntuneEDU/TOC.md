@@ -1,32 +1,32 @@
-# [What is Intune for Education?](overview/what-is-intune-for-education.md)
-## [What's new](overview/whats-new-in-edu.md)
-## [Core concepts](overview/core-concepts.md)
+# [What is Intune for Education?](what-is-intune-for-education.md)
+## [What's new](whats-new-in-edu.md)
+## [Core concepts](core-concepts.md)
 
-# [Get Started](get-started/get-started-overview.md)
-## [Express Configuration](get-started/express-configuration.md)
-## [School Data Sync](get-started/what-is-school-data-sync.md)
-## [Enroll devices](get-started/add-devices.md)
-## [Admin tasks](get-started/admin-tasks.md)
-## [Acquiring Store apps](get-started/acquire-store-apps.md)
+# [Get Started](get-started-overview.md)
+## [Express Configuration](express-configuration.md)
+## [School Data Sync](what-is-school-data-sync.md)
+## [Enroll devices](add-devices.md)
+## [Admin tasks](admin-tasks.md)
+## [Acquiring Store apps](acquire-store-apps.md)
 
-# [Planning](plan/plan-overview.md)
-## [Using current school data](plan/using-school-data-sync.md)
-## [Enrollment managers](plan/enrollment-managers.md)
+# [Planning](plan-overview.md)
+## [Using current school data](using-school-data-sync.md)
+## [Enrollment managers](enrollment-managers.md)
 
 # How to
-## [Set up school data](how-to/sds/set-up-school-data-sync.md)
+## [Set up school data](set-up-school-data-sync.md)
 ## Use apps
-### [What are apps?](how-to/apps/what-are-apps.md)
-### [Add apps](how-to/apps/add-apps.md)
-### [Install apps](how-to/apps/install-apps.md)
+### [What are apps?](what-are-apps.md)
+### [Add apps](add-apps.md)
+### [Install apps](install-apps.md)
 ## Use settings
-### [What are settings?](how-to/settings/what-are-settings.md)
-### [Available settings](how-to/settings/available-settings.md)
+### [What are settings?](what-are-settings.md)
+### [Available settings](available-settings.md)
 
 # Monitor
 ## Groups
-### [What are groups?](monitor/groups/what-are-groups.md)
-### [Why can't I move this group?](monitor/groups/why-cant-i-move-this-group.md)
+### [What are groups?](what-are-groups.md)
+### [Why can't I move this group?](why-cant-i-move-this-group.md)
 ## Reports
-### [What are reports?](monitor/reports/what-are-reports.md)
-### [Service health dashboard](monitor/reports/service-health.md)
+### [What are reports?](what-are-reports.md)
+### [Service health dashboard](service-health.md)

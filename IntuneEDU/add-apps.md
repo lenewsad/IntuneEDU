@@ -1,7 +1,7 @@
 ---
 # required metadata
 
-title: Add apps 
+title: Add apps
 titleSuffix: Intune for Education
 description:
 keywords:
@@ -38,7 +38,7 @@ Intune for Education supports the following types of applications:
 - Windows Store for Business apps - Universal apps distributed from Microsoft
 <!-- - Win32 applications (example) -->
 
-After you add apps, you can then [intall apps](install-apps.md) on groups of devices.
+After you add apps, you can then [install apps](install-apps.md) on groups of devices.
 
 ## Popular apps
 

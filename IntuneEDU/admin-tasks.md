@@ -38,14 +38,14 @@ Certain settings affect all users and devices you have under Intune management. 
 
 To manage these settings, click **Tenant settings** in the left-side navigation bar in the [Intune for Education](https://manage.windowsazure.com) console.
 
-  ![Screenshot of the "Tenant Settings" option in Intune for Education console](../media/edu-tenant-settings.png)
+  ![Screenshot of the "Tenant Settings" option in Intune for Education console](/media/edu-tenant-settings.png)
 
 As an administrator, you can perform the following tenant-wide tasks:
 -	Force a sync between Intune and Windows Store for Business
 -	Manage IT contact information
 -	Manage settings for support website information
 
-![Screenshot of the "Tenant Settings" option in Intune for Education console showing school, support website, and other information. ](../media/tenant-settings.png)
+![Screenshot of the "Tenant Settings" option in Intune for Education console showing school, support website, and other information. ](/media/tenant-settings.png)
 
 ## Certificate management
 
