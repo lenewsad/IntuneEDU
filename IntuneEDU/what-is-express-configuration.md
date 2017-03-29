@@ -33,7 +33,7 @@ searchScope:
 
 Express Configuration is the one of the most prominent tiles that you see when you first sign in to Intune for Education.
 
-  ![The Express Configuration tile, which says Launch Express Configuration - Click here to choose apps and settings for a group.](./media/express-config-001-launch-tile)
+  ![The Express Configuration tile, which says Launch Express Configuration - Click here to choose apps and settings for a group.](./media/express-config-001-launch-tile.png)
 
 Express Configuration helps you quickly provide a group of users the apps and settings they need. It's not something that you're limited to just using once; you can use it anytime you want to make changes to any group you manage. We’ve chosen some apps and default settings that we think you’ll find useful. You can change these choices to fit your needs.
 
