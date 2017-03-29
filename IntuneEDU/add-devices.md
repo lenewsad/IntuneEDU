@@ -41,10 +41,10 @@ Once you have Intune for Education set up with your school information and the a
 To bring Windows 10 devices into management by Intune for Education, do the following:
 1. After purchasing Microsoft Education Suite (not sure about product name yet), power on your new Windows 10 device and get started with Windows setup. When you reach the **Who owns this PC?** screen, select **My work or school owns it**.
 
-  ![Screenshot of the "Who owns this PC?" screen in Windows setup](../media/who-owns-this-pc.png)
+  ![Screenshot of the "Who owns this PC?" screen in Windows setup](/media/who-owns-this-pc.png)
 2. On the **Choose how you'll connect** screen, select **Join Azure AD**.
 
-  ![Screenshot of the "Choose how you connect" screen in Windows setup](../media/how-you-connect-pc.png)
+  ![Screenshot of the "Choose how you connect" screen in Windows setup](/media/how-you-connect-pc.png)
 3. Enter account credentials for the Intune administrator or **other permissioned enrollment user** and click **Next**.
 
 Your device will authenticate with Azure AD and, after completing setup, the device will install your apps and settings.
