@@ -59,7 +59,7 @@ Intune for Education manages multiple users on a single device. With Intune for 
 
 To get started with Intune for Education, open the [Intune for Education console](https://manage.windowsazure.com) and login with your school credentials. You will see a special version of the Azure management portal where you can access Intune for Education.  No need to worry about virtual machines, Azure networking, or other Azure capabilities. Our goal is to make it simple for you to take care of your critical tasks.
 
-After you log in, you'll see our [Express Configuration](express-configuration.md), a workspace to help get you up and running. There you can select a group containing students' or teachers' devices and start deploying apps and settings. We automatically add Intune for Education as a management tool to your Windows Store tenant and to Azure Active Directory (AD) to simplify getting started.
+After you log in, you'll see our [Express Configuration](what-is-express-configuration.md), a workspace to help get you up and running. There you can select a group containing students' or teachers' devices and start deploying apps and settings. We automatically add Intune for Education as a management tool to your Windows Store tenant and to Azure Active Directory (AD) to simplify getting started.
 
 <!--
 
