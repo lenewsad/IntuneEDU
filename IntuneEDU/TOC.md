@@ -11,7 +11,7 @@
 
 # [Planning](plan-overview.md)
 ## [Using current school data](using-school-data-sync.md)
-## [Enrollment managers](enrollment-managers.md)
+## [What are enrollment managers?](what-are-enrollment-managers.md)
 
 # How to
 ## [Set up school data](set-up-school-data-sync.md)

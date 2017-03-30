@@ -1,7 +1,7 @@
 ---
 # required metadata
 
-title: Enrollment managers
+title: Where are my apps?
 titleSuffix: Intune for Education
 description:
 keywords:
@@ -13,7 +13,7 @@ ms.topic: article
 ms.prod:
 ms.service:
 ms.technology:
-ms.assetid: b496bc02-714e-4391-b533-4c9bdcf57483
+ms.assetid: 
 searchScope:
 - IntuneEDU
 
@@ -29,4 +29,5 @@ searchScope:
 
 ---
 
-# Using enrollment managers in Intune for Education
+# What's New in Intune for Education
+Learn what’s new in this release of Intune for Education. You can also find out about upcoming changes that you should be planning for, as well as information about past releases.
