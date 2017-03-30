@@ -115,20 +115,20 @@ You can install desktop apps through the same interface on the **Apps** page. Th
 
 You can install popular educational apps with a single click. Our goal is to make it easy for you to find and install your favorite apps for your users. We recommend these apps because they are frequently useful to educators. You can find these apps in Express Configuration, or under the **Manage apps** tile.
 
-  ![A selection of popular apps during the add apps process in Express Configuration.](./media/apps-005-popular-apps.png)
+  ![A selection of popular apps during the add apps process in Express Configuration.](./media/apps-007-popular-apps.png)
 
 The Intune for Education portal shows the top 12 educational web apps and top 12 educational Windows Store for Business apps that you haven’t added under **Apps** management.
 
 1. In the [Intune for Education](https://intuneeducation.portal.azure.com) console, choose  **Manage Apps** > **Add apps** > **Quick add popular apps**. A list of **Web apps** and **Windows Store apps** is displayed.
 
-  ![The quick add popular apps screen.](./media/apps-006-add-popular-apps.png)
+  ![The quick add popular apps screen.](./media/apps-008-add-popular-apps.png)
 
 2. Select the apps you want to add, then choose **Add apps**.
 
-  ![Selecting multiple popular apps to add to the portal.](./media/apps-007-select-multiple-popular-apps.png)
+  ![Selecting multiple popular apps to add to the portal.](./media/apps-009-select-multiple-popular-apps.png)
 
 3. Your apps will add in the background and appear in the left hand sidebar when ready.
 
-  ![Your apps are being added screen.](./media/apps-008-your-popular-apps-are-being-added.png)
+  ![Your apps are being added screen.](./media/apps-010-your-popular-apps-are-being-added.png)
 
 ><!-- [&larr; **Add apps**](.\add-apps.md)      [**Install apps** &rarr;](.\install-apps.md) -->
