@@ -83,6 +83,8 @@ Apps that you've acquired from the Windows Store for Business are automatically 
 
 4. You can now [install the app on devices](install-apps.md).
 
+## Add desktop apps 
+
 ## Add popular apps
 
 You can install popular educational apps with a single click. Our goal is to make it easy for you to find and install your favorite apps for your users. We recommend these apps because they are frequently useful to educators. You can find these apps in Express Configuration, or under the **Manage apps** tile.
