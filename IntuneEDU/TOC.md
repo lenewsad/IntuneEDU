@@ -3,7 +3,7 @@
 ## [Core concepts](core-concepts.md)
 
 # [Get Started](get-started-overview.md)
-## [Express Configuration](express-configuration.md)
+## [What is Express Configuration?](what-is-express-configuration.md)
 ## [School Data Sync](what-is-school-data-sync.md)
 ## [Enroll devices](add-devices.md)
 ## [Admin tasks](admin-tasks.md)
