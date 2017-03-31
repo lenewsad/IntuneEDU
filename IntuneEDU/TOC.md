@@ -2,7 +2,7 @@
 ## [What's new](whats-new-in-edu.md)
 ## [Core concepts](core-concepts.md)
 
-# [Get Started](get-started-overview.md)
+# [Get Started](get-started-with-intune-edu.md)
 ## [What is Express Configuration?](what-is-express-configuration.md)
 ## [School Data Sync](what-is-school-data-sync.md)
 ## [Enroll devices](add-devices.md)
