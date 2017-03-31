@@ -29,7 +29,7 @@ searchScope:
 
 ---
 
-# Add devices to Intune for Education
+# How do I add devices to Intune for Education?
 
 After you've set up Intune for Education with your information - such as student records, apps, and settings for devices - you need to connect the devices to Intune for Education to transfer that information to them. You can do this as part of the setup experience for new Windows 10 devices.
 

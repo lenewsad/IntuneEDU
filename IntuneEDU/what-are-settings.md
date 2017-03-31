@@ -56,7 +56,7 @@ Subgroup settings overrule their parent group settings. For example, if a device
 ## Manage settings in Express Configuration
 
 Use the following steps to manage simplified list of settings in Intune for Education:
-1. In the [Intune for Education](https://manage.windowsazure.com) console, click **Launch Express Configuration**. Review the **Welcome** page and click **Get started**.
+1. In the [Intune for Education](https://intuneeducation.portal.azure.com) console, click **Launch Express Configuration**. Review the **Welcome** page and click **Get started**.
 2. Review the **Get school information** page. If you've already added school information, and then click **Next**.
 3. Select the group whose settings you want to manage, and then click **Next**.
 4. Review the list of apps, and then click **Next**.
@@ -74,7 +74,7 @@ Use the following steps to manage simplified list of settings in Intune for Educ
 ## Manage settings for groups
 
 Use the following steps to manage the full list of settings in Intune for Education:
-1. In the [Intune for Education](https://manage.windowsazure.com) console, in the left-side navigation menu, click **Groups**.
+1. In the [Intune for Education](https://intuneeducation.portal.azure.com) console, in the left-side navigation menu, click **Groups**.
 2. Select the group whose settings you want to manage. For a complete list, see [Available settings](what-are-settings.md).
 3. Click **Settings** at the top of the page to view the full list of available settings.
 4. Expand categories and modify individual settings for the selected group.

@@ -29,7 +29,7 @@ searchScope:
 
 ---
 
-## Add Windows Store for Business apps
+## How do I acquire apps from the Windows Store for Business?
 
 Apps that you've acquired from the Windows Store for Business are automatically available in Intune for Education. Any time you make changes to your app ownership, such as buying new apps or revoking purchases, that change is reflected in Intune for Education.
 

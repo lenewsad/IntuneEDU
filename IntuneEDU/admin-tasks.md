@@ -31,16 +31,16 @@ searchScope:
 
 # Admin tasks for Intune for Education
 
-Intune for Education administrators can perform certain tasks to improve management.
+Intune for Education admins can perform certain tasks to improve management.
 
 ## Settings
-Certain settings affect all users and devices you have under Intune management. Intune for Education refers to these as **tenant settings**. Only Intune for Education administrators can see or change these settings.
+Certain settings affect all users and devices you have under Intune management. Intune for Education refers to these as **tenant settings**. Only Intune for Education admins can see or change these settings.
 
-To manage these settings, click **Tenant settings** in the left-side navigation bar in the [Intune for Education](https://manage.windowsazure.com) console.
+To manage these settings, click **Tenant settings** in the left-side navigation bar in the [Intune for Education](https://intuneeducation.portal.azure.com) console.
 
   ![Screenshot of the "Tenant Settings" option in Intune for Education console](/media/edu-tenant-settings.png)
 
-As an administrator, you can perform the following tenant-wide tasks:
+As an admin, you can perform the following tenant-wide tasks:
 -	Force a sync between Intune and Windows Store for Business
 -	Manage IT contact information
 -	Manage settings for support website information
@@ -49,7 +49,7 @@ As an administrator, you can perform the following tenant-wide tasks:
 
 ## Certificate management
 
-The tenant administrator manages certificates. Certificate management is not available from the Intune for Education portal. Use the enterprise Intune portal. For more information about certificate management in the enterprise Intune portal, see [Secure resource access with certificate profiles in Microsoft Intune])https://docs.microsoft.com/intune/deploy-use/secure-resource-access-with-certificate-profiles.
+The tenant admin manages certificates. Certificate management is not available from the Intune for Education portal. Use the enterprise Intune portal. For more information about certificate management in the enterprise Intune portal, see [Secure resource access with certificate profiles in Microsoft Intune])https://docs.microsoft.com/intune/deploy-use/secure-resource-access-with-certificate-profiles.
 
 ## Troubleshooting
 
