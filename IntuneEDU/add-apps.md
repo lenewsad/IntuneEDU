@@ -29,7 +29,7 @@ ms.reviewer:
 
 ---
 
-# Add apps in Intune for Education
+# How do I add apps to Intune for Education?
 
 Before you can install apps to your school's devices with Intune for Education, those apps must be added to your Intune for Education account.
 
@@ -62,31 +62,6 @@ You can assign web apps as links in the Start menu of Windows 10 devices using I
 
 You can edit the app at any time by choosing **Edit**, which re-opens its details page.
 
-## Add Windows Store for Business apps
-
-Apps that you've acquired from the Windows Store for Business are automatically available in Intune for Education. Any time you make changes to your app ownership, such as buying new apps or revoking purchases, that change is reflected in Intune for Education.
-
-1. In the [Intune for Education](https://intuneeducation.portal.azure.com) console, choose **Apps**.
-
-2. Under **Windows Store apps**, select **+ New app** to open your Windows Store for Business account. You can search for apps that you want to add using the search bar at the top right corner of the screen.
-
-> [!NOTE]
-> If you have not added Intune for Education as a management tool, you will need to [activate it before you can take any actions](https://technet.microsoft.com/itpro/windows/manage/apps-in-windows-store-for-business#licensing-model).
-
-  ![The search screen in the Windows Store for Business, showing two results for the search term 'Socrative', one for the Socrative app and the other for the Socrative Student app.](./media/apps-002-search-for-wsfb-app.png)
-
-  After you find it, go ahead and acquire the required number of licenses for the app. Unlimited licenses are the standard for all free apps.
-
-  ![The Socrative app screen in the Windows Store for Business.](./media/apps-003-get-wsfb-app.png)
-
-  Once you've acquired the licenses, you'll see a confirmation message that lets you know you've acquired the app.
-
-3. Intune for Education will update to show your purchase in the list of **Windows Store apps**. This could take up to 12 hours, but usually is complete within a couple of minutes.
-
-  ![The sidebar of the apps page, which shows the Socrative app successfully added to the list of Windows Store apps.](./media/apps-004-sidebar-list-of-wsfb-apps.png)
-
-4. You can now [install the app on devices](install-apps.md).
-
 ## Add desktop apps
 
 You can install desktop apps through the same interface on the **Apps** page. This process is similar to installing a web app, but involves the install file that web apps don't require.
@@ -108,7 +83,7 @@ You can install desktop apps through the same interface on the **Apps** page. Th
 
 4. The app will then upload to Intune for Education. Once the upload is complete, you can [install the app on devices](install-apps.md).
 
-> [!Note]
+> [!NOTE]
 > Sometimes you may run into an error that says "The app doesn't have an install file" or "No app installation file was added". This means that the file didn't upload properly. Try to save and upload the file again to fix this error.
 
 ## Add popular apps
@@ -118,6 +93,9 @@ You can install popular educational apps with a single click. Our goal is to mak
   ![A selection of popular apps during the add apps process in Express Configuration.](./media/apps-007-popular-apps.png)
 
 The Intune for Education portal shows the top 12 educational web apps and top 12 educational Windows Store for Business apps that you haven’t added under **Apps** management.
+
+> [!TIP]
+> If you haven't set up your Windows Store for Business account to add apps to Intune for Education, you can find out how to do that [here](acquire-store-apps.md).
 
 1. In the [Intune for Education](https://intuneeducation.portal.azure.com) console, choose  **Manage Apps** > **Add apps** > **Quick add popular apps**. A list of **Web apps** and **Windows Store apps** is displayed.
 
