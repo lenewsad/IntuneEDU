@@ -3,7 +3,7 @@
 
 title: What is Intune for Education?
 titleSuffix: Intune for Education
-description:
+description: Learn about Intune for Education and how it can make managing school devices easier.
 keywords:
 author: barlanmsft
 ms.author: barlan
@@ -22,7 +22,7 @@ searchScope:
 #ROBOTS:
 #audience:
 #ms.devlang:
-#ms.reviewer: [ALIAS]
+#ms.reviewer: lindavr
 #ms.suite: ems
 #ms.tgt_pltfrm:
 #ms.custom:
@@ -31,35 +31,36 @@ searchScope:
 
 # What is Intune for Education?
 
-Microsoft Intune for Education is a cloud-based device and app management service that can be used to quickly configure and manage Windows 10 devices for schools and other learning environments. Intune for Education is designed for schools who want to put devices in classrooms and not touch them for the rest of the school year. It makes it easy for professional IT admins, or teachers acting as IT for their classroom, to get up-and-running in minutes with Windows 10 devices. It uses a subscription plan to let users increase or decrease the number of devices under management.
+Microsoft Intune for Education is a device and app management software-as-a-service that you can use to quickly configure and manage Windows 10 devices for schools and other learning environments. Intune for Education is produced to make it easier to manage devices for users with less exposure to traditional IT scenarios, or for IT professionals who want a streamlined workflow for common tasks. It is accessible through our administrative console, a web portal that is designed to make it possible for everyone, from professional IT admins, to part-time IT support, to teachers trying to use IT in the classroom to get devices up and running in minutes.
+
+Intune for Education is a subscription service, and can be used on its own or alongside the rest of the [Microsoft Education System](https://microsoft.com/education) such as [Minecraft Education Edition](https://education.minecraft.net/support/faq), [Learning Tools](https://www.onenote.com/learningtools), and [Windows Ink](https://www.microsoft.com/education/educators/digital-ink/default.aspx).
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ukrnCwcLvV8" frameborder="0" allowfullscreen></iframe>
 
  With Intune for Education, you can:
 - Save teachers' time when using shared and individual Windows 10 devices
 - Improve student learning outcomes through connected classrooms and engaging new technologies
-- Integrate with [existing Student Information Systems](what-is-school-data-sync.md)
+- Integrate with [existing Student Information Systems](../get-started/what-is-school-data-sync.md)
 - Optimize devices for testing
 
-Intune for Education works closely with Azure Active Directory (Azure AD), Microsoft School Data Sync, and Office 365 to simplify device management.
+Intune for Education works closely with [Azure Active Directory (Azure AD)](https://docs.microsoft.com/azure/active-directory/active-directory-administer), [Microsoft School Data Sync](https://sds.microsoft.com), and [Office 365 Education](https://support.office.com/article/Get-started-with-Office-365-Education-AB02ABE5-A1EE-458C-B749-5B44416CCF14) to simplify device management. Intune for Education simplifies this by getting automatically added as a management tool to your Azure AD and Windows Store tenants.
 
 ## How is Intune for Education different from Microsoft Intune?
-Intune for Education is designed to meet the specific needs of schools and school districts, . The table below helps identify which version of Intune to use:
+Intune for Education is designed to meet the specific needs of schools and school districts. Intune for Education currently lets you manage Windows 10 devices with MDM capabilities. The general version Intune can manage additional platforms, such as iOS and Android, and can access a different set of rules than Intune for Education. Intune for Education has a selection of all policies available in Intune.
 
-| Intune for Education         | Intune           |
-| ------------- |-------------|
-|- Exclusively Windows 10 devices<br>- Basic Intune capabilities (no VPN, EDP, etc.)   |-  Non-Windows 10 devices (i.e. iOS or Android)</br>- Advanced management needs |
+> ![Note]
+> You are also able to [access the full set of Intune management controls](https://docs.microsoft.com/intune-azure) as part of your access to Intune for Education.
 
 ## Will Intune for Education work for shared devices?
-Intune for Education manages multiple users on a single device. With Intune for Education, when users sharing a device have different apps and settings targeted to them, the user who is logged on sees only the apps and settings setup for them.
-
-<!-- Intune for Education integrates with other products in the Microsoft Education system. To learn more about our other products see <pending>. -->
+Intune for Education manages multiple users on a single device. When users who share a device have different apps and settings targeted to them, the user who is signed in sees only the apps and settings set up for them.
 
 ## Get started with Intune for Education
 
-To get started with Intune for Education, open the [Intune for Education console](https://manage.windowsazure.com) and login with your school credentials. You will see a special version of the Azure management portal where you can access Intune for Education.  No need to worry about virtual machines, Azure networking, or other Azure capabilities. Our goal is to make it simple for you to take care of your critical tasks.
+To get started with Intune for Education, open the [Intune for Education console](https://intuneeducation.portal.azure.com) and sign in with your school credentials. You will see the Intune for Education portal where you can access Intune for Education.
 
-After you log in, you'll see our [Express Configuration](what-is-express-configuration.md), a workspace to help get you up and running. There you can select a group containing students' or teachers' devices and start deploying apps and settings. We automatically add Intune for Education as a management tool to your Windows Store tenant and to Azure Active Directory (AD) to simplify getting started.
+![A screenshot of the landing page once logged in to Intune for Education.](https://microsoft.com)
+
+After you sign in, start with [Express Configuration](../get-started/express-configuration.md). There you can select a group containing people (such as students or teachers) or devices (such as _Upstairs Computer Lab_ or _11th Grade AP Computer Science_) and start assigning apps and settings to them.
 
 <!--
 
