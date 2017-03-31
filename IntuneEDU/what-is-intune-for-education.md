@@ -48,7 +48,7 @@ Intune for Education works closely with [Azure Active Directory (Azure AD)](http
 ## How is Intune for Education different from Microsoft Intune?
 Intune for Education is designed to meet the specific needs of schools and school districts. Intune for Education currently lets you manage Windows 10 devices with MDM capabilities. The general version Intune can manage additional platforms, such as iOS and Android, and can access a different set of rules than Intune for Education. Intune for Education has a selection of all policies available in Intune.
 
-> ![Note]
+> ![NOTE]
 > You are also able to [access the full set of Intune management controls](https://docs.microsoft.com/intune-azure) as part of your access to Intune for Education.
 
 ## Will Intune for Education work for shared devices?

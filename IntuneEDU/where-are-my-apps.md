@@ -13,7 +13,7 @@ ms.topic: article
 ms.prod:
 ms.service:
 ms.technology:
-ms.assetid: 
+ms.assetid:
 searchScope:
 - IntuneEDU
 
@@ -29,5 +29,5 @@ searchScope:
 
 ---
 
-# What's New in Intune for Education
+# Where are my apps? 
 Learn what’s new in this release of Intune for Education. You can also find out about upcoming changes that you should be planning for, as well as information about past releases.

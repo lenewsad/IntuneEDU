@@ -70,7 +70,7 @@ Apps that you've acquired from the Windows Store for Business are automatically 
 
 2. Under **Windows Store apps**, select **+ New app** to open your Windows Store for Business account. You can search for apps that you want to add using the search bar at the top right corner of the screen.
 
-> [!Note]
+> [!NOTE]
 > If you have not added Intune for Education as a management tool, you will need to [activate it before you can take any actions](https://technet.microsoft.com/itpro/windows/manage/apps-in-windows-store-for-business#licensing-model).
 
   ![The search screen in the Windows Store for Business, showing two results for the search term 'Socrative', one for the Socrative app and the other for the Socrative Student app.](./media/apps-002-search-for-wsfb-app.png)
