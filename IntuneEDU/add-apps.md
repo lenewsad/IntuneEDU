@@ -35,7 +35,7 @@ Before you can install apps to your school's devices with Intune for Education, 
 
 Intune for Education supports the following types of apps:
 - Web apps, such as [Microsoft Word Online](https://office.live.com/start/Word.aspx)
-- Windows Store for Business apps, which are any [Universal apps distributed through the Store](https://technet.microsoft.com/itpro/windows/manage/apps-in-windows-store-for-business)
+- Microsoft Store for Business apps, which are any [Universal apps distributed through the Store](https://technet.microsoft.com/itpro/windows/manage/apps-in-windows-store-for-business)
 - Desktop (Win32) apps, such as [standalone Microsoft Office](https://products.office.com/products)
 
 After you add apps, you can [install the apps](install-apps.md) on groups of devices.
@@ -92,10 +92,10 @@ You can install popular educational apps with a single click. Our goal is to mak
 
   ![A selection of popular apps during the add apps process in Express Configuration.](./media/apps-007-popular-apps.png)
 
-The Intune for Education portal shows the top 12 educational web apps and top 12 educational Windows Store for Business apps that you haven’t added under **Apps** management.
+The Intune for Education portal shows the top 12 educational web apps and top 12 educational Microsoft Store for Business apps that you haven’t added under **Apps** management.
 
 > [!TIP]
-> If you haven't set up your Windows Store for Business account to add apps to Intune for Education, you can find out how to do that [here](acquire-store-apps.md).
+> If you haven't set up your Microsoft Store for Business account to add apps to Intune for Education, you can find out how to do that [here](acquire-store-apps.md).
 
 1. In the [Intune for Education](https://intuneeducation.portal.azure.com) console, choose  **Manage Apps** > **Add apps** > **Quick add popular apps**. A list of **Web apps** and **Windows Store apps** is displayed.
 

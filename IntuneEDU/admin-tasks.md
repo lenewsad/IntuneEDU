@@ -41,7 +41,7 @@ To manage these settings, click **Tenant settings** in the left-side navigation 
   ![Screenshot of the "Tenant Settings" option in Intune for Education console](/media/edu-tenant-settings.png)
 
 As an admin, you can perform the following tenant-wide tasks:
--	Force a sync between Intune and Windows Store for Business
+-	Force a sync between Intune and Microsoft Store for Business
 -	Manage IT contact information
 -	Manage settings for support website information
 
