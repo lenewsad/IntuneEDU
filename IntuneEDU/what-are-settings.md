@@ -56,10 +56,10 @@ Subgroup settings overrule their parent group settings. For example, if a device
 ## Manage settings in Express Configuration
 
 Use the following steps to manage simplified list of settings in Intune for Education:
-1. In the [Intune for Education](https://intuneeducation.portal.azure.com) console, click **Launch Express Configuration**. Review the **Welcome** page and click **Get started**.
-2. Review the **Get school information** page. If you've already added school information, and then click **Next**.
-3. Select the group whose settings you want to manage, and then click **Next**.
-4. Review the list of apps, and then click **Next**.
+1. In the [Intune for Education](https://intuneeducation.portal.azure.com) console, choose **Launch Express Configuration**. Review the **Welcome** page and choose **Get started**.
+2. Review the **Get school information** page. If you've already added school information, and then choose **Next**.
+3. Select the group whose settings you want to manage, and then choose **Next**.
+4. Review the list of apps, and then choose **Next**.
 5. On the **Settings** page, expand the categories of available settings:
   - [Basic device settings](available-settings.md#basic-device-settings)
   - [Internet browser settings](available-settings.md#internet-browser-settings)
@@ -68,13 +68,13 @@ Use the following steps to manage simplified list of settings in Intune for Educ
   - [App settings](available-settings.md#app-settings)
   - [Sign in settings](available-settings.md#sign-in-settings)
 
-  Expand a category and toggle the control to modify settings, and then click **Next**.
-6. Review your choices and then click **Finish** to save your changes update them on devices in the selected group.
+  Expand a category and toggle the control to modify settings, and then choose **Next**.
+6. Review your choices and then choose **Finish** to save your changes update them on devices in the selected group.
 
 ## Manage settings for groups
 
 Use the following steps to manage the full list of settings in Intune for Education:
-1. In the [Intune for Education](https://intuneeducation.portal.azure.com) console, in the left-side navigation menu, click **Groups**.
+1. In the [Intune for Education](https://intuneeducation.portal.azure.com) console, in the left-side navigation menu, choose **Groups**.
 2. Select the group whose settings you want to manage. For a complete list, see [Available settings](what-are-settings.md).
 3. Click **Settings** at the top of the page to view the full list of available settings.
 4. Expand categories and modify individual settings for the selected group.
