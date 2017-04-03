@@ -1,9 +1,9 @@
 ---
 # required metadata
 
-title: Get started 
+title: Get started
 titleSuffix: Intune for Education
-description:
+description: Learn the requirements to set up Intune for Education.
 keywords:
 author: barlanmsft
 ms.author: barlan
@@ -31,7 +31,7 @@ searchScope:
 
 # Get started with Intune for Education
 
-To set up Intune for Education, you connect Intune with your schools' data and then configure apps and settings for groups of students and teacher. Once you have set up the configurations you want on your devices, you can start managing devices.
+To set up Intune for Education, you connect Intune with your schools' data and then configure apps and settings for groups of students and teacher. Once you have set up the configurations you want for your devices, you can start managing devices.
 
 To get started with Intune for Education, you can follow these steps:
 1. [Set up school data](what-is-school-data-sync.md) - Import or sync your schools' information with Microsoft's School Data Sync (SDS)
@@ -48,6 +48,7 @@ In addition to these set up steps, you can also perform the following administra
 
 Read more about [administrative tasks for Intune for Education](admin-tasks.md).
 
-
+## Find out more
+- [Get started with Intune for enterprises](https://docs.microsoft.com/intune/get-started/start-with-a-paid-subscription-to-microsoft-intune)
 
 ><!-- [&larr; **Add apps**](.\add-apps.md)    [**Install apps** &rarr;](.\install-apps.md)  -->

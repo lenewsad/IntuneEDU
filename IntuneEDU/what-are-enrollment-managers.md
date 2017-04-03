@@ -1,9 +1,9 @@
 ---
 # required metadata
 
-title: What are enrollment managers?
+title: What are Enrollment Managers?
 titleSuffix: Intune for Education
-description:
+description: Learn how to use Enrollment Managers in Intune for Education.
 keywords:
 author: barlanmsft
 ms.author: barlan
@@ -29,4 +29,4 @@ searchScope:
 
 ---
 
-# Using enrollment managers in Intune for Education
+# What are Enrollment Managers in Intune for Education?

@@ -87,7 +87,7 @@ You can move a group within the group structure:
 5.	Select **OK** to save your changes.
 
 > [!NOTE]
-> If the group you selected is a member of more than one group, moving that group removes it from all other groups. The group you select will become its only location.
+> If the group you selected is a member of more than one group, moving that group [removes it from all other groups](why-cant-i-move-this-group.md). 
 
 ## Delete a group
 Deleting a group removes the collection of apps and settings on the device. Deleting a group does not remove those users or devices from Intune for Education.

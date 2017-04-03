@@ -3,7 +3,7 @@
 
 title: Core concepts and key terms
 titleSuffix: Intune for Education
-description:
+description: Learn information that works across enterprise mobility management with Intune.
 keywords:
 author: barlanmsft
 ms.author: barlan
@@ -29,9 +29,9 @@ searchScope:
 
 ---
 
-# Core concepts and key terms
+# Core concepts and key terms in Intune for Education
 
-<!--intro text-->
+Intune for Education
 
 ## Tenants
 
@@ -39,6 +39,10 @@ searchScope:
 
 ## Role-based access controls
 
+
+## Find out more
+
+- [Concepts and terms glossary for Intune for enterprises](https://docs.microsoft.com/intune/understand-explore/intune-glossary)
 
 <!--
 

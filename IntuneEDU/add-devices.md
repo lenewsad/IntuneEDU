@@ -50,8 +50,9 @@ You'll need to bring do the following to bring Windows 10 devices into managemen
 
 3. Enter the account details for the Intune for Education admin or **other permissioned enrollment user** and select **Next**.
 
-Your device will authenticate with Azure AD and will receive the assigned apps and settings once setup completes.
+Your device will [authenticate with Azure AD](https://docs.microsoft.com/azure/active-directory/active-directory-conditional-access) and will receive the assigned apps and settings once setup completes.
 
-
+## Find out more
+- [Adding devices to Intune for enterprises](https://docs.microsoft.com/intune/deploy-use/enroll-devices-in-microsoft-intune)
 
 ><!-- [&larr; **Add apps**](.\add-apps.md)    [**Install apps** &rarr;](.\install-apps.md)  -->
