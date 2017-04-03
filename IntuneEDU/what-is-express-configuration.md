@@ -63,9 +63,9 @@ Select a group to set up, then choose **Next** to continue.
 
 Now, you'll choose an app to assign to this group.
 
-  ![The app assignment screen. Apps are organized for assignment by different types, including web apps and Windows Store for Business apps.](./media/express-config-005-choose-apps.png)
+  ![The app assignment screen. Apps are organized for assignment by different types, including web apps and Microsoft Store for Business apps.](./media/express-config-005-choose-apps.png)
 
-There are multiple kinds of apps available to install on devices, including desktop apps, Windows Store for Business apps, and web apps. Intune for Education also displays popular apps from the Windows Store for Business from across all Intune for Education users. We've got more information about apps available in our [apps articles](what-are-apps.md).
+There are multiple kinds of apps available to install on devices, including desktop apps, Microsoft Store for Business apps, and web apps. Intune for Education also displays popular apps from the Microsoft Store for Business from across all Intune for Education users. We've got more information about apps available in our [apps articles](what-are-apps.md).
 
 Select apps to assign to this group, then choose **Next** to continue.
 

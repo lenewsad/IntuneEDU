@@ -132,12 +132,12 @@ Intune for Education includes the following device sharing settings:
 
 ## App settings
 Intune for Education includes the following app settings:
-- **Windows Store for Business apps**: Specify whether users in this group can install apps from Windows Store for Business.
-- **Private Windows Store for Business apps**: Users can only install apps from your private Windows Store for Business.
-- **Automatic app updates**: Windows Store for Business apps are automatically updated.
+- **Microsoft Store for Business apps**: Specify whether users in this group can install apps from Microsoft Store for Business.
+- **Private Microsoft Store for Business apps**: Users can only install apps from your private Microsoft Store for Business.
+- **Automatic app updates**: Microsoft Store for Business apps are automatically updated.
 - **App data-sharing between users**: Specify whether a user's app data can be seen by others on the device (for example, a search history).
-- **Trusted Windows Store for Business apps**: Trusted Windows Store for Business apps can be installed.
-- **External apps**: Specify whether devices can install apps that aren't downloaded from the Windows Store for Business.
+- **Trusted Microsoft Store for Business apps**: Trusted Microsoft Store for Business apps can be installed.
+- **External apps**: Specify whether devices can install apps that aren't downloaded from the Microsoft Store for Business.
 
 ## Sign in settings
 Intune for Education includes the following sign-in settings:
