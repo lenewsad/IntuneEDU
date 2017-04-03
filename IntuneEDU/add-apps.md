@@ -88,7 +88,7 @@ You can install desktop apps through the same interface on the **Apps** page. Th
 
 ## Add popular apps
 
-You can install popular educational apps with a single choose. Our goal is to make it easy for you to find and install your favorite apps for your users. We recommend these apps because they are frequently useful to educators. You can find these apps in Express Configuration, or under the **Manage apps** tile.
+You can also quickly install popular educational apps from the Microsoft Store for Business. Our goal is to make it easy for you to find and install your favorite apps for your users. We recommend these apps because they are frequently useful to educators. You can find these apps in Express Configuration, or under the **Manage apps** tile.
 
   ![A selection of popular apps during the add apps process in Express Configuration.](./media/apps-007-popular-apps.png)
 
