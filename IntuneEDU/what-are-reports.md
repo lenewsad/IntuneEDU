@@ -3,7 +3,7 @@
 
 title: What are reports?  
 titleSuffix: Intune for Education
-description:
+description: Learn how reports can help you understand activity in Intune for Education.
 keywords:
 author: barlanmsft
 ms.author: barlan

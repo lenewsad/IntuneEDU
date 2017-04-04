@@ -33,18 +33,6 @@ ms.reviewer: tanmayb
 # What are settings?
 <!--intro text-->
 
-## How settings work between different groups
-
-If there's a group above a group, it's inherited. But let's say there's a situation that doesn't work for that, so there's a lab under a group that needs to be different. So this is how we override.
-
-Settings on this group are being inherited from its parent group. Changing any setting on this group will override the inheritance for this group and it's children. Child group = Subgroup; figure definitions for parent group here
-
-Once inheritance is broken, all inheritance is broken - including new settings applied to parent Groups
-
-Reset inheritance will break broken inheritance and restore settings from the parent back to the subgroup. Once you Save Changes, it resets the settings to show what they're looking like.
-
-Any time you have a subgroup, it will naturally inherit from its parent group
-
 ## Manage settings
 
 Settings are managed on a per-group basis. You can manage the simple list of useful settings using [Express Configuration](what-are-settings.md#manage-settings-in-express-configuration) or view a full list of settings for a group for fine-tuning from [Groups management](what-are-settings.md#manage-settings-for-groups).

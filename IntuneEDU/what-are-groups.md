@@ -3,7 +3,7 @@
 
 title: What are groups?
 titleSuffix: Intune for Education
-description:
+description: Learn how to manage groups of devices with Intune for Education.
 keywords:
 author: barlanmsft
 ms.author: barlan
@@ -55,6 +55,9 @@ You can create subgroups under any group except certain default groups. Subgroup
 3.	Enter the **Group Name**.
 4.	Select **Create Group**.
 5.	Subgroup appears under the group you selected.
+
+> [!NOTE]
+> It's possible that you'll have some groups that don't work within the structure you've set up. You can find out how to manage these kinds of exceptions in our [core concepts article](core-concepts.md#what-is-group-inheritance).
 
 ## Edit group membership
 You can edit both device and user members of an existing group.
