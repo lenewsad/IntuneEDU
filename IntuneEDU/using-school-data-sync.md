@@ -3,7 +3,7 @@
 
 title: Using School Data Sync
 titleSuffix: Intune for Education
-description:
+description: Learn how to sync school data to Intune for Education.
 keywords:
 author: barlanmsft
 ms.author: barlan

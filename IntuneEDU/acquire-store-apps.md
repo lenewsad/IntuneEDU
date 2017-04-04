@@ -53,3 +53,6 @@ Apps that you've acquired from the Microsoft Store for Business are automaticall
   ![The sidebar of the apps page, which shows the Socrative app successfully added to the list of Windows Store apps.](./media/apps-004-sidebar-list-of-msfb-apps.png)
 
 4. You can now [install the app on devices](install-apps.md).
+
+## Find out more
+- [Managing acquired apps using Intune for enterprises](https://docs.microsoft.com/intune/deploy-use/manage-apps-you-purchased-from-the-windows-store-for-business-with-microsoft-intune)

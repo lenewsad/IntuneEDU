@@ -3,7 +3,7 @@
 
 title: What are reports?  
 titleSuffix: Intune for Education
-description:
+description: Learn how reports can help you understand activity in Intune for Education.
 keywords:
 author: barlanmsft
 ms.author: barlan
@@ -31,26 +31,32 @@ ms.reviewer: tanmayb
 
 # What are reports in Intune for Education?
 
-Intune for Education provides reports that let you view the apps and the devices managed with Intune for Education. You can download these reports to review them offline.
+Intune for Education provides reports that let you view certain activities from devices and apps managed with Intune for Education. You can download these reports to review them offline.
 
-## View reports
 
-To view reports for Intune for Education, do the following:
+There are currently two kinds of reports that you can view in Intune for Education: __Device Inventory__ and __Application Inventory__.
 
-1. In the [Intune for Education](https://intuneeducation.portal.azure.com) console, click **Reporting** in the left navigation bar.
-![Screenshot of the reports link in Intune for Education console](/media/../reports-link.png)
+1. In the [Intune for Education](https://intuneeducation.portal.azure.com) console, choose **Reports** in the left navigation bar.
+
 2. Select the report you want to view. The following reports are available in Intune for Education:
-  - **Device Inventory** - Displays a list of devices managed by Intune for Education.  
-  - **Application Inventory** Displays a list of apps installed on Intune for Education devices, including the number of devices with the app installed.
+
+  - **Device Inventory** - A list of devices managed by Intune for Education
+
+  ![The device inventory report screen, showing a list of devices under Intune for Education management.](./media/reports-001-device-inventory.png)
+
+  - **Application Inventory** A list of apps installed on devices under management by Intune for Education, including the number of devices with that app installed
+
+  ![The application inventory report screen, showing a list of apps under Intune for Education management.](./media/reports-002-app-inventory.png)
+
+  You can also select the type of app (web app, Win32 app, Microsoft Store app) to only show information about that specific kind of app.
 
 ## Download reports
 
-You can export and download Intune for Education reports. In the [Intune for Education](https://intuneeducation.portal.azure.com) console, on the **Reports** screen, click the **Download report** button to export and download a report as a comma-separated value (.csv) file that can then be viewed in a spreadsheet app such as Excel.
+You can also download Intune for Education reports. In the [Intune for Education](https://intuneeducation.portal.azure.com) console, on the **Reports** screen, choose the **Download report** button to export and download a report as a comma-separated value (.csv) file that can then be viewed and modified in a spreadsheet app such as [Excel](https://support.office.com/article/Import-or-export-text-txt-or-csv-files-5250ac4c-663c-47ce-937b-339e391393ba).
 
-To download reports for Intune for Education, do the following:
-1. In the [Intune for Education](https://intuneeducation.portal.azure.com) console, click **Reporting** in the left navigation bar.
-2. On the **Reports** screen, select the report you want to download.
-3. Click the **Download Report** button and then specify where you want to save the .csv file.
+## Find out more
+
+- [Monitor your apps and devices with reports using Intune for enterprises](https://docs.microsoft.com/intune/deploy-use/understand-microsoft-intune-operations-by-using-reports)
 
 <!--
 

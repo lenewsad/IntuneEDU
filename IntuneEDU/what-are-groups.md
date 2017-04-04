@@ -3,7 +3,7 @@
 
 title: What are groups?
 titleSuffix: Intune for Education
-description:
+description: Learn how to manage groups of devices with Intune for Education.
 keywords:
 author: barlanmsft
 ms.author: barlan
@@ -40,7 +40,7 @@ Intune for Education provides a set of default groups when your tenant is create
 ## Create a new group
 
 **To create a new group**
-1.	In the [Intune for Education portal](https://intuneeducation.portal.azure.com), click the **Manage Groups** workplace.  The **Groups** blade opens.
+1.	In the [Intune for Education portal](https://intuneeducation.portal.azure.com), choose the **Manage Groups** workplace.  The **Groups** blade opens.
 2.	Select **Create Group**.
 3.	Enter a **Group Name**.
 4.	Click **Create Group**.
@@ -49,18 +49,21 @@ Intune for Education provides a set of default groups when your tenant is create
 You can create subgroups under any group except certain default groups. Subgroups might be useful to refine the organization of device users.  For example, you could create a **Science class** subgroup under **Sixth grade students** to help provide apps for those classes.
 
 **To create a subgroup**
-1.	In the [Intune for Education console](https://intuneeducation.portal.azure.com), click the **Manage user and device groups** workplace.  The **Groups** blade opens.
+1.	In the [Intune for Education console](https://intuneeducation.portal.azure.com), choose the **Manage user and device groups** workplace.  The **Groups** blade opens.
 2. Select the group beneath which you want to create a subgroup.
 3.	Click **Create subgroup** either in the ellipses menu or in the task list.
 3.	Enter the **Group Name**.
 4.	Select **Create Group**.
 5.	Subgroup appears under the group you selected.
 
+> [!NOTE]
+> It's possible that you'll have some groups that don't work within the structure you've set up. You can find out how to manage these kinds of exceptions in our [core concepts article](core-concepts.md#what-is-group-inheritance).
+
 ## Edit group membership
 You can edit both device and user members of an existing group.
 
 **Edit devices in a group**
-1.	In the [Intune for Education portal](https://intuneeducation.portal.azure.com), click the **Manage Groups** workplace.  The **Groups** blade opens.
+1.	In the [Intune for Education portal](https://intuneeducation.portal.azure.com), choose the **Manage Groups** workplace.  The **Groups** blade opens.
 2. Select the group whose device membership you want to edit.
 3. Click the **Devices** tab.
 4. Click the **Edit devices** button.
@@ -72,7 +75,7 @@ You can edit both device and user members of an existing group.
 
 ## Rename a group
 
-1.	In the [Intune for Education portal](https://intuneeducation.portal.azure.com), click the **Manage Groups** workplace.  The **Groups** blade opens.
+1.	In the [Intune for Education portal](https://intuneeducation.portal.azure.com), choose the **Manage Groups** workplace.  The **Groups** blade opens.
 2. Select the group that needs to be renamed.
 3.	Click **Rename** either in the ellipses menu or in the task list.
 4.	Enter the new **Name**.
@@ -80,19 +83,19 @@ You can edit both device and user members of an existing group.
 
 ## Move a group
 You can move a group within the group structure:
-1.	In the [Intune for Education portal](https://intuneeducation.portal.azure.com), click the **Manage Groups** workplace.  The **Groups** blade opens.
+1.	In the [Intune for Education portal](https://intuneeducation.portal.azure.com), choose the **Manage Groups** workplace.  The **Groups** blade opens.
 2. Select the group that needs to be Moved
-3.	Click **Move group** either in the menu list or by clicking **Move group** button.
+3.	Click **Move group** either in the menu list or by chooseing **Move group** button.
 4.	Select the group location to which you want to move the group by either searching a group name or by selecting it in the hierarchy.
 5.	Select **OK** to save your changes.
 
 > [!NOTE]
-> If the group you selected is a member of more than one group, moving that group removes it from all other groups. The group you select will become its only location.
+> If the group you selected is a member of more than one group, moving that group [removes it from all other groups](why-cant-i-move-this-group.md).
 
 ## Delete a group
 Deleting a group removes the collection of apps and settings on the device. Deleting a group does not remove those users or devices from Intune for Education.
 
-1.	In the [Intune for Education portal](https://intuneeducation.portal.azure.com), click the **Manage Groups** workplace.  The **Groups** blade opens.
+1.	In the [Intune for Education portal](https://intuneeducation.portal.azure.com), choose the **Manage Groups** workplace.  The **Groups** blade opens.
 2. Select the group you want to delete
 2.	Click **Delete group** either in the ellipses menu or task list.
 

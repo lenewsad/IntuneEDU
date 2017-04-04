@@ -3,7 +3,7 @@
 
 title: Add apps
 titleSuffix: Intune for Education
-description:
+description: Learn how to add apps to Intune for Education.
 keywords:
 author: barlanmsft
 ms.author: barlan
@@ -88,7 +88,7 @@ You can install desktop apps through the same interface on the **Apps** page. Th
 
 ## Add popular apps
 
-You can install popular educational apps with a single click. Our goal is to make it easy for you to find and install your favorite apps for your users. We recommend these apps because they are frequently useful to educators. You can find these apps in Express Configuration, or under the **Manage apps** tile.
+You can also quickly install popular educational apps from the Microsoft Store for Business. Our goal is to make it easy for you to find and install your favorite apps for your users. We recommend these apps because they are frequently useful to educators. You can find these apps in Express Configuration, or under the **Manage apps** tile.
 
   ![A selection of popular apps during the add apps process in Express Configuration.](./media/apps-007-popular-apps.png)
 
@@ -108,5 +108,9 @@ The Intune for Education portal shows the top 12 educational web apps and top 12
 3. Your apps will add in the background and appear in the left hand sidebar when ready.
 
   ![Your apps are being added screen.](./media/apps-010-your-popular-apps-are-being-added.png)
+
+## Find out more
+
+- [Adding apps to Intune for enterprises](https://docs.microsoft.com/intune/deploy-use/add-apps)
 
 ><!-- [&larr; **Add apps**](.\add-apps.md)      [**Install apps** &rarr;](.\install-apps.md) -->
