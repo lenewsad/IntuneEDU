@@ -36,15 +36,15 @@ Intune for Education tries to simplify certain complex tasks that you do to mana
 ## How is Intune for Education different from Microsoft Intune?
 Intune for Education is designed to meet the specific needs of schools and school districts. Intune for Education currently lets you manage Windows 10 devices with MDM capabilities, with a selection of all policies available in Intune. Intune for enterprises can manage additional platforms, such as iOS and Android, and can access a [different set of these rules](https://docs.microsoft.com/intune-azure) than Intune for Education.
 
-<!--[NOTE] You are also able to [access the full set of Intune management controls](https://docs.microsoft.com/intune-azure) as part of your access to Intune for Education-->
+> [!NOTE] You are also able to [access the full set of Intune management controls](https://docs.microsoft.com/intune-azure) as part of your access to Intune for Education.
 
 ## What are tenants?
 
 Consider how you access Intune for Education. Everyone in your organization is able to access it, but they see their own instance of the admin console. This is happening while other organizations access Intune for Education in the same way. Microsoft hosts and isolates all of the data from your organization from these other organizations in a _tenant_, or a single instance of software that is simultaneously serving these other customers.
 
-  ![A diagram showing an instance of Intune, with multiple users accessing it from separate devices.](./media/basic-tenant-diagram.png)
+  ![A diagram showing an instance of Intune, with multiple users accessing it from separate devices.](./media/tenant-003-basic-tenant-diagram.png)
 
-When you modify [tenant settings](what-are-settings.md), you are modifying settings for just your instance of Intune for Education.
+When you modify [tenant settings](tenant-settings.md), you are modifying settings for just your instance of Intune for Education.
 
 ## What is group inheritance?
 
@@ -72,11 +72,11 @@ You can also restore inheritance and the settings from groups to back to subgrou
 
 When you do this, Intune for Education will reset the settings to show what the settings were for the higher-level group.
 
-## Hierarchy
-
 ## Role-based access controls
 
+_Roles_ help you control who can perform various actions in Intune for Education. You can either use built-in roles, or you can create your own roles. You therefore control admin's access by granting or limiting their access on the basis of their role. You can find out more about [the full experience managing roles in the Intune documentation](https://docs.microsoft.com/intune-azure/access-control/role-based-access-control).
 
 ## Find out more
 
-- [Concepts and terms glossary for Intune for enterprises](https://docs.microsoft.com/intune/understand-explore/intune-glossary)
+- [Find out more concepts and terms glossary for Intune](https://docs.microsoft.com/intune/understand-explore/intune-glossary)
+- [Find out more about the full experience managing roles in the Intune documentation](https://docs.microsoft.com/intune-azure/access-control/role-based-access-control)

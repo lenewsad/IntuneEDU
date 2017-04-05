@@ -36,7 +36,7 @@ Before you can install apps to your school's devices with Intune for Education, 
 Intune for Education supports the following types of apps:
 - Web apps, such as [Microsoft Word Online](https://office.live.com/start/Word.aspx)
 - Microsoft Store for Business apps, which are any [Universal apps distributed through the Store](https://technet.microsoft.com/itpro/windows/manage/apps-in-windows-store-for-business)
-- Desktop (Win32) apps, such as [standalone Microsoft Office](https://products.office.com/products)
+- Desktop apps, such as [standalone Microsoft Office](https://products.office.com/products)
 
 After you add apps, you can [install the apps](install-apps.md) on groups of devices.
 
@@ -49,7 +49,6 @@ You can assign web apps as links in the Start menu of Windows 10 devices using I
   ![The add a new web app page, which prompts users for the information described in the procedure below.](./media/apps-001-add-webapp.png)
 
 1. In the [Intune for Education](https://intuneeducation.portal.azure.com) console, choose **Apps**.
-
 
 2. Under **Web apps**, select **+ New app**, then enter the following details:
  - **URL** - The URL of the app that you want to assign
@@ -84,7 +83,7 @@ You can install desktop apps through the same interface on the **Apps** page. Th
 4. The app will then upload to Intune for Education. Once the upload is complete, you can [install the app on devices](install-apps.md).
 
 > [!NOTE]
-> Sometimes you may run into an error that says "The app doesn't have an install file" or "No app installation file was added". This means that the file didn't upload properly. Try to save and upload the file again to fix this error.
+> Sometimes you may run into an error that says "The app doesn't have an install file" or "No app install file was added". This means that the file didn't upload properly. Try to save and upload the file again to fix this error.
 
 ## Add popular apps
 
@@ -92,7 +91,7 @@ You can also quickly install popular educational apps from the Microsoft Store f
 
   ![A selection of popular apps during the add apps process in Express Configuration.](./media/apps-007-popular-apps.png)
 
-The Intune for Education portal shows the top 12 educational web apps and top 12 educational Microsoft Store for Business apps that you haven’t added under **Apps** management.
+The Intune for Education portal shows the top twelve educational web apps and top twelve educational Microsoft Store for Business apps that you haven’t added under **Apps** management.
 
 > [!TIP]
 > If you haven't set up your Microsoft Store for Business account to add apps to Intune for Education, you can find out how to do that [here](acquire-store-apps.md).
@@ -111,6 +110,4 @@ The Intune for Education portal shows the top 12 educational web apps and top 12
 
 ## Find out more
 
-- [Adding apps to Intune for enterprises](https://docs.microsoft.com/intune/deploy-use/add-apps)
-
-><!-- [&larr; **Add apps**](.\add-apps.md)      [**Install apps** &rarr;](.\install-apps.md) -->
+- [Find out more about the full experience adding apps to devices using Intune](https://docs.microsoft.com/intune/deploy-use/add-apps)

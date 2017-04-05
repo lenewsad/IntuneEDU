@@ -57,12 +57,8 @@ Intune for Education works closely with [Azure Active Directory (Azure AD)](http
 Intune for Education manages multiple users on a single device. When users who share a device have different apps and settings targeted to them, the user who is signed in sees only the apps and settings set up for them.
 
 ## Get started with Intune for Education
-To get started with Intune for Education, open the [Intune for Education console](https://intuneeducation.portal.azure.com) and sign in with your school credentials. You will see the Intune for Education portal where you can access Intune for Education.
+To get started with Intune for Education, open the [Intune for Education console](https://intuneeducation.portal.azure.com) and sign in with your school credentials. You will see the Intune for Education portal, with the [dashboard](how-do-i-customize-my-dashboard.md) - your landing page for using Intune for Education.
 
 ![A screenshot of the landing page once logged in to Intune for Education.](./media/landing-page.png)
 
 After you sign in, start with [Express Configuration](what-is-express-configuration.md). There you can select a group containing people (such as students or teachers) or devices (such as _2nd floor Computer Lab_ or _11th Grade AP Computer Science_) and start assigning apps and settings to them.
-
-<!--
-
->[&larr; **Add apps**](.\add-apps.md)      [**Get Started** &rarr;](..\get-started\get-started.md) -->
