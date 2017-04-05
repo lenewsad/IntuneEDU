@@ -4,13 +4,11 @@
 
 # [Get Started](get-started-with-intune-edu.md)
 ## [What is Express Configuration?](what-is-express-configuration.md)
-## [School Data Sync](what-is-school-data-sync.md)
-## [Enroll devices](add-devices.md)
+## [What is School Data Sync?](what-is-school-data-sync.md)
 ## [Tenant settings](tenant-settings.md)
 ## [Acquiring Store apps](acquire-store-apps.md)
 
 # [Planning](plan-overview.md)
-## [Using current school data](using-school-data-sync.md)
 ## [What are Enrollment Managers?](what-are-enrollment-managers.md)
 
 # How to
@@ -21,6 +19,8 @@
 ## Use settings
 ### [What are settings?](what-are-settings.md)
 ### [Available settings](available-settings.md)
+## Use devices
+## [Add devices](add-devices.md)
 
 # Monitor
 ## Groups
