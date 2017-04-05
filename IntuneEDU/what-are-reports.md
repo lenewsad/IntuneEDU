@@ -33,7 +33,6 @@ ms.reviewer: tanmayb
 
 Intune for Education provides reports that let you view certain activities from devices and apps managed with Intune for Education. You can download these reports to review them offline.
 
-
 There are currently two kinds of reports that you can view in Intune for Education: __Device Inventory__ and __Application Inventory__.
 
 1. In the [Intune for Education](https://intuneeducation.portal.azure.com) console, choose **Reports** in the left navigation bar.
@@ -57,7 +56,3 @@ You can also download Intune for Education reports. In the [Intune for Education
 ## Find out more
 
 - [Monitor your apps and devices with reports using Intune for enterprises](https://docs.microsoft.com/intune/deploy-use/understand-microsoft-intune-operations-by-using-reports)
-
-<!--
-
->[&larr; **Add apps**](.\add-apps.md)    [**Install apps** &rarr;](.\install-apps.md)  -->

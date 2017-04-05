@@ -92,6 +92,3 @@ When you are done, you will be taken to the Intune for Education dashboard where
 ## Next steps
 
 After you have set up your groups with the apps and settings they need, you're ready to start using devices with Intune for Education.
-
-
-><!-- [&larr; **Add apps**](.\add-apps.md) -->     [**Use devices** &rarr;](.\add-devices.md)

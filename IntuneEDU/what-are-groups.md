@@ -40,13 +40,14 @@ Intune for Education provides a set of default groups when your tenant is create
 ## Create a new group
 
 **To create a new group**
+
 1.	In the [Intune for Education portal](https://intuneeducation.portal.azure.com), choose **Manage Groups**.  The **Groups** blade opens.
 2.	Select **Create Group**.
 3.	Enter a **Group Name**.
 4.	Click **Create Group**.
 
 ## Create a subgroup
-You can create subgroups under any group except certain default groups. Subgroups might be useful to refine the organization of device users.  For example, you could create a **Science class** subgroup under **Sixth grade students** to help provide apps for those classes.
+You can create subgroups under any group except certain default groups, like __All Devices__ or __All Users__. Subgroups are useful to refine the organization of device users.  For example, you could create a **Science class** subgroup under **Sixth grade students** to help provide apps for those classes.
 
 **To create a subgroup**
 1.	In the [Intune for Education console](https://intuneeducation.portal.azure.com), choose **Manage user and device groups**.  The **Groups** blade opens.
@@ -97,4 +98,8 @@ Deleting a group removes the collection of apps and settings on the device. Dele
 
 1.	In the [Intune for Education portal](https://intuneeducation.portal.azure.com), choose **Manage Groups**.  The **Groups** blade opens.
 2. Select the group you want to delete
-2.	Click **Delete group** either in the ellipses menu or task list.
+3.	Click **Delete group** either in the ellipses menu or task list.
+
+## Find out more
+
+- [Find out more about the full groups experience in Intune](https://docs.microsoft.com/intune/deploy-use/use-groups-to-manage-users-and-devices-with-microsoft-intune)

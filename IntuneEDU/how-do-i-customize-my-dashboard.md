@@ -57,3 +57,5 @@ There are other things you can do with Intune for Education than just those task
 If you want to change the order of what appears in the sidebar, you can hover over any item and wait for three vertical dots to appear. Select these dots, then drag the item to the position in the list where you'd like it to appear.
 
   ![The three dots that appear on hover are next to one of the list items. The cursor changes to a select option.](./media/dashboard-004-editing-sidebar.png)
+
+You can also hide the sidebar by selecting the __menu button__ on the top left corner of the sidebar. This will collapse the sidebar so that you only see the icons for those actions. If you select the __menu button__ again, the full names of each list item will reappear.  

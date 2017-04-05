@@ -1,9 +1,9 @@
 ---
 # required metadata
 
-title: What are settings?
+title: What are policy settings?
 titleSuffix: Intune for Education
-description:
+description: Learn how to manage settings through Intune for Education policies.
 keywords:
 author: barlanmsft
 ms.author: barlan
@@ -30,8 +30,8 @@ ms.reviewer: tanmayb
 
 ---
 
-# What are settings?
-<!--intro text-->
+# What are policy settings?
+_Policies_ are groups of settings that manage features on your devices. When you create a policy, it manages the settings on those
 
 ## Manage settings
 
@@ -67,3 +67,7 @@ Use the following steps to manage the full list of settings in Intune for Educat
 3. Click **Settings** at the top of the page to view the full list of available settings.
 4. Expand categories and modify individual settings for the selected group.
 5. Click **Save** to save the changes for that group. Settings are automatically sent to devices in that group.
+
+## Find out more
+
+- [Find out more about the full range of policies in Intune](https://docs.microsoft.com/intune/deploy-use/manage-settings-and-features-on-your-devices-with-microsoft-intune-policies)
