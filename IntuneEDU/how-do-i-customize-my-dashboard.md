@@ -52,7 +52,7 @@ On every page in Intune for Education, you'll see the _sidebar_, a list of all t
 
 There are other things you can do with Intune for Education than just those tasks presented in the list. If you choose **See all** at the bottom of the list, the full **service menu** will pop out and allow you to see all of the settings available.
 
-  ![The service menu popout, which has all available settings in a list.](./media/dashboard-003-change-sidebar-popout.png)
+  ![The service menu pop-out, which has all available settings in a list.](./media/dashboard-003-change-sidebar-popout.png)
 
 If you want to change the order of what appears in the sidebar, you can hover over any item and wait for three vertical dots to appear. Select these dots, then drag the item to the position in the list where you'd like it to appear.
 

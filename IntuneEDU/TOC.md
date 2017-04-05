@@ -5,10 +5,10 @@
 # [Get Started](get-started-with-intune-edu.md)
 ## [What is Express Configuration?](what-is-express-configuration.md)
 ## [What is School Data Sync?](what-is-school-data-sync.md)
-## [Tenant settings](tenant-settings.md)
+## [What are tenant settings?](tenant-settings.md)
 ## [Acquiring Store apps](acquire-store-apps.md)
 
-# [Planning](plan-overview.md)
+# Planning
 ## [What are Enrollment Managers?](what-are-enrollment-managers.md)
 
 # How to
@@ -28,4 +28,3 @@
 ### [Why can't I move this group?](why-cant-i-move-this-group.md)
 ## Reports
 ### [What are reports?](what-are-reports.md)
-### [Service health dashboard](service-health.md)
