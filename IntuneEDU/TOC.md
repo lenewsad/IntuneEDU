@@ -6,12 +6,12 @@
 ## [What is Express Configuration?](what-is-express-configuration.md)
 ## [School Data Sync](what-is-school-data-sync.md)
 ## [Enroll devices](add-devices.md)
-## [Admin tasks](tenant-settings.md)
+## [Tenant settings](tenant-settings.md)
 ## [Acquiring Store apps](acquire-store-apps.md)
 
 # [Planning](plan-overview.md)
 ## [Using current school data](using-school-data-sync.md)
-## [What are enrollment managers?](what-are-enrollment-managers.md)
+## [What are Enrollment Managers?](what-are-enrollment-managers.md)
 
 # How to
 ## Use apps
