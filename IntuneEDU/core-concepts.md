@@ -36,7 +36,8 @@ Intune for Education tries to simplify certain complex tasks that you do to mana
 ## How is Intune for Education different from Microsoft Intune?
 Intune for Education is designed to meet the specific needs of schools and school districts. Intune for Education currently lets you manage Windows 10 devices with MDM capabilities, with a selection of all policies available in Intune. Intune for enterprises can manage additional platforms, such as iOS and Android, and can access a [different set of these rules](https://docs.microsoft.com/intune-azure) than Intune for Education.
 
-> [!NOTE] You are also able to [access the full set of Intune management controls](https://docs.microsoft.com/intune-azure) as part of your access to Intune for Education.
+> [!NOTE]
+> You are also able to [access the full set of Intune management controls](https://docs.microsoft.com/intune-azure) as part of your access to Intune for Education.
 
 ## What are tenants?
 
