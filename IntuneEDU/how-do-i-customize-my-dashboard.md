@@ -59,3 +59,7 @@ If you want to change the order of what appears in the sidebar, you can hover ov
   ![The three dots that appear on hover are next to one of the list items. The cursor changes to a select option.](./media/dashboard-004-editing-sidebar.png)
 
 You can also hide the sidebar by selecting the __menu button__ on the top left corner of the sidebar. This will collapse the sidebar so that you only see the icons for those actions. If you select the __menu button__ again, the full names of each list item will reappear.  
+
+## Find out more
+
+- [Find out more about the full Intune device management experience](https://docs.microsoft.com/intune/understand-explore/introduction-to-microsoft-intune)

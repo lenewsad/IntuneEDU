@@ -50,5 +50,3 @@ Read more about [administrative tasks for Intune for Education](tenant-settings.
 
 ## Find out more
 - [Get started with Intune for enterprises](https://docs.microsoft.com/intune/get-started/start-with-a-paid-subscription-to-microsoft-intune)
-
-><!-- [&larr; **Add apps**](.\add-apps.md)    [**Install apps** &rarr;](.\install-apps.md)  -->

@@ -14,7 +14,6 @@
 # How to
 ## Use apps
 ### [What are apps?](what-are-apps.md)
-### [Add apps](add-apps.md)
 ### [Install apps](install-apps.md)
 ## Use settings
 ### [What are settings?](what-are-settings.md)
