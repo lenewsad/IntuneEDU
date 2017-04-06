@@ -4,24 +4,22 @@
 
 # [Get Started](get-started-with-intune-edu.md)
 ## [What is Express Configuration?](what-is-express-configuration.md)
-## [School Data Sync](what-is-school-data-sync.md)
-## [Enroll devices](add-devices.md)
-## [Admin tasks](admin-tasks.md)
+## [What is School Data Sync?](what-is-school-data-sync.md)
+## [What are tenant settings?](tenant-settings.md)
 ## [Acquiring Store apps](acquire-store-apps.md)
 
-# [Planning](plan-overview.md)
-## [Using current school data](using-school-data-sync.md)
-## [What are enrollment managers?](what-are-enrollment-managers.md)
+# Planning
+## [What are Enrollment Managers?](what-are-enrollment-managers.md)
 
 # How to
-## [Set up school data](set-up-school-data-sync.md)
 ## Use apps
 ### [What are apps?](what-are-apps.md)
-### [Add apps](add-apps.md)
 ### [Install apps](install-apps.md)
 ## Use settings
 ### [What are settings?](what-are-settings.md)
 ### [Available settings](available-settings.md)
+## Use devices
+## [Add devices](add-devices.md)
 
 # Monitor
 ## Groups
@@ -29,4 +27,3 @@
 ### [Why can't I move this group?](why-cant-i-move-this-group.md)
 ## Reports
 ### [What are reports?](what-are-reports.md)
-### [Service health dashboard](service-health.md)

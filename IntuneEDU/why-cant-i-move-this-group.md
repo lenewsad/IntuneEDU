@@ -3,7 +3,7 @@
 
 title: Why can't I move this group?
 titleSuffix: Intune for Education
-description:
+description: Learn why certain groups may not let you move them the way you intend in Intune for Education.
 keywords:
 author: barlanmsft
 ms.author: barlan
@@ -31,12 +31,16 @@ ms.reviewer: tanmayb
 
 # Why can't I move this group?
 
-Groups are used to manage users and devices in Intune for Education. You can group a set of students or a set of devices to apply settings and assign apps to the group. When you create groups, consider how you will apply the settings and apps to users and devices.
+You use _groups_ to manage users, apps, and devices in Intune for Education. You can group a set of students or a set of devices to apply settings and assign apps to the group. When you create groups, consider how you will apply the settings and apps to users and devices.
 
-Intune for Education provides a set of default groups when your tenant is created. These default groups represent the broadest categories of users and devices in your school or school district. A few default groups that Intune for Education provides cannot be modified. You can, however, rename, move or delete the groups as needed.
+  ![Group tree closeup](./media/groups-001-group-tree.png)
 
+Intune for Education provides a set of default groups, **All Users** and **All Devices** when your [tenant is created](core-concepts.md#what-are-tenants). These default groups represent the broadest categories of users and devices in your school or school district.
 
+## Groups in multiple places
 
+Depending on how you've set up your group structure, either in [Azure AD through School Data Sync](https://support.office.com/en-us/article/Overview-of-School-Data-Sync-and-Classroom-f3d1147b-4ade-4905-8518-508e729f2e91) or by manually creating them, you may end up with a subgroup directly underneath two groups.
 
+  ![Subgroup under multiple groups error message appears](./media/groups-012-subgroup-is-under-two-groups-warning.png)
 
-><!-- [&larr; **Add apps**](.\add-apps.md)     [**Install apps** &rarr;](.\install-apps.md) -->
+If this happens, you'll need to choose a single group for this subgroup to be placed under.

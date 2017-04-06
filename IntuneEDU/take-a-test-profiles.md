@@ -1,9 +1,9 @@
 ---
 # required metadata
 
-title: Take A Test profiles
+title: How do I use Take A Test profiles?
 titleSuffix: Intune for Education
-description:
+description: Learn how to use Take A Test profiles to make it easy to administer and capture student test results.
 keywords:
 author: barlanmsft
 ms.author: barlan

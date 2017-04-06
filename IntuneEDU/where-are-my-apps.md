@@ -3,7 +3,7 @@
 
 title: Where are my apps?
 titleSuffix: Intune for Education
-description:
+description: Learn why recommended apps may not appear in Intune for Education.
 keywords:
 author: barlanmsft
 ms.author: barlan
@@ -13,7 +13,7 @@ ms.topic: article
 ms.prod:
 ms.service:
 ms.technology:
-ms.assetid:
+ms.assetid: 08502917-a691-447d-9ae8-8be2f6ef1b68
 searchScope:
 - IntuneEDU
 
@@ -29,5 +29,5 @@ searchScope:
 
 ---
 
-# Where are my apps? 
+# Where are my apps?
 Learn what’s new in this release of Intune for Education. You can also find out about upcoming changes that you should be planning for, as well as information about past releases.
