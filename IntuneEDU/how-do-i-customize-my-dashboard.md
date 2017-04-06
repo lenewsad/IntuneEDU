@@ -33,7 +33,7 @@ searchScope:
 
 Your _dashboard_ is the main landing page for Intune for Education. It is where you will start every time you log in to the portal to manage your users, apps, and devices.
 
-  ![The dashboard screen, which shows express configuration, school data sync, manage user and device groups, and manage app tiles.](./media/dashboard-001-landing-page.png)
+  ![The dashboard screen, which shows express configuration, school data sync, manage user and device groups, and manage app tiles.](./media/dashboard-001-dashboard-001-landing-page.png)
 
 The dashboard is made up of tiles that let you quickly get to work using Intune for Education. These tiles include:
 

@@ -3,7 +3,7 @@
 
 title: Why can't I move this group?
 titleSuffix: Intune for Education
-description:
+description: Learn why certain groups may not let you move them the way you intend in Intune for Education.
 keywords:
 author: barlanmsft
 ms.author: barlan
@@ -43,4 +43,4 @@ Depending on how you've set up your group structure, either in [Azure AD through
 
   ![Subgroup under multiple groups error message appears](./media/groups-012-subgroup-is-under-two-groups-warning.png)
 
-If this happens,
+If this happens, you'll need to choose a single group for this subgroup to be placed under.

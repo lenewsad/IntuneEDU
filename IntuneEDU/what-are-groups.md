@@ -80,7 +80,7 @@ After you've created a group, it's possible that you'll need to edit the members
 
 ## Rename a group
 
-  ![Rename a group buttons encircled in red](./media/groups-009-rename-groups.png)
+  ![Rename a group buttons encircled in red](./media/groups-009-rename-group.png)
 
 1.	In the [Intune for Education portal](https://intuneeducation.portal.azure.com), choose **Manage Groups**.  The **Groups** blade opens.
 2. Select the group that needs to be renamed.
