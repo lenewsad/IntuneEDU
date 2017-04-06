@@ -47,4 +47,5 @@ You can also sync your Active Directory data to Azure AD by using AD Connect. [L
 
 ## Find out more
 
-[Find out more about Microsoft School Data Sync(https://sds.microsoft.com)
+- [Find out more about the full experience of syncing on-premises school data to Azure AD](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnect)
+- [Find out more about Microsoft School Data Sync](https://sds.microsoft.com)
