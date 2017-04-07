@@ -31,7 +31,7 @@ searchScope:
 
 # What are Enrollment Managers in Intune for Education?
 
-There are many [roles](core-concepts.md#role-based-access-control) that Intune for Education uses to make sure you've got the right access assigned to the right IT staff. One commonly-used role is the _Enrollment Manager_.
+There are many [roles](core-concepts.md#role-based-access-controls) that Intune for Education uses to make sure you've got the right access assigned to the right IT staff. One commonly-used role is the _Enrollment Manager_.
 
   ![Dashboard left hand side](./media/dashboard-002-left-sidebar-list.png)
 
@@ -45,6 +45,6 @@ Select the person to assign a Enrollment Manager permissions to, then select __S
 
 You use the same list to remove individual's Enrollment User access. Locate the name of the Enrollment Manager you wish to remove, then select **Remove Enrollment Permissions**.
 
-  ![Remove enrollment permissions button selected while viewing an individual enrollment manager's page](./media/enroll-mgrs-003-remove-enrollment-permissions)
+  ![Remove enrollment permissions button selected while viewing an individual enrollment manager's page](./media/enroll-mgrs-003-remove-enrollment-permissions.png)
 
 Even though that user is no longer an Enrollment Manager, the devices that they enrolled while they were enrollment manager will remain managed by Intune for Education.
