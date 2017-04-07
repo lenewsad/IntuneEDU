@@ -1,14 +1,14 @@
 ---
 # required metadata
 
-title: Install apps
+title: How do I install apps?
 titleSuffix: Intune for Education
 description: Learn how to manage apps with Intune for Education.
 keywords:
 author: barlanmsft
 ms.author: barlan
 manager: angrobe
-ms.date: 03/24/2017
+ms.date: 04/17/2017
 ms.topic: article
 ms.prod:
 ms.service:
@@ -29,7 +29,7 @@ ms.reviewer: tanmayb
 
 ---
 
-# Install apps in Intune for Education
+# How do I install apps with Intune for Education?
 
 Installing apps on Windows 10 devices is one of the ways that Intune for Education can help your users get more done. Apps are installed onto devices after being assigned to a group. Some popular apps are available by default, but if the app you want to assign isn't, you need to [add it to Intune for Education](what-are-apps.md) before it can be assigned.
 

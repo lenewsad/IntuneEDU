@@ -8,7 +8,7 @@ keywords:
 author: barlanmsft
 ms.author: barlan
 manager: angrobe
-ms.date: 03/24/2017
+ms.date: 04/17/2017
 ms.topic: article
 ms.prod:
 ms.service:
@@ -38,15 +38,15 @@ To get started with Intune for Education, you can follow these steps:
 2. [Run Express Configuration](what-is-express-configuration.md) - Easily assign apps and settings to groups of students and teachers
 3. [Add devices](add-devices.md) - Connect devices with Intune for Education to install apps and apply settings
 
-In addition to these set up steps, you can also perform the following administrative tasks:
-- Manage administrative settings including:
+In addition to these set up steps, you can also perform the following admin tasks:
+- Manage admin settings including:
   - Sync apps you’ve purchased from the Microsoft Store for Business with Intune for Education
   - Configure contact information that students and teachers can use to contact the IT department
   - Manage settings for support website information
 - Manage certificates that help secure access to school resources
 - Learn how to solve problems when things go wrong
 
-Read more about [administrative tasks for Intune for Education](tenant-settings.md).
+Read more about [admin tasks for Intune for Education](tenant-settings.md).
 
 ## Find out more
 - [Get started with Intune for enterprises](https://docs.microsoft.com/intune/get-started/start-with-a-paid-subscription-to-microsoft-intune)

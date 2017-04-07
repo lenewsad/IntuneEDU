@@ -6,7 +6,7 @@
 ## [What is Express Configuration?](what-is-express-configuration.md)
 ## [What is School Data Sync?](what-is-school-data-sync.md)
 ## [What are tenant settings?](tenant-settings.md)
-## [Acquiring Store apps](acquire-store-apps.md)
+## [How do I acquire Store apps?](acquire-store-apps.md)
 
 # Planning
 ## [What are Enrollment Managers?](what-are-enrollment-managers.md)
@@ -14,12 +14,12 @@
 # How to
 ## Use apps
 ### [What are apps?](what-are-apps.md)
-### [Install apps](install-apps.md)
+### [How do I install apps?](install-apps.md)
 ## Use settings
 ### [What are settings?](what-are-settings.md)
-### [Available settings](available-settings.md)
+### [What settings are available?](available-settings.md)
 ## Use devices
-## [Add devices](add-devices.md)
+## [How do I add devices?](add-devices.md)
 
 # Monitor
 ## Groups
