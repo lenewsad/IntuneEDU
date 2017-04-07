@@ -48,3 +48,7 @@ You use the same list to remove individual's Enrollment User access. Locate the 
   ![Remove enrollment permissions button selected while viewing an individual enrollment manager's page](./media/enroll-mgrs-003-remove-enrollment-permissions.png)
 
 Even though that user is no longer an Enrollment Manager, the devices that they enrolled while they were enrollment manager will remain managed by Intune for Education.
+
+## Find out more
+
+- [Find out more about the full Enrollment Manager experience in Intune](https://docs.microsoft.com/intune/deploy-use/enroll-corporate-owned-devices-with-the-device-enrollment-manager-in-microsoft-intune)

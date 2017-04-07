@@ -31,124 +31,112 @@ ms.reviewer: tanmayb
 
 # Available settings for Intune for Education
 
-Intune for Education allows you to manage the following categories settings.:
+Managing settings is one of the key ways you can secure your Windows 10 devices and create the right kinds of access to enhance the learning experience. Intune for Education provides many settings that allow you to customize these experiences, both for individual groups and their subgroups.
 
-- [Basic device settings](#basic-device-settings)
-- [Microsoft Edge settings](#microsoft-edge-settings)
-- [Device update settings](#device-update-settings)
-- [Windows Defender settings](#windows-defender-settings) (advanced)
-- [Networking and connection settings](#networking-and-connectivity)
-- [Device sharing](#device-sharing)
-- [App settings](#app-settings)
-- [Sign in settings](#app-settings)
-- [Email settings](#email-settings) (advanced)
-- [Edition upgrade settings](#edition-upgrade-settings) (advanced)
-- [Sign in settings](#sign-in-settings)
-- [Email settings](#email-settings) (advanced)
-- [Edition upgrade](#edition-upgrade) (advanced)
+Most settings are set up to either **Block** or **Allow** access to a certain device feature, where **Not configured** is the device's default setting or a user-chosen setting.
 
-Settings marked **(advanced)** are not included in Express Configuration, but you can [manage settings for groups](what-are-settings.md#manage-settings-for-groups).
+> [!NOTE]
+> These user, app, and device settings differ from [tenant settings](tenant-settings.md).
+
+You can find these settings by first selecting a **group**, then choosing **Settings**.
+
+  ![The settings page for a group](./media/settings-001-list-of-settings.png)
+
+Much of the information in the **What it does** column can also be found in the Intune for Education console; this format is designed to make it easier for you to search through the settings for specific items.
 
 ## Basic device settings
 
-Intune for Education includes the following basic settings:
-- **Camera**: Specify whether the device camera is available.
-- **Removable Storage**: Specify whether users can attach removable storage such as USB drives and external hard drives.
-- **Date and time**: Specify whether users can change device date and time settings.
-- **Device name**: Specify whether users can change the device name.
-- **Language settings**: Specify whether users can change device language.
-- **Unenroll devices**: Allow users to manually unenroll devices from management.
-- **Send diagnostic data**: Collect and send anonymous usage data to Microsoft to help improve Windows.
-- Add provisioning packages: Specify whether users can add new provisioning packages containing device configuration settings.
-- **Remove provisioning packages**: Specify whether users can remove provisioning packages containing device configuration settings.
-- **Location services**: Specify whether apps can use location services to access the device’s location.
-- **Internet sharing**: Lets other users connect to the Internet using the device’s Internet connection.
-- **Cortana**: Cortana is a digital assistant built into Windows 10 that can answer questions and perform tasks.
-- **Device region settings**: Specify whether users can change language and locale settings (ex. English-US)
-- **Change power and sleep settings**: Specify whether users can change power and sleep settings on the device.
+|Setting|What it does|
+|---|---|
+|Camera|Block user access to the device camera.|
+|Removable storage|Block users from using removable storage such as USB drives and external hard drives.|
+|Date and time|Block users from changing the device date and time settings.|
+|Device name|Block users from changing the device name.|
+|Language settings|Block users from changing the device language.|
+|Unenroll devices|Block users from manually unenrolling devices from management.|
+|Send diagnostic data|Define whether to collect and send anonymous usage data to Microsoft to help improve Windows.|
+|Add provisioning packages|Block users from adding add new provisioning packages containing device configuration settings.|
+|Remove provisioning packages|Block users from removing provisioning packages containing device configuration settings.|
+|Location services|Block apps from using location services to access the device’s location.|
+|Internet Sharing|Block users from using Internet Sharing to share the device’s Internet connection.|
+|Cortana|Block Cortana, the digital assistant built into Windows 10 that can answer questions and perform tasks.|
+|Device region settings|Block users from changing region settings, such as country and language.|
+|Save files to local hard drive|Block users from saving files locally.|
+|Power and sleep settings|Block users from changing power and sleep settings.|
+|Start menu size|Define whether to force the Start menu to appear full screen.|
+|Windows Spotlight|Block all Windows Spotlight features on these devices.|
+|OneDrive Sync|Block OneDrive Sync for these devices and users.|
 
-## Internet browser settings
-Intune for Education includes the following internet browser settings:
-- **Pop-ups**: Specify whether websites can open a new window.
-- **Do-Not-Track headers**: Web browsers can ask that websites not track user data.
-- **Cookies and website data**: Cookies can store website settings or track user’s browsing behavior.
-- **Autofill form data**:  Autofill remembers data users entered in a field and automatically re-enters it.
-- **Password manager**: Web browsers offer to save users’ passwords for sites they visit.
-- **Developer tools**: Web browser tools help web developers test and interact with sites.
-- **Browser extensions**: Extensions let users customize Edge with added functionality from Microsoft and other sources.
-- **InPrivate browsing**: InPrivate browsing won’t save data like browsing history and cookies when you close the web browser.​
-- **Access to about:flags page**: The about:flags page contains experimental settings and features.
-- **SmartScreen override**: Specify whether users can override warnings about websites blocked by the SmartScreen Filter.
-- **SmartScreen override for files**: Specify whether users can ignore SmartScreen Filter warnings and download unverified files.
-- **Search suggestions**: Specify SafeSearch settings for web pages viewed in the browser.
-- **Send intranet traffic to Internet Explorer**: Specify whether internal (intranet) web sites open in Internet Explorer.
-- **Javascript**: Specify whether javascript can run in the Edge Browser.
-- **Configure Microsoft Edge homepage settings**: These pages will open as homepages for all users in this group.
+## Microsoft Edge settings
+
+|Setting|What it does|
+|---|---|
+|Pop-ups|Block websites from opening new windows.|
+|Do-Not-Track headers|Require Microsoft Edge to ask that websites not track user data.|
+|Cookies|Cookies can store website settings or track user’s browsing behavior.|
+|Automatically fill form entries|Block saving data entered in a form field online.|
+|Password manager|Block users from using the password manager to save passwords.|
+|Developer tools|Block users from accessing developer tools.|
+|Browser extensions|Block users from using extensions to customize Edge with added functionality from Microsoft and other sources.|
+|InPrivate browsing|Block users from using InPrivate browsing, which stops Edge from saving data like browsing history and cookies.|
+|Access to about:flags page|Block access to the about:flags page, which contains experimental settings and features.|
+|SmartScreen override|Block users from ignoring warnings about websites blocked by the SmartScreen Filter.|
+|SmartScreen override for files|Block users from ignoring SmartScreen Filter warnings about downloading unverified files.|
+|Block adult content using a strict SafeSearch filter|Setting to “Block” will use a strict rather than moderate SafeSearch filter to block adult content.|
+|Search suggestions|Block Edge from suggesting possible websites as you type a URL or search term.|
+|Intranet traffic in Internet Explorer|If set to “Block”, internal traffic will be sent to Edge instead of Internet Explorer.|
+|JavaScript|Block JavaScript from running in Edge.|
+|Default search engine|Select Bing, Yahoo, or Google as the default search engine for Microsoft Edge. If you or another admin has set up a custom search engine in the full Intune experience, you can define that custom search engine as the default here.|
+|Configure Microsoft Edge homepages|Choose what homepages open every time someone begins a new session browsing with Microsoft Edge.|
+|Configure Microsoft Edge favorites|Choose websites to appear in the Microsoft Edge favorites list.|
+|Block editing favorites|Block users from editing Edge browser favorites.|
+
+## User access to device settings
+
+|Setting|What it does|
+|---|---|
 
 ## Device update settings
 
-Intune for Education includes the following device update settings:
-- **Choose how to install updates**
-- **Pre-release Features**: Controls whether Microsoft can install pre-release settings and features on devices
+|Setting|What it does|
+|---|---|
 
 ## Windows Defender settings
-Intune for Education includes the following Windows Defender settings:
-- **Users access to Windows Defender settings**: Lets users modify Windows Defender settings on the device.
-- **Real-time monitoring**: Require real-time monitoring for malware, spyware, and other threats.
-- **Behavior monitoring**: Require scanning for known patterns of suspicious activity.
-- **Network Inspection Service (NIS)**: Collect data about malware and send it to the Microsoft Endpoint Protection Center.
-- **Scan all downloaded files**: Enable scanning for files that users download.
-- **Scan scripts**: Scan the scripts a website runs in Edge and Internet Explorer.
-- **Update frequency**: How frequently Windows Defender checks for and downloads anti-malware updates.
-- **Scan file and program activity**: Scans for malware when files or programs are opened and alerts you of suspicious activity.
-- **Days before quarantined malware is deleted**: Number of days a file is quarantined before removing (0 = immediately delete).
-- **Cloud protection**: Enable Cloud Protection Service to collect information about malware.
-- **Prompt users for sample submission**: Specify when files are sent to Microsoft for further analysis.
-- **Exclude files with these extensions from scans and real-time protection**: Windows Defender won't scan files with added extensions (for example, .jpg)
-- **Exclude processes from scans and real-time protection
-Files(i.e. .exe, .com) that shouldn’t be scanned for malware**: Windows Defender won't scan processes. Provide a path to the process.
-- **Type of system scan to perform**: Select the type of scan and when it runs.
-- **Maximum CPU % usage during system scan**: This keeps malware scans from slowing the device too much.
-- **Scan archive files**: Require scans of archives such as .zip and .cab files.
-- **Scan incoming emails**: Scan email for malware as it arrives.
-- **Scan removable drives during full scan**: Scan external hard drives and USB drives.
-- **Scan mapped network drives during full scan**: Scan remote folders this device uses to access data.
-- **Scan files opened over the network**: Scan remote files before they are opened.
 
-## Networking and connectivity
+|Setting|What it does|
+|---|---|
 
-Intune for Education includes the following networking and connectivity settings:
-- **Cellular roaming data**: Specify whether devices use cellular data plans when roaming.
-- **Bluetooth**: Specify whether devices can use Bluetooth service.
-- **Bluetooth discoverability**: Specify whether devices are discoverable using Bluetooth.
-- **Bluetooth advertising**: Specify whether devices receive advertising over Bluetooth.
-- **Allow Wi-Fi**: Specify whether devices can use Wi-Fi.
-- **Automatically connect to free Wi-Fi hotspots**: Specify whether devices can automatically connect to Wi-Fi hotspots or if users must logon.
+## Wireless settings
 
-## Device sharing
-Intune for Education includes the following device sharing settings:
-- **Optimize devices for shared use​**: Optimizes settings for shared devices, letting one user sign in at a time as well as configuring settings like power and updates.
-- **Userless sign in**: Specify whether users can sign in with a guest account or whether they must use their username and password.
+|Setting|What it does|
+|---|---|
+
+## Device sharing settings
+
+|Setting|What it does|
+|---|---|
 
 ## App settings
-Intune for Education includes the following app settings:
-- **Microsoft Store for Business apps**: Specify whether users in this group can install apps from Microsoft Store for Business.
-- **Private Microsoft Store for Business apps**: Users can only install apps from your private Microsoft Store for Business.
-- **Automatic app updates**: Microsoft Store for Business apps are automatically updated.
-- **App data-sharing between users**: Specify whether a user's app data can be seen by others on the device (for example, a search history).
-- **Trusted Microsoft Store for Business apps**: Trusted Microsoft Store for Business apps can be installed.
-- **External apps**: Specify whether devices can install apps that aren't downloaded from the Microsoft Store for Business.
 
-## Sign in settings
-Intune for Education includes the following sign-in settings:
+|Setting|What it does|
+|---|---|
 
-- **Sign-in using Microsoft account**: Users sign-in to the device using their Microsoft account
-- **Sign-in using non-Microsoft account**: Users sign-in to the device using an account other than their Microsoft account
+## Sign-in settings
+
+|Setting|What it does|
+|---|---|
+
+## Windows interface customizations
+|---|---|
 
 ## Email settings
 
-Allows you to specify whether email settings are configured for this group.
+Choose whether email settings are configured for this group.
 
 ## Edition upgrade
 
 Allows you to specify whether devices are upgraded to a particular edition of Windows 10 and assign a **Product key**.
+
+## Find out more
+
+- [Find out more about the full Windows 10 settings management experience available in Intune](https://docs.microsoft.com/intune/deploy-use/windows-10-policy-settings-in-microsoft-intune)
