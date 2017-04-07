@@ -95,11 +95,35 @@ Much of the information in the **What it does** column can also be found in the 
 
 |Setting|What it does|
 |---|---|
+|Control Panel|Block user access to the Control Panel.|
+|Settings app|Block user access to the Settings app. If you do not block this setting, you can instead choose to block individual parts of the Settings app listed in the rest of the table.|
+|System settings|Block display, notifications, apps, power settings.|
+|Devices|Block Bluetooth, printers, and more.|
+|Network & Internet|Block Wi-Fi, airplane mode, and VPN.|
+|Personalization|Block background, lock screen, and color modifications.|
+|Accounts|Block user accounts, email, sync, work, and other people.|
+|Time & Language|Block size, region, and date.|
+|Ease of Access|Block Narrator, magnifier, and high contrast.|
+|Privacy|Block location and camera.|
+|Update & security|Block Windows Update, recovery, and backup.|
+|Apps|Block uninstall, defaults, and optional features.|
+|Gaming|Block game bar, DVR, broadcasting, and Game Mode.|
+
 
 ## Device update settings
 
 |Setting|What it does|
 |---|---|
+|Branch readiness level|Define whether devices are on Current Branch or Current Branch for Business for Windows updates.|
+|Updates and maintenance period|Define the updates and maintenance period for the installation of updates.|
+|Scheduled install day|Define the day of the week that PCs will be updated and restarted.|
+|Scheduled install time|Define the time that PCs will be updated and restarted.|
+|Update outside of scheduled times|Enable devices that are plugged in (e.g., in a cart) to be updated outside of scheduled update times.|
+|Defer feature updates|Define how many days to wait to apply feature updates to devices after they are available.|
+|Defer quality updates|Define how many days to wait to apply quality updates to devices after they are available.|
+|Allow users to opt in to get Insider Preview builds|Define whether users can make their devices available for download and installing preview software.|
+|Pre-release features|Define weather users can see pre-release features for settings, settings and experimentations, or no pre-release features.|
+|Delivery Optimization|Define how updates are delivered to devices.|
 
 ## Windows Defender settings
 
@@ -164,17 +188,52 @@ Much of the information in the **What it does** column can also be found in the 
 |Sign in using non-Microsoft account|Block users from signing in with any account other than their Microsoft account. Use this setting if you want to force users to sign in with, among other Microsoft accounts, their Office 365 account.|
 
 ## Windows interface customizations
+
+|Setting|What it does|
 |---|---|
+|Most used apps in Start menu|Block the most used apps from showing in the Start menu.|
+|Recently added apps in Start menu|Block recently added apps from showing in the Start menu.|
+|Recently opened items in Start menu jump lists|Block recently opened items in jump lists from showing in the Start menu and taskbar.|
+|App list in Start menu|Block the list of all apps on the device from showing in the Start menu.|
+|Power menu in Start menu|Block the power menu (e.g. Restart, Shut down) from showing in the Start menu.|
+|User tile in Start menu|Block the current user’s information from being shown in the Start menu.|
+|Custom lock screen background image|Configure a custom background image on the sign-in screen. You can choose a .jpg or .png less than 20MB in size.|
+|Custom desktop background image|Configure a custom background image on the desktop. You can choose a .jpg or .png less than 20MB in size.|
+|Choose folders that appear in the Start menu|You can choose **File Explorer**, **Settings**, **Documents**, **Downloads**, **Music**, **Pictures**, **Videos**, **HomeGroup**, **Network**, and **Personal Folder**.|
+|Choose which settings appear on the user tile in the Start menu|You can choose **Change account settings**, **Lock**, and **Sign out**.|
+|Apply custom Start menu layout|Apply a custom Start menu layout using an XML file. You can upload an .xml file less than 2MB in size.|
+|Pin websites as tiles in the Start menu|Pin websites as tiles in the Start menu using an XML file. You can upload an .xml file less than 2MB in size.|
 
 ## Email settings
 
-Choose whether email settings are configured for this group.
+|Setting|What it does|
+|---|---|
+|Configure email settings|Choose whether you want to configure email settings for this group. These settings are applied to the Windows 10 Mail app. If you do not **Configure** this setting, none of the other email settings in this table will be available to you.|
+|Account name|Students and teachers will be able to see this on their devices.|
+|Email server|Enter the name of the server that hosts your email.|
+|User name|Choose the attribute that Intune will use from Azure Active Directory when applying user name settings to email profiles.|
+|Email address|Choose the attribute that Intune will use from Azure Active Directory when applying email address settings to email profiles.|
+|Length of time to store email on devices|Choose how long to store email on devices.|
+|Interval to sync email|Choose how much time passes between email syncs.|
+|Sync contacts|Sync contact information.|
+|Sync calendar|Sync calendar information.|
+|Sync tasks|Sync task information.|
+|SSL|Use Secure Sockets Layer (SSL) when sending emails for additional security.|
 
-## Wi-Fi settings
+## Wi-Fi
+
+Wi-Fi settings are separate from the Wi-Fi settings found in **Wireless settings**.
+
+|Setting|What it does|
+|---|---|
+|Network name|Provide the name of your network.|
+|Security type|Choose the security protocol used by your Wi-Fi network.|
+|Password|Provide your network's Wi-Fi password.|
+|Confirm password|Verify your network's Wi-Fi password.|
 
 ## Edition upgrade
 
-Allows you to specify whether devices are upgraded to a particular edition of Windows 10 and assign a **Product key**.
+You use these settings to upgrade the devices in this group to a different Edition of Windows by selecting the **Edition to upgrade to** and providing your **Product key**.
 
 ## Find out more
 
