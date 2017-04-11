@@ -20,6 +20,7 @@
 ### [What settings are available?](available-settings.md)
 ## Use devices
 ## [How do I add devices?](add-devices.md)
+## [How do I use Take a Test profiles?](take-a-test-profiles.md)
 
 # Monitor
 ## Groups
