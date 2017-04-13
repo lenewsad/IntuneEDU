@@ -96,7 +96,7 @@ The Intune for Education portal shows the top twelve educational web apps and to
 > [!TIP]
 > If you haven't set up your Microsoft Store for Business account to add apps to Intune for Education, you can find out how to do that [here](acquire-store-apps.md).
 
-1. In the [Intune for Education](https://intuneeducation.portal.azure.com) console, choose  **Manage Apps** > **Add apps** > **Quick add popular apps**. A list of **Web apps** and **Windows Store apps** is displayed.
+1. In the [Intune for Education](https://intuneeducation.portal.azure.com) console, choose  **Manage Apps** > **Add apps** > **Quick add popular apps**. A list of **Web apps** and **Microsoft Store apps** is displayed.
 
   ![The quick add popular apps screen.](./media/apps-008-add-popular-apps.png)
 
