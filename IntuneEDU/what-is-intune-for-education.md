@@ -33,7 +33,7 @@ searchScope:
 
 Microsoft Intune for Education is software that you can use to improve student learning outcomes through connected classrooms and engaging new technologies. It is accessible through our admin console, a web portal that is designed to make it possible for everyone, from professional IT admins, to part-time IT support, to teachers trying to use IT in the classroom, to get groups of Windows 10 devices up and running in minutes. It does this by giving you a streamlined admin portal to accomplish everyday things that you need to do with devices in classrooms - like keeping students from getting off-track while using their devices and evaluating learner progress with assessments.
 
-Intune for Education can be used on its own or alongside the rest of the tools available in [Microsoft Education](https://microsoft.com/education), which makes it easy for you to use Intune for Education with other useful educational tools from Microsoft. These include:
+Intune for Education can be used by itself, or in harmony with the [full device management experience available in Intune](https://docs.microsoft.com/intune/understand-explore/introduction-to-microsoft-intune). It can also be used alongside the rest of the tools available in [Microsoft Education](https://microsoft.com/education), which makes it easy for you to use Intune for Education with other useful educational tools from Microsoft. These include:
 
 - [Microsoft Classroom](https://education.microsoft.com/GetTrained/introduction-to-microsoft-classroom)
 - [School Data Sync](what-is-school-data-sync.md)
