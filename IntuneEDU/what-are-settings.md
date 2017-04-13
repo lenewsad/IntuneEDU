@@ -8,7 +8,7 @@ keywords:
 author: barlanmsft
 ms.author: barlan
 manager: angrobe
-ms.date: 04/17/2017
+ms.date: 04/25/2017
 ms.topic: article
 ms.prod:
 ms.service:
@@ -54,9 +54,9 @@ Express Configuration makes it easy for you to get started quickly, but can also
 4. Review the list of apps, and then choose **Next**.
 5. On the **Settings** page, expand the categories of available settings:
   - [Basic device settings](available-settings.md#basic-device-settings)
-  - [Microsoft Edge settings](available-settings.md#internet-browser-settings)
+  - [Microsoft Edge settings](available-settings.md#microsoft-edge-settings)
   - [Device update settings](available-settings.md#device-update-settings)
-  - [Networking and connection settings](available-settings.md#networking-and-connectivity)
+  - [Wireless settings](available-settings.md#wireless-settings)
   - [App settings](available-settings.md#app-settings)
   - [Sign in settings](available-settings.md#sign-in-settings)
 
