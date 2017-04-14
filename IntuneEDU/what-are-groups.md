@@ -61,7 +61,7 @@ You can create subgroups under any group except certain default groups, like __A
 5.	Subgroup appears under the group you selected.
 
 > [!NOTE]
-> It's possible that you'll have some groups that don't work within the structure you've set up. You can find out how to manage these kinds of exceptions in our [core concepts article](core-concepts.md#what-is-group-inheritance).
+> It's possible that you'll have some groups that don't work within the structure you've set up. Find out how to manage resolve these kinds of exceptions with [group inheritance](group-inheritance.md).
 
 ## Edit group membership
 After you've created a group, it's possible that you'll need to edit the membership - for example, if a student transfers to another school in your district and that student will take their device with them to that school.

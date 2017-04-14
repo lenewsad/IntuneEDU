@@ -34,7 +34,7 @@ ms.reviewer: tanmayb
 _Configuration settings_ manage features on your devices. When you create a configuration setting, you apply it to all the devices in a group.
 
 > [!NOTE]
-> There is another type of settings: [tenant settings](what-are-tenants).
+> These settings modify user, app, and device behavior for your organization. Find out how to manage [tenant settings for your subscription](what-are-tenants.md).
 
 ## Manage settings
 
@@ -43,7 +43,7 @@ Settings are managed on a per-group basis. You can manage the simple list of use
 Device settings apply to all devices in their group. Settings that are **Not configured** allow the user to define their settings on their devices themselves.
 
 > [!NOTE]
-> Intune for Education settings such as **Block** or **Allow** override the device’s settings. For example, if a device has a camera and that camera is enabled by default, but the group setting for that device has Camera set to **Block**, [then the camera on the device will be turned off](core-concepts.md#what-is-group-inheritance).
+> Intune for Education settings such as **Block** or **Allow** override the device’s settings. For example, if a device has a camera and that camera is enabled by default, but the group setting for that device has Camera set to **Block**, [then the camera on the device will be turned off](group-inheritance.md).
 
 ## Manage settings with Express Configuration
 

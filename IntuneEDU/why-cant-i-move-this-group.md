@@ -35,7 +35,7 @@ You use _groups_ to manage users, apps, and devices in Intune for Education. You
 
   ![Group tree closeup](./media/groups-001-group-tree.png)
 
-Intune for Education provides a set of default groups, **All Users** and **All Devices** when your [tenant is created](core-concepts.md#what-are-tenants). These default groups represent the broadest categories of users and devices in your school or school district.
+Intune for Education provides a set of default groups, **All Users** and **All Devices** when your [tenant is created](what-are-tenants.md). These default groups represent the broadest categories of users and devices in your school or school district.
 
 ## Groups in multiple places
 
