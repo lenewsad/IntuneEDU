@@ -46,7 +46,7 @@ In addition to these set up steps, you can also perform the following admin task
 - Manage certificates that help secure access to school resources
 - Learn how to solve problems when things go wrong
 
-Read more about [admin tasks for Intune for Education](tenant-settings.md).
+Read more about [admin tasks for Intune for Education](what-are-tenants).
 
 ## Find out more
 - [Get started with Intune for enterprises](https://docs.microsoft.com/intune/get-started/start-with-a-paid-subscription-to-microsoft-intune)

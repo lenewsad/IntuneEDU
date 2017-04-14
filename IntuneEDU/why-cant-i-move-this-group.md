@@ -43,4 +43,4 @@ Depending on how you've set up your group structure, either in [Azure AD through
 
   ![Subgroup under multiple groups error message appears](./media/groups-012-subgroup-is-under-two-groups-warning.png)
 
-If this happens, you'll need to choose a single group for this subgroup to be placed under.
+If this happens, you'll need to choose a single group to place above this subgroup.

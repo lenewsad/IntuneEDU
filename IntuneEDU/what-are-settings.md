@@ -30,8 +30,11 @@ ms.reviewer: tanmayb
 
 ---
 
-# What are policy settings?
-_Policies_ are groups of settings that manage features on your devices. When you create a policy, it manages the settings on those
+# What are configuration settings?
+_Configuration settings_ manage features on your devices. When you create a configuration setting, you apply it to all the devices in a group.
+
+> [!NOTE]
+> There is another type of settings: [tenant settings](what-are-tenants).
 
 ## Manage settings
 
