@@ -1,7 +1,7 @@
 ---
 # required metadata
 
-title: Tenant-wide settings
+title: What are tenants?
 titleSuffix: Intune for Education
 description: Learn how to manage your tenant with tenant-wide settings.
 keywords:
@@ -29,9 +29,15 @@ searchScope:
 
 ---
 
-# How do I manage tenant-wide settings in Intune for Education?
+# What are tenants?
 
-Certain settings [affect all users and devices](core-concepts.md#what-are-tenants) you have under management. Intune for Education refers to these as **tenant settings**. Only Intune for Education admins can see or change these settings.
+Your _tenant_ is your organization's individual instance of Intune for Education. Think of it like logging into the Office 365 Outlook Web App to get your email. When you log in, it just shows your information, but when one of your colleagues logs in, it just shows their information. The IT admin for Office 365 can manage certain settings for all users, like showing a custom logo or a school's colors.  
+
+When you modify tenant settings, you are modifying settings across your entire subscription and all of your licenses.
+
+## How do I manage tenant-wide settings in Intune for Education?
+
+Certain settings affect all users and devices you have under management. Intune for Education refers to these as **tenant settings**. Only Intune for Education admins can see or change these settings.
 
 To manage these settings, choose **Tenant settings** in the left-side navigation bar in the [Intune for Education](https://intuneeducation.portal.azure.com) console.
 

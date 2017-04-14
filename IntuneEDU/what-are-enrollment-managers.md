@@ -31,9 +31,11 @@ searchScope:
 
 # What are Enrollment Managers in Intune for Education?
 
-There are many [roles](core-concepts.md#role-based-access-controls) that Intune for Education uses to make sure you've got the right access assigned to the right IT staff. One commonly-used role is the _Enrollment Manager_.
+There are many roles that Intune for Education uses to make sure you've got the right access assigned to the right IT staff. One commonly-used role is the _Enrollment Manager_.
 
   ![Dashboard left hand side](./media/dashboard-002-left-sidebar-list.png)
+
+_Roles_ help you control who can perform various actions in Intune for Education. You can either use built-in roles, or you can create your own roles. You therefore control admin's access by granting or limiting their access on the basis of their role. You can find out more about
 
 The Enrollment Manager has one job: to help you enroll multiple devices at speed. When you select __Enrollment Managers__ from the sidebar, it will show you the list of currently authorized Enrollment Managers.
 
@@ -51,4 +53,5 @@ Even though that user is no longer an Enrollment Manager, the devices that they 
 
 ## Find out more
 
+- [Find out more about the full experience managing roles in the Intune documentation](https://docs.microsoft.com/intune-azure/access-control/role-based-access-control).
 - [Find out more about the full Enrollment Manager experience in Intune](https://docs.microsoft.com/intune/deploy-use/enroll-corporate-owned-devices-with-the-device-enrollment-manager-in-microsoft-intune)

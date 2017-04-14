@@ -36,7 +36,7 @@ Managing settings is one of the key ways you can secure your Windows 10 devices 
 Most settings are set up to either **Block** or **Allow** access to a certain device feature, where **Not configured** is the device's default setting or a user-chosen setting.
 
 > [!NOTE]
-> These user, app, and device settings differ from [tenant settings](tenant-settings.md).
+> These user, app, and device settings differ from [tenant settings](what-are-tenants.md).
 
 You can find these settings by first selecting a **group**, then choosing **Settings**.
 
@@ -128,7 +128,7 @@ Much of the information in the **What it does** column can also be found in the 
 ## Windows Defender settings
 
 > [!NOTE]
-> Certain Windows Defender settings are available at the [tenant](tenant-settings.md) level.
+> Certain Windows Defender settings are available at the [tenant](what-are-tenants.md) level.
 
 |Setting|What it does|
 |---|---|

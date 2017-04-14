@@ -4,7 +4,7 @@
 # [Get Started](get-started-with-intune-edu.md)
 ## [What is Express Configuration?](what-is-express-configuration.md)
 ## [What is School Data Sync?](what-is-school-data-sync.md)
-## [What are tenant settings?](tenant-settings.md)
+## [What are tenant settings?](what-are-tenants.md)
 ## [How do I acquire Store apps?](acquire-store-apps.md)
 
 # Planning
@@ -13,6 +13,7 @@
 # How to
 ## Use groups
 ### [What are groups?](what-are-groups.md)
+### [What is group inheritance?](group-inheritance.md)
 ### [Why can't I move this group?](why-cant-i-move-this-group.md)
 ## Use settings
 ### [What are settings?](what-are-settings.md)
@@ -23,6 +24,5 @@
 ## Use devices
 ## [How do I add devices?](add-devices.md)
 ## [How do I use Take a Test profiles?](take-a-test-profiles.md)
-
-## Reports
+## Use reports
 ### [What are reports?](what-are-reports.md)
