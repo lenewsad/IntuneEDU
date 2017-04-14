@@ -4,7 +4,7 @@
 # [Get Started](get-started-with-intune-edu.md)
 ## [What is Express Configuration?](what-is-express-configuration.md)
 ## [What is School Data Sync?](what-is-school-data-sync.md)
-## [What are tenant settings?](what-are-tenants)
+## [What are tenant settings?](what-are-tenants.md)
 ## [How do I acquire Store apps?](acquire-store-apps.md)
 
 # Planning
