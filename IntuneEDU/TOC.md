@@ -24,6 +24,5 @@
 ## Use devices
 ## [How do I add devices?](add-devices.md)
 ## [How do I use Take a Test profiles?](take-a-test-profiles.md)
-
-## Reports
+## Use reports
 ### [What are reports?](what-are-reports.md)
