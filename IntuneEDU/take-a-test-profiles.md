@@ -41,6 +41,9 @@ _Take a Test profiles_ are designed to make it easy for you to administer format
 - Students can’t change settings, extend their display, see notifications, get updates, or use autofill features.
 - Cortana is turned off.
 
+> [!NOTE]
+> You will need to create a Take a Test user before you can assign the Take a Test profile. Find out how to assign these users in the [Windows 10 for Education docs](https://technet.microsoft.com/edu/windows/take-a-test-multiple-pcs).
+
 You can set up Take a Test profiles by selecting **Take a Test profiles** from the choices in the sidebar.
 
   ![List of options in the sidebar](./media/dashboard-002-left-sidebar-list.png)
