@@ -3,7 +3,7 @@
 
 title: What is Intune for Education?
 titleSuffix: Intune for Education
-description: Learn about Intune for Education and how it can make managing school devices easier.
+description: Learn about Intune for Education and how it can make managing Windows 10 devices easier for educational institutions.
 keywords:
 author: barlanmsft
 ms.author: barlan
