@@ -49,4 +49,4 @@ In addition to these set up steps, you can also perform the following admin task
 Read more about [admin tasks for Intune for Education](what-are-tenants.md).
 
 ## Find out more
-- [Get started with Intune for enterprises](https://docs.microsoft.com/intune/get-started/start-with-a-paid-subscription-to-microsoft-intune)
+- [Get started with the full management experience in Intune](https://docs.microsoft.com/intune/get-started/start-with-a-paid-subscription-to-microsoft-intune)

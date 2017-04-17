@@ -77,4 +77,4 @@ Use the following steps to manage the full list of settings in Intune for Educat
 
 ## Find out more
 
-- [Find out more about the full range of policies in Intune](https://docs.microsoft.com/intune/deploy-use/manage-settings-and-features-on-your-devices-with-microsoft-intune-policies)
+- [Find out more about the full policy management experience in  Intune](https://docs.microsoft.com/intune/deploy-use/manage-settings-and-features-on-your-devices-with-microsoft-intune-policies)

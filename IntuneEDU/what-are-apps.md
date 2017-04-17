@@ -110,4 +110,4 @@ The Intune for Education portal shows the top twelve educational web apps and to
 
 ## Find out more
 
-- [Find out more about the full experience adding apps to devices using Intune](https://docs.microsoft.com/intune/deploy-use/add-apps)
+- [Find out more about the full experience managing apps using Intune](https://docs.microsoft.com/intune/deploy-use/add-apps)

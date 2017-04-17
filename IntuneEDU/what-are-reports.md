@@ -55,4 +55,5 @@ You can also download Intune for Education reports. In the [Intune for Education
 
 ## Find out more
 
-- [Monitor your apps and devices with reports using Intune for enterprises](https://docs.microsoft.com/intune/deploy-use/understand-microsoft-intune-operations-by-using-reports)
+- [Find out more about the full reporting experience in Intune](https://docs.microsoft.com/intune/deploy-use/understand-microsoft-intune-operations-by-using-reports)
+- [Find out more about reporting using Microsoft Graph](https://developer.microsoft.com/graph/docs/overview/overview)
