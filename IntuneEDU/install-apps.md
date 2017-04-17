@@ -11,7 +11,7 @@ manager: angrobe
 ms.date: 04/25/2017
 ms.topic: article
 ms.prod:
-ms.service:
+ms.service: microsoft-intune
 ms.technology:
 ms.assetid: 635a5cc7-7dd4-45f9-9b18-3eddb76d0c74
 searchScope:
@@ -25,7 +25,7 @@ searchScope:
 ms.reviewer: tanmayb
 #ms.suite: ems
 #ms.tgt_pltfrm:
-#ms.custom:
+#ms.custom: intune-education
 
 ---
 
@@ -58,3 +58,7 @@ This method lets you select an app and deploy it to one or more groups.
 2. In the list of apps on the left, choose the app you want to deploy.
 3. Choose **Groups** from the tasks across the top, and then choose **Change group assignments**.
 4. From the list, choose the groups you want to deploy the app to.
+
+## Find out more
+
+- [Find out more about installing apps using the full app management experience in Intune](https://docs.microsoft.com/intune/deploy-use/deploy-apps)

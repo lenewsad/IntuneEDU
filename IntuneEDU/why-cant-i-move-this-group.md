@@ -11,7 +11,7 @@ manager: angrobe
 ms.date: 04/25/2017
 ms.topic: article
 ms.prod:
-ms.service:
+ms.service: microsoft-intune
 ms.technology:
 ms.assetid: 4e34c493-2209-44d4-92c5-ce79f2b70e7d
 searchScope:
@@ -25,7 +25,7 @@ searchScope:
 ms.reviewer: tanmayb
 #ms.suite: ems
 #ms.tgt_pltfrm:
-#ms.custom:
+#ms.custom: intune-education
 
 ---
 

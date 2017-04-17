@@ -11,7 +11,7 @@ manager: angrobe
 ms.date: 04/25/2017
 ms.topic: article
 ms.prod:
-ms.service:
+ms.service: microsoft-intune
 ms.technology:
 ms.assetid: a5922c35-261c-43db-9c7b-c5c93af9cbec
 searchScope:
@@ -25,7 +25,7 @@ searchScope:
 ms.reviewer: tanmayb
 #ms.suite: ems
 #ms.tgt_pltfrm:
-#ms.custom:
+#ms.custom: intune-education
 
 ---
 
@@ -55,4 +55,5 @@ You can also download Intune for Education reports. In the [Intune for Education
 
 ## Find out more
 
-- [Monitor your apps and devices with reports using Intune for enterprises](https://docs.microsoft.com/intune/deploy-use/understand-microsoft-intune-operations-by-using-reports)
+- [Find out more about the full reporting experience in Intune](https://docs.microsoft.com/intune/deploy-use/understand-microsoft-intune-operations-by-using-reports)
+- [Find out more about reporting using Microsoft Graph](https://developer.microsoft.com/graph/docs/overview/overview)

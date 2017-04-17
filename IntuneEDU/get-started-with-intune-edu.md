@@ -11,7 +11,7 @@ manager: angrobe
 ms.date: 04/25/2017
 ms.topic: article
 ms.prod:
-ms.service:
+ms.service: microsoft-intune
 ms.technology:
 ms.assetid: 9d0466c5-d69d-4b85-814a-76e63dd65e63
 searchScope:
@@ -25,7 +25,7 @@ searchScope:
 #ms.reviewer:
 #ms.suite: ems
 #ms.tgt_pltfrm:
-#ms.custom:
+#ms.custom: intune-education
 
 ---
 
@@ -49,4 +49,4 @@ In addition to these set up steps, you can also perform the following admin task
 Read more about [admin tasks for Intune for Education](what-are-tenants.md).
 
 ## Find out more
-- [Get started with Intune for enterprises](https://docs.microsoft.com/intune/get-started/start-with-a-paid-subscription-to-microsoft-intune)
+- [Get started with the full management experience in Intune](https://docs.microsoft.com/intune/get-started/start-with-a-paid-subscription-to-microsoft-intune)

@@ -11,7 +11,7 @@ manager: angrobe
 ms.date: 04/25/2017
 ms.topic: article
 ms.prod:
-ms.service:
+ms.service: microsoft-intune
 ms.technology:
 ms.assetid: 24ab6547-aa65-428a-b184-06b806e95bd1
 searchScope:
@@ -25,7 +25,7 @@ searchScope:
 ms.reviewer:
 #ms.suite: ems
 #ms.tgt_pltfrm:
-#ms.custom:
+#ms.custom: intune-education
 
 ---
 
@@ -110,4 +110,4 @@ The Intune for Education portal shows the top twelve educational web apps and to
 
 ## Find out more
 
-- [Find out more about the full experience adding apps to devices using Intune](https://docs.microsoft.com/intune/deploy-use/add-apps)
+- [Find out more about the full experience managing apps using Intune](https://docs.microsoft.com/intune/deploy-use/add-apps)
