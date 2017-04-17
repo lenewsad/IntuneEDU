@@ -39,7 +39,7 @@ Intune for Education provides a set of default groups, **All Users** and **All D
 
 ## Groups in multiple places
 
-Depending on how you've set up your group structure, either in [Azure AD through School Data Sync](https://support.office.com/en-us/article/Overview-of-School-Data-Sync-and-Classroom-f3d1147b-4ade-4905-8518-508e729f2e91) or by manually creating them, you may end up with a subgroup directly underneath two groups.
+Depending on how you've set up your group structure, either in [Azure AD through School Data Sync](https://support.office.com/article/Overview-of-School-Data-Sync-and-Classroom-f3d1147b-4ade-4905-8518-508e729f2e91) or by manually creating them, you may end up with a subgroup directly underneath two groups.
 
   ![Subgroup under multiple groups error message appears](./media/groups-012-subgroup-is-under-two-groups-warning.png)
 
