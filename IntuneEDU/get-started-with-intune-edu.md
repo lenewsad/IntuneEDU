@@ -40,7 +40,7 @@ To get started with Intune for Education, you can follow these steps:
 
 In addition to these set up steps, you can also perform the following admin tasks:
 - Manage admin settings including:
-  - Sync apps you’ve purchased from the Microsoft Store for Business with Intune for Education
+  - Sync apps you’ve purchased from the Microsoft Store for Education with Intune for Education
   - Configure contact information that students and teachers can use to contact the IT department
   - Manage settings for support website information
 - Manage certificates that help secure access to school resources

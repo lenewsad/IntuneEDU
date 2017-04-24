@@ -1,7 +1,7 @@
 ---
 # required metadata
 
-title: Where are my popular Microsoft Store for Business apps?
+title: Where are my popular Microsoft Store for Education apps?
 titleSuffix: Intune for Education
 description: Learn why acquired apps may not appear in Intune for Education.
 keywords:
@@ -29,13 +29,13 @@ searchScope:
 
 ---
 
-# Where are my acquired Microsoft Store for Business apps?
+# Where are my acquired Microsoft Store for Education apps?
 
-During the app assignment process, Intune for Education recommends popular educational apps from the Microsoft Store for Business. If any of the apps becomes one you decide to use in a school, you can acquire the app for immediate assignment to groups from this screen.
+During the app assignment process, Intune for Education recommends popular educational apps from the Microsoft Store for Education. If any of the apps becomes one you decide to use in a school, you can acquire the app for immediate assignment to groups from this screen.
 
   ![Popular apps page during assignment process](./media/apps-008-add-popular-apps.png)
 
-When you acquire an app from the Microsoft Store for Business, a lot of information is being communicated between Intune for Education and the Store.
+When you acquire an app from the Microsoft Store for Education, a lot of information is being communicated between Intune for Education and the Store.
 
 This includes secure information such as your account information with both services and transactional data.
 

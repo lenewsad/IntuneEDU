@@ -47,7 +47,7 @@ These settings include __IT contact information__, such as who is the __IT depar
 
   ![Screenshot of the "Tenant Settings" option in Intune for Education console showing school, support website, and other information. ](./media/tenant-002-settings-screen.png)
 
-Tenant settings is also where you are able to force a sync between Intune for Education and Microsoft Store for Business if app purchases are taking too long to appear in Intune for Education.
+Tenant settings is also where you are able to force a sync between Intune for Education and Microsoft Store for Education if app purchases are taking too long to appear in Intune for Education.
 
 ## Certificate management
 
