@@ -89,7 +89,7 @@ You can install desktop apps through the same interface on the **Apps** page. Th
 
 You can also quickly install popular educational apps from the Microsoft Store for Education. Our goal is to make it easy for you to find and install your favorite apps for your users. We recommend these apps because they are frequently useful to educators. You can find these apps in Express Configuration, or under the **Manage apps** tile.
 
-  ![A selection of popular apps during the add apps process in Express Configuration.](./media/apps-007-popular-apps.png)
+  ![A selection of popular apps during the add apps process in Express Configuration.](./media/apps-005-popular-apps.png)
 
 The Intune for Education portal shows the top twelve educational web apps and top twelve educational Microsoft Store for Education apps that you haven’t added under **Apps** management.
 
