@@ -22,7 +22,7 @@
 ### [What are apps?](what-are-apps.md)
 ### [How do I install apps?](install-apps.md)
 ## Use devices
-## [How do I add devices?](add-devices.md)
-## [How do I use Take a Test profiles?](take-a-test-profiles.md)
+### [How do I add devices?](add-devices.md)
+### [How do I use Take a Test profiles?](take-a-test-profiles.md)
 ## Use reports
 ### [What are reports?](what-are-reports.md)
