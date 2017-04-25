@@ -51,7 +51,7 @@ Tenant settings is also where you are able to force a sync between Intune for Ed
 
 ## Certificate management
 
-Tenant admins can give users secured access to resources through VPN or Wi-Fi with _certificates_. However, certificate management is not available from the Intune for Education portal. Instead, you will need to use the full Intune portal. Find out more about the [full experience managing certificates with Intune](https://docs.microsoft.com/intune/deploy-use/secure-resource-access-with-certificate-profiles).
+Tenant admins can give users secured access to resources through VPN or Wi-Fi with _certificates_. However, certificate management is not available from the Intune for Education portal. Instead, you will need to use the full Intune portal. 
 
 ## Troubleshooting
 

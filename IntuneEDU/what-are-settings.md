@@ -38,7 +38,7 @@ _Configuration settings_ manage features on your devices. When you create a conf
 
 ## Manage settings
 
-Settings are managed on a per-group basis. You can manage the simple list of useful settings using [Express Configuration](what-are-settings.md#manage-settings-in-express-configuration) or view a full list of settings for a group for fine-tuning [while managing your groups](what-are-settings.md#manage-settings-for-groups).
+Settings are managed on a per-group basis. You can manage the simple list of useful settings using [Express Configuration](what-are-settings.md#manage-settings-in-express-configuration) or view a full list of settings for [working with groups](what-are-settings.md#manage-settings-for-groups).
 
 Device settings apply to all devices in their group. Settings that are **Not configured** allow the user to define their settings on their devices themselves.
 

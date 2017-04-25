@@ -43,7 +43,7 @@ You’ll start by selecting a group to configure.
 
   ![The choose group screen, which asks users to select a group.](./media/express-config-004-choose-group.png)
 
-A _group_ in Intune for Education is a collection of devices or users that are organized to make it easy to understand who or what you're managing. This could be devices (like _Sixth Grade Computer Cart_) or users (like _Fourth Grade Students_ or _Biology Teachers_). Intune for Education comes preset with groups based on the school information you've provided. We've got more information about groups available in our [groups articles](what-are-groups.md).
+A _group_ in Intune for Education is a collection of devices or users that are organized to make it easy to understand who or what you're configuring in the console. This could be devices (like _Sixth Grade Computer Cart_) or users (like _Fourth Grade Students_ or _Biology Teachers_). Intune for Education comes preset with groups based on the school information you've provided. We've got more information about groups available in our [groups articles](what-are-groups.md).
 
 We recommend that you start by assigning settings that you know **All Users** will need, like password requirements or blocking pop-ups in Microsoft Edge.
 
@@ -67,17 +67,19 @@ Select apps to assign to this group, then choose **Next** to continue.
 
 ## Choose settings
 
-Next, you’ll choose the device settings you want to apply to the devices or users in your group.
+Next, you’ll choose the settings you want to apply to the devices or users in your group.
 
   ![The choose settings screen. Settings are organized into a collapsed list, including divisions such as device sharing, basic device settings, app settings, browser settings, and more.](./media/express-config-006-choose-settings.png)
 
-Express Configuration shows you settings that you may want to get your groups ready to go. These settings are a selection of the full [list of settings available as part of Intune](https://docs.microsoft.com/intune/deploy-use/manage-settings-and-features-on-your-devices-with-microsoft-intune-policies). You can change these selections at any time to fit your needs and later you can view the full list in the Intune for Education console to fine-tune settings. We've got more information about settings available in our [settings articles](what-are-settings.md).
+Express Configuration shows you settings that you may want to get your groups ready to go. We've chosen these settings to make it easier for your users to quickly begin using their devices. You don't have to make any modifications if you want to use our recommendations, or you can customize these settings to meet specific needs.
+
+You can change Express Configuration selections at any time to fit any changes you need to make, and customize your settings even further using the full [list of settings available as part of Intune for Education](available-settings.md).
 
 ## Finish up
 
 After you make your selections, you have a chance to review the apps and settings you've chosen. You can then choose the **Finish** button or go back to any steps to modify these configurations.
 
-  ![The review your choices screen. It shows the apps and settings selected during Express Configuration.](./media/express-config-007-save-changes.png]
+  ![The review your choices screen. It shows the apps and settings selected during Express Configuration.](./media/express-config-007-save-changes.png)
 
 After you choose **Finish**, you can **Configure more groups** or be **All done**.
 
@@ -88,3 +90,6 @@ When you are done, you will be taken to the Intune for Education dashboard where
 ## Next steps
 
 After you have set up your groups with the apps and settings they need, you're ready to start using devices with Intune for Education.
+
+## Find out more
+- [Find out more about the settings available in the full management experience in Intune](https://docs.microsoft.com/intune/deploy-use/manage-settings-and-features-on-your-devices-with-microsoft-intune-policies)

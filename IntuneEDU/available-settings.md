@@ -31,7 +31,7 @@ ms.reviewer: tanmayb
 
 # Available settings for Intune for Education
 
-Managing settings is one of the key ways you can secure your Windows 10 devices and create the right kinds of access to enhance the learning experience. Intune for Education provides many settings that allow you to customize these experiences, both for individual groups and their subgroups.
+Configuring settings is one of the key ways you can secure your Windows 10 devices and create the right kinds of access to enhance the learning experience. Intune for Education provides many settings that allow you to customize these experiences, both for individual groups and their subgroups.
 
 Most settings are set up to either **Block** or **Allow** access to a certain device feature, where **Not configured** is the device's default setting or a user-chosen setting.
 
@@ -116,8 +116,8 @@ Much of the information in the **What it does** column can also be found in the 
 |---|---|
 |Branch readiness level|Define whether devices are on Current Branch or Current Branch for Business for Windows updates.|
 |Updates and maintenance period|Define the updates and maintenance period for the installation of updates.|
-|Scheduled install day|Define the day of the week that PCs will be updated and restarted.|
-|Scheduled install time|Define the time that PCs will be updated and restarted.|
+|Scheduled install day|Define the day of the week that devices will be updated and restarted.|
+|Scheduled install time|Define the time that devices will be updated and restarted.|
 |Update outside of scheduled times|Enable devices that are plugged in (e.g., in a cart) to be updated outside of scheduled update times.|
 |Defer feature updates|Define how many days to wait to apply feature updates to devices after they are available.|
 |Defer quality updates|Define how many days to wait to apply quality updates to devices after they are available.|

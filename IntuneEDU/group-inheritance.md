@@ -39,7 +39,7 @@ If you have a group with a subgroup underneath it, the subgroup will automatical
 
 ### What if group inheritance doesn't work for part of my school or organization?
 
-Let's assume that you're managing a school district, and that you've organized all devices as __School District__ > __School__ > __Grade__ > __Cart Number__. Halfway through the year, one of the schools adds a computer lab, so there's now a group of devices that doesn't work according to your current setup — for example, they can only remain logged in for only 30 minutes before automatically logging out. This is where overriding settings comes into play.
+Let's assume that you're configuring devices for a school district, and that you've organized all devices as __School District__ > __School__ > __Grade__ > __Cart Number__. Halfway through the year, one of the schools adds a computer lab, so there's now a group of devices that doesn't work according to your current setup — for example, they can only remain logged in for only 30 minutes before automatically logging out. This is where overriding settings comes into play.
 
   ![Are you sure you want to override settings?](./media/groups-003-beginning-to-deviate-from-inheritance.png)
 

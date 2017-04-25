@@ -38,7 +38,7 @@ An easy way to start using Intune for Education is to:
 1. [Set up school data](what-is-school-data-sync.md) — Import or sync your school information with Microsoft's School Data Sync (SDS)
 
 > [!NOTE]
-> Setting up School Data Sync is not required for managing your student and teacher information. You can also set up these [groups](what-are-groups.md) manually in Azure AD.
+> Setting up School Data Sync is not required for configuring your student and teacher information. You can also set up these [groups](what-are-groups.md) manually in Azure AD.
 
 2. [Run Express Configuration](what-is-express-configuration.md) — Easily assign apps and settings to groups of students and teachers
 3. [Add devices](add-devices.md) — Connect devices with Intune for Education to install apps and apply settings
