@@ -18,9 +18,9 @@
 ### [What are settings?](what-are-settings.md)
 ### [What settings are available?](available-settings.md)
 ## Use apps
-### [What are apps?](what-are-apps.md)
+### [How do I add apps?](how-to-add-apps.md)
 ### [How do I acquire Store apps?](acquire-store-apps.md)
-### [How do I install apps?](install-apps.md)
+### [How do I install apps on devices?](install-apps.md)
 ## Use devices
 ### [How do I add devices?](add-devices.md)
 ### [How do I use Take a Test profiles?](take-a-test-profiles.md)

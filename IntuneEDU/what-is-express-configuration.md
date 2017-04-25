@@ -31,21 +31,11 @@ searchScope:
 
 # What is Express Configuration?
 
-Express Configuration is the one of the most prominent tiles that you see when you first sign in to Intune for Education.
+Express Configuration is one of the tiles that you see when you first sign in to Intune for Education.
 
   ![The Express Configuration tile, which says Launch Express Configuration - Click here to choose apps and settings for a group.](./media/express-config-001-launch-tile.png)
 
-Express Configuration helps you quickly provide a group of users the apps and settings they need. It's not something that you're limited to just using once; you can use it anytime you want to make changes to any group you manage. We’ve chosen some apps and default settings that we think you’ll find useful. You can change these choices to fit your needs.
-
-## Get school information
-
-**Optional/Prep-work**: Intune for Education doesn't come set up with your information in it in advance. This means that you or someone in IT must get any student, teacher, or employee records into Intune for Education before you can begin using it to manage them. One way to approach this is to sync your School Information System (SIS) with Intune. This makes information about student names, teacher names, and classes available in the Intune for Education console so you can assign specific apps and settings to groups of students and teachers.
-
-  ![The splash screen in Express Configuration, which gives a brief explanation of the four steps of Express Configuration: Get school information; Choose a group to set up; Choose apps to install; and Choose group settings. The Get Started button waits at the bottom of the screen.](./media/express-config-002-splash-screen.png)
-
-The advantage to doing this is that it brings the most current information from your SIS into Intune for Education. Express Configuration uses [School Data Sync](what-is-school-data-sync.md) through a few different ways, depending on the services available to your school or school district. You can use third-party services like PowerSchool or Clever, or export data files from your information service and import them directly. This information is then added to Microsoft's [Azure Active Directory service](https://microsoft.com), which manages that data for Intune for Education.
-
-  ![The Get School Information screen, which gives a brief explanation of getting school information imported into Intune for Education. It also prompts you to either navigate to the external School Data Sync page or move on to the next step.](./media/express-config-003-get-school-info.png)
+Express Configuration helps you quickly provide users and devices with the apps and settings they need. It's not something that you're limited to just using once; you can use it anytime you want to make changes to any group you manage. We’ve chosen some apps and default settings that we think you’ll find useful. You can change these choices to fit your needs.
 
 ## Choose a group
 
@@ -61,11 +51,17 @@ Select a group to set up, then choose **Next** to continue.
 
 ## Choose apps
 
-Now, you'll choose an app to assign to this group.
+Now, you'll choose apps to assign to this group.
 
   ![The app assignment screen. Apps are organized for assignment by different types, including web apps and Microsoft Store for Education apps.](./media/express-config-005-choose-apps.png)
 
-There are multiple kinds of apps available to install on devices, including desktop apps, Microsoft Store for Education apps, and web apps. Intune for Education also displays popular apps from the Microsoft Store for Education from across all Intune for Education users. We've got more information about apps available in our [apps articles](what-are-apps.md).
+There are a few types of apps that you can install on devices:
+
+* [Web apps](how-to-add-apps.md#add-web-apps)
+* [Desktop apps](how-to-add-apps.md#add-desktop-apps)
+* [Microsoft Store for Education apps](acquire-store-apps.md)
+
+Intune for Education also displays [popular apps from the Microsoft Store for Education](how-to-add-apps.md#add-popular-apps) from across all Intune for Education users.
 
 Select apps to assign to this group, then choose **Next** to continue.
 

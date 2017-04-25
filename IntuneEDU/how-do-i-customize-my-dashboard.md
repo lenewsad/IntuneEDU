@@ -40,7 +40,7 @@ The dashboard is made up of tiles that let you quickly get to work using Intune 
 - [Express Configuration](what-is-express-configuration.md)
 - [School Data Sync](what-is-school-data-sync.md)
 - [Manage user and device groups](what-are-groups.md)
-- [Manage apps](what-are-apps.md)
+- [Manage apps](how-to-add-apps.md)
 
 These tiles will show different information based on whether they're fully set up and how many items are in each of the various categories.
 
