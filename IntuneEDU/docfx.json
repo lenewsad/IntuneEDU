@@ -27,7 +27,9 @@
     ],
     "overwrite": [],
     "externalReference": [],
-    "globalMetadata": {},
+    "globalMetadata": {
+      "breadcrumb_path": "/enterprise-mobility-security/toc.json"
+    },
     "fileMetadata": {},
     "template": [],
     "dest": "IntuneEDU"
