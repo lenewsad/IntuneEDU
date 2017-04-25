@@ -13,7 +13,6 @@
 ## Use groups
 ### [What are groups?](what-are-groups.md)
 ### [What is group inheritance?](group-inheritance.md)
-### [Why can't I move this group?](why-cant-i-move-this-group.md)
 ## Use settings
 ### [What are settings?](what-are-settings.md)
 ### [What settings are available?](available-settings.md)

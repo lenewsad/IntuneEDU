@@ -31,11 +31,11 @@ ms.reviewer: tanmayb
 
 # What are groups?
 
-Intune for Education uses _groups_ to manage users and devices. You can group users or devices together instead of having to manage each device individually. This lets you easily assign apps and settings to large numbers of users and devices.
+You use _groups_ to manage users, apps, and devices in Intune for Education. You can group users or devices together instead of having to manage each device individually. This lets you easily assign apps and settings to large numbers of users and devices.
 
 When you create groups, consider how you will apply the settings and apps to users and devices. For example, you may need to block apps from using location services for all devices. An alternative to this is how specific groups may need certain things, like giving students taking [AP Computer Science](https://www.tealsk12.org) apps to edit their code.
 
-Intune for Education automatically creates the __All Devices__ and __All Users__ groups when your tenant is created. These default groups represent the broadest categories of users and devices in your school or school district, and [cannot be moved](why-cant-i-move-this-group.md).
+Intune for Education automatically creates the __All Devices__ and __All Users__ groups when your tenant is created. These default groups represent the broadest categories of users and devices in your school or school district, and [cannot be moved](what-are-groups.md#why-cant-i-move-certain-groups).
 
 ## Managing groups and subgroups
 
@@ -85,7 +85,18 @@ You can move a group within your group structure, or **hierarchy**.
 4.	Select the group location to which you want to move the group by either searching a group name or by selecting it in the hierarchy.
 5.	Select **OK** to save your changes.
 
+## Why can't I move certain groups?
+
+Intune for Education provides a set of default groups that cannot be moved, **All Users** and **All Devices**, when your [tenant is created](what-are-tenants.md). **All Teachers** and **All Students** are default groups that are created after School Data Sync has imported student and teacher data into Intune for Education.
+
+This may rarely cause an issue where you may end up with a subgroup underneath two groups.
+
+  ![Subgroup under multiple groups error message appears](./media/groups-012-subgroup-is-under-two-groups-warning.png)
+
+If this happens, you'll need to choose a single group to place above this subgroup.
+
 ## Delete a group
+
 When you delete a group, Intune for Education removes the collection of apps and settings on any device that is a member of that group. Deleting a group will not remove those users or devices from management.
 
   ![Delete groups buttons encircled in red](./media/groups-011-delete-groups.png)
