@@ -13,7 +13,6 @@
 ## Use groups
 ### [What are groups?](what-are-groups.md)
 ### [What is group inheritance?](group-inheritance.md)
-### [Why can't I move this group?](why-cant-i-move-this-group.md)
 ## Use settings
 ### [What are settings?](what-are-settings.md)
 ### [What settings are available?](available-settings.md)
@@ -23,7 +22,7 @@
 ### [How do I acquire Store apps?](acquire-store-apps.md)
 ### [How do I install apps on devices?](install-apps.md)
 ## Use devices
-### [How do I add devices?](add-devices.md)
+### [How do I add devices?](how-do-i-add-devices.md)
 ### [How do I use Take a Test profiles?](take-a-test-profiles.md)
 ## Use reports
 ### [What are reports?](what-are-reports.md)

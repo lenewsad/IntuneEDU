@@ -60,7 +60,6 @@ Once a Take a Test profile has been created, you can view the details about it w
 
   ![Take a test profile info window after creation](./media/takeatest-003-profile-details.png)
 
-
 ## Find out more
 
 - [Find out more about Take a Test](https://technet.microsoft.com/edu/windows/take-tests-in-windows-10)
