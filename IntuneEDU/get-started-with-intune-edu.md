@@ -1,7 +1,7 @@
 ---
 # required metadata
 
-title: Get started
+title: Get started with Intune for Education
 titleSuffix: Intune for Education
 description: Learn the requirements to set up Intune for Education.
 keywords:
@@ -31,22 +31,19 @@ searchScope:
 
 # Get started with Intune for Education
 
-To set up Intune for Education, you connect Intune with your schools' data and then configure apps and settings for groups of students and teacher. Once you have set up the configurations you want for your devices, you can start managing devices.
+To set up Intune for Education, you configure your student and teacher information, then manage student, teacher, and device information. The first step is to get your student and teacher information into Intune for Education, then arrange apps and settings for groups of students and teachers. After you set up the configurations that you want for your devices, you apply them to devices and start allowing them to be used while under management.
 
-To get started with Intune for Education, you can follow these steps:
-1. [Set up school data](what-is-school-data-sync.md) — Import or sync your schools' information with Microsoft's School Data Sync (SDS)
+An easy way to start using Intune for Education is to:
+
+1. [Set up school data](what-is-school-data-sync.md) — Import or sync your school information with Microsoft's School Data Sync (SDS)
+
+> [!NOTE]
+> Setting up School Data Sync is not required for managing your student and teacher information. You can also set up these [groups](what-are-groups.md) manually in Azure AD.
+
 2. [Run Express Configuration](what-is-express-configuration.md) — Easily assign apps and settings to groups of students and teachers
 3. [Add devices](add-devices.md) — Connect devices with Intune for Education to install apps and apply settings
 
-In addition to these set up steps, you can also perform the following admin tasks:
-- Manage admin settings including:
-  * Sync apps you’ve purchased from the Microsoft Store for Education with Intune for Education
-  * Configure contact information that students and teachers can use to contact the IT department
-  * Manage settings for support website information
-- Manage certificates that help secure access to school resources
-- Learn how to solve problems when things go wrong
-
-Read more about [admin tasks for Intune for Education](what-are-tenants.md).
-
 ## Find out more
-- [Get started with the full management experience in Intune](https://docs.microsoft.com/intune/get-started/start-with-a-paid-subscription-to-microsoft-intune)
+- [Find out more about tenant-level tasks in Intune for Education](what-are-tenants.md)
+- [Find out more about getting started with the full management experience in Intune](https://docs.microsoft.com/intune/get-started/start-with-a-paid-subscription-to-microsoft-intune)
+- [Find out more about managing groups in Azure AD](https://docs.microsoft.com/azure/active-directory/active-directory-groups-create-azure-portal)
