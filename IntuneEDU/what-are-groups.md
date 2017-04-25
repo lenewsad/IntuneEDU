@@ -31,7 +31,7 @@ ms.reviewer: tanmayb
 
 # What are groups?
 
-Intune for Education uses _groups_ to manage users and devices. You can group users or devices together instead of having to manage each device individually. This lets you assign apps and settings to small or large groups.
+Intune for Education uses _groups_ to manage users and devices. You can group users or devices together instead of having to manage each device individually. This lets you easily assign apps and settings to large numbers of users and devices.
 
 When you create groups, consider how you will apply the settings and apps to users and devices. For example, you may need to apply a basic password requirement across all devices, while only students taking [AP Computer Science](https://www.tealsk12.org) might need the Java SE Development Kit.
 
