@@ -65,7 +65,7 @@ You can edit the app at any time by choosing **Edit**, which re-opens its detail
 
 You can install desktop apps through the same interface on the **Apps** page. This process is similar to installing a web app, but involves the install file that web apps don't require.
 
-![The new desktop app screen.](./media/apps-005-add-desktop-app.png)
+![The new desktop app screen.](./media/apps-003-add-desktop-app.png)
 
 1. In the [Intune for Education](https://intuneeducation.portal.azure.com) console, choose **Apps**.
 
@@ -78,7 +78,7 @@ You can install desktop apps through the same interface on the **Apps** page. Th
 
 3. Choose **Save and upload file**.
 
-  ![The add new desktop app screen, with all fields filled out for sample app, evernote.](./media/apps-006-filled-out-desktop-app.png)
+  ![The add new desktop app screen, with all fields filled out for sample app, evernote.](./media/apps-004-filled-out-desktop-app.png)
 
 4. The app will then upload to Intune for Education. Once the upload is complete, you can [install the app on devices](install-apps.md).
 
@@ -98,15 +98,15 @@ The Intune for Education portal shows the top twelve educational web apps and to
 
 1. In the [Intune for Education](https://intuneeducation.portal.azure.com) console, choose  **Manage Apps** > **Add apps** > **Quick add popular apps**. A list of **Web apps** and **Microsoft Store apps** is displayed.
 
-  ![The quick add popular apps screen.](./media/apps-008-add-popular-apps.png)
+  ![The quick add popular apps screen.](./media/apps-006-add-popular-apps.png)
 
 2. Select the apps you want to add, then choose **Add apps**.
 
-  ![Selecting multiple popular apps to add to the portal.](./media/apps-009-select-multiple-popular-apps.png)
+  ![Selecting multiple popular apps to add to the portal.](./media/apps-007-select-multiple-popular-apps.png)
 
 3. Your apps will add in the background and appear in the left hand sidebar when ready.
 
-  ![Your apps are being added screen.](./media/apps-010-your-popular-apps-are-being-added.png)
+  ![Your apps are being added screen.](./media/apps-008-your-popular-apps-are-being-added.png)
 
 ## Find out more
 
