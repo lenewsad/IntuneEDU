@@ -33,7 +33,7 @@ searchScope:
 
 During the app assignment process, Intune for Education recommends popular educational apps from the Microsoft Store for Education. If any of the apps becomes one you decide to use in a school, you can acquire the app for immediate assignment to groups from this screen.
 
-  ![Popular apps page during assignment process](./media/apps-008-add-popular-apps.png)
+  ![Popular apps page during assignment process](./media/apps-006-add-popular-apps.png)
 
 When you acquire an app from the Microsoft Store for Education, a lot of information is being communicated between Intune for Education and the Store.
 
