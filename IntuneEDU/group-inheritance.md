@@ -31,7 +31,7 @@ ms.reviewer: tanmayb
 
 # What is group inheritance?
 
-Groups are set up as tiers, with one group above another. This makes it easier to organize large groups of users, apps, and devices.
+Groups are set up as hierarchies, with one group above another. This makes it easier to organize large groups of users, apps, and devices.
 
   ![A tree of groups of and subgroups.](./media/groups-002-inheritance.png)
 
