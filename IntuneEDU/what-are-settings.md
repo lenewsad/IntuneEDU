@@ -56,12 +56,12 @@ Express Configuration makes it easy for you to get started quickly, but can also
 3. Select the group whose settings you want to manage, and then choose **Next**.
 4. Review the list of apps, and then choose **Next**.
 5. On the **Settings** page, expand the categories of available settings:
-  - [Basic device settings](available-settings.md#basic-device-settings)
-  - [Microsoft Edge settings](available-settings.md#microsoft-edge-settings)
-  - [Device update settings](available-settings.md#device-update-settings)
-  - [Wireless settings](available-settings.md#wireless-settings)
-  - [App settings](available-settings.md#app-settings)
-  - [Sign in settings](available-settings.md#sign-in-settings)
+  * [Basic device settings](available-settings.md#basic-device-settings)
+  * [Microsoft Edge settings](available-settings.md#microsoft-edge-settings)
+  * [Device update settings](available-settings.md#device-update-settings)
+  * [Wireless settings](available-settings.md#wireless-settings)
+  * [App settings](available-settings.md#app-settings)
+  * [Sign in settings](available-settings.md#sign-in-settings)
 
   Expand a category and toggle the control to modify settings, and then choose **Next**.
 6. Review your choices and then choose **Finish** to save your changes update them on devices in the selected group.

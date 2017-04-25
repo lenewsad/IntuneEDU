@@ -39,11 +39,11 @@ There are currently two kinds of reports that you can view in Intune for Educati
 
 2. Select the report you want to view. The following reports are available in Intune for Education:
 
-  - **Device Inventory** - A list of devices managed by Intune for Education
+  * **Device Inventory** — A list of devices managed by Intune for Education
 
   ![The device inventory report screen, showing a list of devices under Intune for Education management.](./media/reports-001-device-inventory.png)
 
-  - **Application Inventory** A list of apps installed on devices under management by Intune for Education, including the number of devices with that app installed
+  * **Application Inventory** A list of apps installed on devices under management by Intune for Education, including the number of devices with that app installed
 
   ![The application inventory report screen, showing a list of apps under Intune for Education management.](./media/reports-002-app-inventory.png)
 

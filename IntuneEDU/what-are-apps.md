@@ -51,9 +51,9 @@ You can assign web apps as links in the Start menu of Windows 10 devices using I
 1. In the [Intune for Education](https://intuneeducation.portal.azure.com) console, choose **Apps**.
 
 2. Under **Web apps**, select **+ New app**, then enter the following details:
- - **URL** - The URL of the app that you want to assign
- - **App name** - The name of the app displayed in the Start menu on devices
- - **Icon** - Upload a PNG or JPG from your computer to use as an icon for the app
+ * **URL** — The URL of the app that you want to assign
+ * **App name** — The name of the app displayed in the Start menu on devices
+ * **Icon** — Upload a PNG or JPG from your computer to use as an icon for the app
 
 3. Choose **Save**. Your web app is now ready.
 
@@ -70,11 +70,11 @@ You can install desktop apps through the same interface on the **Apps** page. Th
 1. In the [Intune for Education](https://intuneeducation.portal.azure.com) console, choose **Apps**.
 
 2. Under **Desktop apps**, select **+ New app**. This will open the **New desktop app** screen, then enter the following details:
- - **App file** - Upload an MSI installer for the app
- - **App name** - The name of the app to appear on devices
- - **Description** - A description of the app to help you with quickly identifying which app it is
- - **Publisher** - The name of the app publisher, to help you with quickly identifying who developed the app
- - **Icon** - Upload a PNG or JPG from your computer to use as an icon for the app
+ * **App file** — Upload an MSI installer for the app
+ * **App name** — The name of the app to appear on devices
+ * **Description** — A description of the app to help you with quickly identifying which app it is
+ * **Publisher** — The name of the app publisher, to help you with quickly identifying who developed the app
+ * **Icon** — Upload a PNG or JPG from your computer to use as an icon for the app
 
 3. Choose **Save and upload file**.
 

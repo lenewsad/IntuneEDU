@@ -39,7 +39,7 @@ If you have a group with a subgroup underneath it, the subgroup will automatical
 
 ### What if group inheritance doesn't work for part of my school or organization?
 
-Let's assume that you're managing a school district, and that you've organized all devices as __School District__ > __School__ > __Grade__ > __Cart Number__. Halfway through the year, one of the schools adds a computer lab, so there's now a group of devices that doesn't work according to your current setup - for example, they can only remain logged in for only 30 minutes before automatically logging out. This is where overriding settings comes into play.
+Let's assume that you're managing a school district, and that you've organized all devices as __School District__ > __School__ > __Grade__ > __Cart Number__. Halfway through the year, one of the schools adds a computer lab, so there's now a group of devices that doesn't work according to your current setup — for example, they can only remain logged in for only 30 minutes before automatically logging out. This is where overriding settings comes into play.
 
   ![Are you sure you want to override settings?](./media/groups-003-beginning-to-deviate-from-inheritance.png)
 
@@ -47,7 +47,7 @@ If the __Computer Lab__ group under the __School__ group needs to have different
 
   ![Beginning to deviate from inheritance.](./media/groups-004-are-you-sure-you-want-to-override-settings.png)
 
-Overriding inheritance means that you must manually manage that group's settings. When you break this chain, all inheritance is broken - including for any new settings you apply to groups higher up in the list.
+Overriding inheritance means that you must manually manage that group's settings. When you break this chain, all inheritance is broken — including for any new settings you apply to groups higher up in the list.
 
 You can also restore inheritance and the settings from groups to back to subgroups.
 

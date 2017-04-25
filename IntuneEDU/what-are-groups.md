@@ -51,7 +51,7 @@ Intune for Education provides a set of default groups when your tenant is create
 ## Create a subgroup
 You can create subgroups under any group except certain default groups, like __All Devices__ or __All Users__. Subgroups are useful to refine the organization of device users.  For example, you could create a **Science class** subgroup under **Sixth grade students** to help provide apps for those classes.
 
-  ![The create subgroup page, with the two locations for subgroup creation - at the top of the group name and the sidebar - encircled in red](./media/groups-007-create-subgroup.png)
+  ![The create subgroup page, with the two locations for subgroup creation — at the top of the group name and the sidebar — encircled in red](./media/groups-007-create-subgroup.png)
 
 1.	In the [Intune for Education console](https://intuneeducation.portal.azure.com), choose **Manage user and device groups**.  The **Groups** blade opens.
 2. Select the group beneath which you want to create a subgroup.
@@ -64,7 +64,7 @@ You can create subgroups under any group except certain default groups, like __A
 > It's possible that you'll have some groups that don't work within the structure you've set up. Find out how to manage resolve these kinds of exceptions with [group inheritance](group-inheritance.md).
 
 ## Edit group membership
-After you've created a group, it's possible that you'll need to edit the membership - for example, if a student transfers to another school in your district and that student will take their device with them to that school.
+After you've created a group, it's possible that you'll need to edit the membership — for example, if a student transfers to another school in your district and that student will take their device with them to that school.
 
   ![Editing devices in a group](./media/groups-008-edit-group-membership.png)
 
@@ -73,8 +73,8 @@ After you've created a group, it's possible that you'll need to edit the members
 3. Click the **Devices** tab.
 4. Click the **Edit devices** button.
 5.	Select the appropriate option:
-  - Click **Add Devices** to add more devices from a list
-  - Click **X** next to a device to delete a device
+  * Click **Add Devices** to add more devices from a list
+  * Click **X** next to a device to delete a device
 
   Click **OK** to save your changes.
 
