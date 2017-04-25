@@ -31,9 +31,7 @@ searchScope:
 
 # What are tenants?
 
-Your _tenant_ is your organization's individual instance of Intune for Education. Think of it like logging into the Office 365 Outlook Web App to get your email. When you log in, it just shows your information, but when one of your colleagues logs in, it just shows their information. The IT admin for Office 365 can manage certain settings for all users, like showing a custom logo or a school's colors.  
-
-When you modify tenant settings, you are modifying settings across your entire subscription and all of your licenses.
+Your _tenant_ is your organization's complete instance of Intune for Education. Modifying things at the tenant level don't impact a single group, or even a large group like **All Students**. These modifications affect every device under management and every person in your organization using those devices, across your entire subscription and for all of your licenses.
 
 ## How do I manage tenant-wide settings in Intune for Education?
 
@@ -47,17 +45,8 @@ These settings include __IT contact information__, such as who is the __IT depar
 
   ![Screenshot of the "Tenant Settings" option in Intune for Education console showing school, support website, and other information. ](./media/tenant-002-settings-screen.png)
 
-Tenant settings is also where you are able to force a sync between Intune for Education and Microsoft Store for Education if app purchases are taking too long to appear in Intune for Education.
-
-## Certificate management
-
-Tenant admins can give users secured access to resources through VPN or Wi-Fi with _certificates_. However, certificate management is not available from the Intune for Education portal. Instead, you will need to use the full Intune portal. 
-
-## Troubleshooting
-
-Errors in the Intune for Education portal are reported in a notification tab at the top right of the Intune for Education console. An error message appear typically includes a description and an error code. To view a list of recent errors and notifications, choose the bell icon at the top-right of the Intune for Education console.
+Tenant settings are also where you can force a sync between Intune for Education and Microsoft Store for Education if app purchases are taking too long to appear in Intune for Education.
 
 ## Find out more
 
-- [Find out more about the full experience managing certificates with Intune](https://docs.microsoft.com/intune/deploy-use/secure-resource-access-with-certificate-profiles)
-- [Find out about the full experience troubleshooting with Intune](https://docs.microsoft.com/intune/troubleshoot/general-troubleshooting-tips-for-microsoft-intune)
+- [Find out more about setting up role-based access in the full management experience in Intune](https://docs.microsoft.com/intune-azure/access-control/role-based-access-control)
