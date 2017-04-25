@@ -53,4 +53,5 @@ You'll need to bring do the following to bring Windows 10 devices into managemen
 Your device will [authenticate with Azure AD](https://docs.microsoft.com/azure/active-directory/active-directory-conditional-access) and will receive the assigned apps and settings once setup completes.
 
 ## Find out more
+- [Find out more about the **Set up School PCs** app](https://docs.microsoft.com/education/windows/use-set-up-school-pcs-app)
 - [Find out more about the full experience adding devices into Intune](https://docs.microsoft.com/intune/deploy-use/enroll-devices-in-microsoft-intune)

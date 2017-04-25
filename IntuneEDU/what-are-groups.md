@@ -47,31 +47,17 @@ You can create groups by navigating to **Groups**, then selecting **Create Group
 2. Select the group beneath which you want to create a subgroup.
 3. Click **Create subgroup**, then enter the **Group Name**.
 
-## Edit group membership
+## Making changes to groups
 
 After you've created a group, it's possible that you'll need to edit its membership — for example, if a device needs to transferred to another school in your district.
 
   ![Editing devices in a group](./media/groups-008-edit-group-membership.png)
 
-1. In the [Intune for Education portal](https://intuneeducation.portal.azure.com), select **Manage Groups**.
-2. Select the group whose members you want to edit.
-3. Click the **Devices** tab.
-4. Click the **Edit devices** button.
-5. Select the appropriate option:
-  * Click **Add Devices** to add more devices from a list
-  * Click **X** next to a device to delete a device
+1. Select the group whose members you want to edit.
+2. Select the **Devices** tab.
+3. Select the **Edit devices** button, then choose **Add Devices** to add more devices from a list or the **X** next to a device to delete it.
 
-  Click **OK** to save your changes.
-
-## Rename a group
-
-  ![Rename a group buttons encircled in red](./media/groups-009-rename-group.png)
-
-1.	In the [Intune for Education portal](https://intuneeducation.portal.azure.com), choose **Manage Groups**.
-2. Select the group that needs to be renamed.
-3.	Click **Rename** either by clicking the **Rename** button.
-4.	Enter the new **Name**.
-5.	Select **OK** to save your changes.
+If you need to rename a group, select the group that needs to be renamed, then the **Rename** button to edit the name.
 
 ## Move a group
 
