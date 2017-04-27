@@ -5,6 +5,9 @@
 ## [What is Express Configuration?](what-is-express-configuration.md)
 ## [What is School Data Sync?](what-is-school-data-sync.md)
 ## [What are tenants?](what-are-tenants.md)
+## Settings
+### [What are settings?](what-are-settings.md)
+### [What is settings inheritance?](settings-inheritance.md)
 
 # Planning
 ## [What are Enrollment Managers?](what-are-enrollment-managers.md)
@@ -13,8 +16,7 @@
 ## Use groups
 ### [What are groups?](what-are-groups.md)
 ## Use settings
-### [What are settings?](what-are-settings.md)
-### [What is setting inheritance?](setting-inheritance.md)
+### [How do I manage settings?](how-do-i-manage-settings.md)
 ### [What settings are available?](available-settings.md)
 ### [What are certificates?](what-are-certificates.md)
 ## Use apps

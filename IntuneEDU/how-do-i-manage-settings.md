@@ -32,12 +32,12 @@ ms.reviewer: lpatha
 
 ## Manage settings
 
-Settings are managed on a per-group basis. You can manage the simple list of useful settings using [Express Configuration](what-are-settings.md#manage-settings-in-express-configuration) or view a full list of settings for [working with groups](settings-inheritance.md).
+Settings are managed on a per-group basis. You can manage the simple list of useful settings using [Express Configuration](how-do-i-manage-settings.md#manage-settings-in-express-configuration) or view a full list of settings for [working with groups](settings-inheritance.md).
 
 Device settings apply to all devices in their group. Settings that are **Not configured** allow the user to define their settings on their devices themselves.
 
 > [!NOTE]
-> Intune for Education settings such as **Block** or **Allow** override the device’s settings. For example, if a device has a camera and that camera is enabled by default, but the group setting for that device has Camera set to **Block**, [then the camera on the device will be turned off](setting-inheritance.md).
+> Intune for Education settings such as **Block** or **Allow** override the device’s settings. For example, if a device has a camera and that camera is enabled by default, but the group setting for that device has Camera set to **Block**, [then the camera on the device will be turned off](settings-inheritance.md).
 
 ## Manage settings for groups
 
