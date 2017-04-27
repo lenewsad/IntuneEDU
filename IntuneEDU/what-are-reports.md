@@ -33,7 +33,7 @@ ms.reviewer: tanmayb
 
 Intune for Education provides reports that let you view certain activities from devices and apps managed with Intune for Education. You can download these reports to review them offline.
 
-There are currently three kinds of reports that you can view in Intune for Education: __Device Inventory__, __Application Inventory__, and .
+There are currently three kinds of reports that you can view in Intune for Education: __Device Inventory__, __Application Inventory__, and __Settings Conflicts__.
 
 1. In the [Intune for Education](https://intuneeducation.portal.azure.com) console, choose **Reports** in the left navigation bar.
 
@@ -43,9 +43,13 @@ There are currently three kinds of reports that you can view in Intune for Educa
 
   ![The device inventory report screen, showing a list of devices under Intune for Education management.](./media/reports-001-device-inventory.png)
 
-  * **Application Inventory** A list of apps installed on devices under management by Intune for Education, including the number of devices with that app installed
+  * **Application Inventory** — A list of apps installed on devices under management by Intune for Education, including the number of devices with that app installed
 
   ![The application inventory report screen, showing a list of apps under Intune for Education management.](./media/reports-002-app-inventory.png)
+
+  * **Settings Conflicts** — A list of settings that are [currently in conflict](setting-inheritance.md##can-i-ever-have-settings-that-dont-work-together) for any groups in your hierarchy.
+
+  ![The settings conflicts report screen, showing a list of setting conflicts.]
 
   You can also select the type of app (web app, Desktop app, Microsoft Store app) to only show information about that specific kind of app.
 
