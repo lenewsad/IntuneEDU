@@ -12,9 +12,9 @@
 # How to
 ## Use groups
 ### [What are groups?](what-are-groups.md)
-### [What is group inheritance?](group-inheritance.md)
 ## Use settings
 ### [What are settings?](what-are-settings.md)
+### [What is setting inheritance?](setting-inheritance.md)
 ### [What settings are available?](available-settings.md)
 ### [What are certificates?](what-are-certificates.md)
 ## Use apps
