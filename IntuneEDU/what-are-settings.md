@@ -31,12 +31,12 @@ ms.reviewer: lpatha
 ---
 
 # What are configuration settings?
+
 All settings are managed on a per-group basis. You can manage the simple list of settings settings using [Express Configuration](how-do-i-manage-settings.md#manage-settings-with-express-configuration) or view a full list of settings for [working with groups](how-do-i-manage-settings.md#manage-settings-for-groups).
 
-
 ## Are there any other kinds of settings?
-The only settings in Intune for Education that you cannot use here are tenant settings. Configuration settings modify user, app, and device behavior for your organization. Find out how to manage [tenant settings for your subscription](what-are-tenants.md).
 
+The only settings in Intune for Education that you cannot use here are tenant settings. Configuration settings modify user, app, and device behavior for your organization. Find out how to manage [tenant settings for your subscription](what-are-tenants.md).
 
 ## Manage settings
 
@@ -50,4 +50,4 @@ Device settings apply to all devices in their group. Settings that are **Not con
 
 ## Find out more
 
--
+- [Find out more about how to protect apps and data with the full management experience in Intune](https://docs.microsoft.com/intune/deploy-use/protect-apps-and-data-with-microsoft-intune)

@@ -65,8 +65,6 @@ Consider a subgroup, *Twelfth Grade AP Computer Science*, to the group *Twelfth 
 
 Intune for Education will allow you to apply a wide range of settings to your Windows 10 devices. This can sometimes cause an issue where one of your settings may conflict with another setting. You can see settings that are actively conflicting in the [settings conflict report](what-are-reports.md)
 
-
-
 ## Find out more
 
 - [Find out more about the full groups experience in Intune](https://docs.microsoft.com/intune/deploy-use/use-groups-to-manage-users-and-devices-with-microsoft-intune)
