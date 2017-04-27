@@ -32,7 +32,7 @@ ms.reviewer: lpatha
 
 ## Manage settings
 
-Settings are managed on a per-group basis. You can manage the simple list of useful settings using [Express Configuration](how-do-i-manage-settings.mdsettings#manage-settings-with-express-configuration) or view a full list of settings for [working with groups](settings-inheritance.md).
+Settings are managed on a per-group basis. You can manage the simple list of useful settings using [Express Configuration](how-do-i-manage-settings.md#manage-settings-with-express-configuration) or view a full list of settings for [working with groups](settings-inheritance.md).
 
 Device settings apply to all devices in their group. Settings that are **Not configured** allow the user to define their settings on their devices themselves.
 
