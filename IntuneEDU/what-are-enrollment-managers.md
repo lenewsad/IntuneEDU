@@ -39,7 +39,7 @@ The enrollment manager's job to help you enroll multiple shared devices by split
 
   ![Current enrollment managers list, one person represented](./media/enroll-mgrs-001-current-list-of-mgrs.png)
 
-Select the person to assign a Enrollment Manager permissions to, then select __Save__.
+Select the person that you want to make an enrollment manager, then select __Save__.
 
 ## Removing enrollment managers
 
