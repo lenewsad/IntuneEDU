@@ -37,7 +37,7 @@ There are a few ways that you can enroll devices into management by Intune for E
 
 2. You can tell the users you're distributing the devices to that they should enroll the devices themselves. This will allow users to automatically join their machines to Azure AD.
 
-3. You can have your [enrollment manager](what-are-enrollment-managers.md) enroll the devices for a group of users. This will automatically join their machines to Azure AD.
+3. You can have your [enrollment manager](what-are-enrollment-managers.md) enroll the devices for a group of users. This will automatically join their machines to Azure AD. These users can either use their enrollment manager account to enroll up to 1,000 devices, or you can make a service account the enrollment manager account. 
 
 You will need to turn on [certain settings](https://docs.microsoft.com/education/windows/set-up-students-pcs-to-join-domain) if you should choose to manually join user's machines via Azure AD.
 
