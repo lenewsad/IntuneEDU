@@ -40,6 +40,8 @@ Intune for Education supports the following types of apps:
 
 After you add apps, you can [install the apps](install-apps.md) on groups of devices.
 
+Settings are applied to groups, including groups of apps. Since groups are set up as hierarchies, with one group above another, [any apps assigned to a group are inherited by all of its subgroups](settings-inheritance.md).
+
 ## Add web apps
 
 A _web app_ is an app that is accessed by users exclusively in a browser. They are easy to assign because all you have to send to users are links to websites, rather than sending any install files to their devices.
