@@ -57,7 +57,7 @@ When you do this, Intune for Education will reset the settings to show what the 
 
 ## What happens if I apply multiple settings to the same user or device?
 
-When multiple settings have been applied to the same group, each setting is analyzed individually by Intune for Education. Certain settings that force users to take action to make their devices comply with your settings will always take precedence over configuration settings.
+When multiple settings have been applied to the same group, each setting is analyzed individually by Intune for Education. Certain settings that force users to take action to make their devices comply with your settings will always take precedence over other settings.
 
 Consider a subgroup, *Twelfth Grade AP Computer Science*, to the group *Twelfth Grade*. You know that the AP computer science class will need to download some JavaScript files that do not need security scanning, but you want to make sure that the whole grade does not try to do the same. If you do not override settings inheritance, the more restrictive *Twelfth Grade* setting will be applied to the users in *Twelfth Grade AP Computer Science*.
 

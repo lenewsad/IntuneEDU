@@ -31,7 +31,7 @@ searchScope:
 
 # Get started with Intune for Education
 
-To set up Intune for Education, you configure your student and teacher information, then manage student, teacher, and device information. The first step is to get your student and teacher information into Intune for Education, then arrange apps and settings for groups of students and teachers. After you set up the configurations that you want for your devices, you apply them to devices and start allowing them to be used while under management.
+To set up Intune for Education, you configure your student and teacher information, then manage student, teacher, and device information. The first step is to get your student and teacher information into Intune for Education, then arrange apps and settings for groups of students and teachers. After you set up the settings that you want for your devices, you apply them to devices and start allowing them to be used while under management.
 
 An easy way to start using Intune for Education is to:
 

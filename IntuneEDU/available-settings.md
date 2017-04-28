@@ -55,8 +55,8 @@ Much of the information in the **What it does** column can also be found in the 
 |Language settings|Block users from changing the device language.|
 |Unenroll devices|Block users from manually unenrolling devices from management.|
 |Send diagnostic data|Define whether to collect and send anonymous usage data to Microsoft to help improve Windows.|
-|Add provisioning packages|Block users from adding add new provisioning packages containing device configuration settings.|
-|Remove provisioning packages|Block users from removing provisioning packages containing device configuration settings.|
+|Add provisioning packages|Block users from adding add new provisioning packages containing device settings.|
+|Remove provisioning packages|Block users from removing provisioning packages containing device settings.|
 |Location services|Block apps from using location services to access the device’s location.|
 |Internet Sharing|Block users from using Internet Sharing to share the device’s Internet connection.|
 |Cortana|Block Cortana, the digital assistant built into Windows 10 that can answer questions and perform tasks.|
