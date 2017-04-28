@@ -11,6 +11,7 @@
 
 # Planning
 ## [What are Enrollment Managers?](what-are-enrollment-managers.md)
+## [How should I enroll devices?](how-should-i-enroll-devices.md)
 
 # How to
 ## Use groups
