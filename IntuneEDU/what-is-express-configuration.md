@@ -77,7 +77,7 @@ You can change Express Configuration selections at any time to fit any changes y
 
 ## Finish up
 
-After you make your selections, you have a chance to review the apps and settings you've chosen. You can then choose the **Finish** button or go back to any steps to modify these configurations.
+After you make your selections, you have a chance to review the apps and settings you've chosen. You can then choose the **Finish** button or go back to any steps to modify these settings.
 
   ![The review your choices screen. It shows the apps and settings selected during Express Configuration.](./media/express-config-007-save-changes.png)
 
