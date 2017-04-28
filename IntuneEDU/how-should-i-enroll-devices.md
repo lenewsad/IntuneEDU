@@ -31,9 +31,17 @@ searchScope:
 
 # How should I enroll devices?
 
+There are a few ways that you can enroll devices into management by Intune for Education. You can use all of them interchangeably, but some may make more sense for you based on the size of your district, number of staff helping to enroll, and who will be receiving the devices. For example, you could give teachers their devices and tell them to enroll the devices themselves, while you could set up a quicker route for bulk enrollment using a USB key.
 
+1. You can use the [Set up School PCs](https://docs.microsoft.com/education/windows/use-set-up-school-pcs-app) app to quickly set up PCs for students. Set up School PCs makes it easy to set up Windows 10 PCs with Microsoft's recommended education settings, using a quick USB setup. This app guides you through the creation of a student PC provisioning package and helps you save it to a USB drive. From there, just plug the USB drive into student PCs running Windows 10 Creators Update (version 1703).
 
+2. You can tell the users you're distributing the devices to that they should enroll the devices themselves. This will allow users to automatically join their machines to Azure AD.
+
+3. You can have your [enrollment manager](what-are-enrollment-managers.md) enroll the devices for a group of users. This will automatically join their machines to Azure AD.
+
+You will need to turn on [certain settings](https://docs.microsoft.com/education/windows/set-up-students-pcs-to-join-domain) if you should choose to manually join user's machines via Azure AD.
 
 ## Find out more
 
-- [Find out more about the full enrollment manager experience in Intune](https://docs.microsoft.com/intune/deploy-use/enroll-corporate-owned-devices-with-the-device-enrollment-manager-in-microsoft-intune)
+- [Download the **Set Up School PCs** app from the Microsoft Store](https://www.microsoft.com/store/p/set-up-school-pcs/9nblggh4ls40)
+- [Find out more about setting up Windows devices for education](https://docs.microsoft.com/education/windows/set-up-windows-10)
