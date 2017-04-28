@@ -30,14 +30,13 @@ ms.reviewer: lpatha
 
 ---
 
-## Manage settings
+## How do I manage settings?
 
-Settings are managed on a per-group basis. You can manage the simple list of useful settings using [Express Configuration](how-do-i-manage-settings.md#manage-settings-with-express-configuration) or view a full list of settings for [working with groups](settings-inheritance.md).
+You can manage a variety of settings for your users, apps, and devices with Intune. It is how you will change how devices can respond to user actions.
+
+When settings are applied to a group of devices, users are affected when they access a device from that group. If a setting is applied to a group of users,
 
 Device settings apply to all devices in their group. Settings that are **Not configured** allow the user to define their settings on their devices themselves.
-
-> [!NOTE]
-> Intune for Education settings such as **Block** or **Allow** override the device’s settings. For example, if a device has a camera and that camera is enabled by default, but the group setting for that device has Camera set to **Block**, [then the camera on the device will be turned off](settings-inheritance.md).
 
 ## Manage settings for groups
 
@@ -50,7 +49,7 @@ Use the following steps to manage the full list of settings in Intune for Educat
 
 ## Manage settings with Express Configuration
 
-Express Configuration makes it easy for you to get started quickly, but can also help you make quick changes throughout the lifecycle of your devices.
+Express Configuration makes it easy for you to get started quickly, but can also help you make quick changes to your devices.
 
   ![Express Configuration settings fix](./media/express-config-006-choose-settings.png)
 
