@@ -35,7 +35,6 @@ Microsoft Intune for Education is software that you can use to improve student l
 
 Intune for Education can be used by itself, or in harmony with the [full device, app , and user management experience available in Intune](https://docs.microsoft.com/intune/understand-explore/introduction-to-microsoft-intune). It can also be used alongside the rest of the tools available in [Microsoft Education](https://microsoft.com/education), which makes it easy for you to use Intune for Education with other useful educational tools from Microsoft. These include:
 
-- [Microsoft Classroom](https://education.microsoft.com/GetTrained/introduction-to-microsoft-classroom)
 - [School Data Sync](what-is-school-data-sync.md)
 - [Learning Tools](https://www.onenote.com/learningtools)
 - [Whiteboard](https://www.microsoft.com/research/publication/whiteboard-it)
@@ -43,7 +42,7 @@ Intune for Education can be used by itself, or in harmony with the [full device,
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ukrnCwcLvV8" frameborder="0" allowfullscreen></iframe>
 
-Intune for Education works closely with [Azure Active Directory (Azure AD)](https://docs.microsoft.com/azure/active-directory/active-directory-administer), [Microsoft School Data Sync](https://sds.microsoft.com), and [Office 365 Education](https://support.office.com/article/Get-started-with-Office-365-Education-AB02ABE5-A1EE-458C-B749-5B44416CCF14) to simplify device management. Intune for Education simplifies this by getting automatically added as a management tool to your Azure AD and Microsoft Store tenants.
+Intune for Education works closely with [Azure Active Directory (Azure AD)](https://docs.microsoft.com/azure/active-directory/active-directory-administer), [Microsoft School Data Sync](https://sds.microsoft.com), and [Office 365 for  Education](https://support.office.com/article/Get-started-with-Office-365-Education-AB02ABE5-A1EE-458C-B749-5B44416CCF14) to simplify device management. Intune for Education simplifies this by getting automatically added as a management tool to your Azure AD and Microsoft Store tenants.
 
 ## Will Intune for Education work for shared devices?
 Intune for Education works for shared devices by managing multiple users on a single device. When users who share a device have different apps and settings targeted to them, the user who is signed in sees only the apps and settings set up for them.
