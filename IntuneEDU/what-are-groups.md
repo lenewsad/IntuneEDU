@@ -35,7 +35,10 @@ You use _groups_ to manage users, apps, and devices in Intune for Education. You
 
 When you create groups, consider how you will apply the settings and apps to users and devices. For example, you may need to block apps from using location services for all devices. An alternative to this is how specific groups may need certain things, like giving students taking [AP Computer Science](https://www.tealsk12.org) apps to edit their code.
 
+Settings are applied to groups. Since groups are set up as hierarchies, with one group above another, [any settings applied to a group are inherited by all of its subgroups](settings-inheritance.md). This makes it easier to apply settings to large groups of users, apps, and devices.
+
 Intune for Education automatically creates the __All Devices__ and __All Users__ groups when your tenant is created. These default groups represent the broadest categories of users and devices in your school or school district, and [cannot be moved](what-are-groups.md#why-cant-i-move-certain-groups).
+
 
 ## Managing groups and subgroups
 
