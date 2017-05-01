@@ -39,11 +39,9 @@ Certain settings affect all users and devices you have under management. Intune 
 
 To manage these settings, choose **Tenant settings** in the left-side navigation bar in the [Intune for Education](https://intuneeducation.portal.azure.com) console.
 
-  ![Screenshot of the "Tenant Settings" option in Intune for Education console](./media/tenant-001-edu-tenant-settings-button.png)
+  ![Screenshot of the "Tenant Settings" option in Intune for Education console showing school, support website, and other information. ](./media/tenant-001-settings-screen.png)
 
 These settings include __IT contact information__, such as who is the __IT department contact__, their __phone number__, and __email address__. It is also where you will define your organization's __privacy statement URL__.
-
-  ![Screenshot of the "Tenant Settings" option in Intune for Education console showing school, support website, and other information. ](./media/tenant-002-settings-screen.png)
 
 Tenant settings are also where you can force a sync between Intune for Education and Microsoft Store for Education if app purchases are taking too long to appear in Intune for Education.
 
