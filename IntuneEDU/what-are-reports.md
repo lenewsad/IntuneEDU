@@ -49,13 +49,13 @@ There are currently three kinds of reports that you can view in Intune for Educa
 
   * **Settings Conflicts** — A list of settings that are [currently in conflict](settings-inheritance.md#can-i-ever-have-settings-that-dont-work-together) for any groups in your hierarchy.
 
-  ![The settings conflicts report screen, showing a list of setting conflicts.]
+  <!--![The settings conflicts report screen, showing a list of setting conflicts.]-->
 
   You can also select the type of app (web app, Desktop app, Microsoft Store app) to only show information about that specific kind of app.
 
 ## Download reports
 
-You can also download Intune for Education reports. In the [Intune for Education](https://intuneeducation.portal.azure.com) console, on the **Reports** screen, choose the **Download report** button to export and download a report as a comma-separated value (.csv) file that can then be viewed and modified in a spreadsheet app such as [Excel](https://support.office.com/article/Import-or-export-text-txt-or-csv-files-5250ac4c-663c-47ce-937b-339e391393ba).
+You can also download Intune for Education reports. In the [Intune for Education](https://intuneeducation.portal.azure.com) console, find the report you're interested in downloading. Choose the **Download report** button to export and download a report as a comma-separated value (.csv) file that can then be viewed and modified in a spreadsheet app such as [Excel](https://support.office.com/article/Import-or-export-text-txt-or-csv-files-5250ac4c-663c-47ce-937b-339e391393ba).
 
 ## Find out more
 

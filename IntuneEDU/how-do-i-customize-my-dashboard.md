@@ -48,7 +48,7 @@ These tiles will show different information based on whether they're fully set u
 
 On every page in Intune for Education, you'll see the _sidebar_, a list of all the things that you can do to manage users, apps, and devices.
 
-  ![The default setup for the left-hand sidebar, which lists Express configuration, groups, apps, enrollment managers, take a test profiles, alerts, reports, tenant settings, terms of use settings, and see all, which will pop out to allow modification of this default list of tasks.](./media/dashboard-002-left-sidebar-list.png)
+  ![The default setup for the left-hand sidebar, which lists Express configuration, groups, apps, Enrollment Managers, take a test profiles, alerts, reports, tenant settings, terms of use settings, and see all, which will pop out to allow modification of this default list of tasks.](./media/dashboard-002-left-sidebar-list.png)
 
 There are other things you can do with Intune for Education than just those tasks presented in the list. If you choose **See all** at the bottom of the list, the full **service menu** will pop out and allow you to see all of the settings available.
 
