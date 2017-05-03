@@ -37,7 +37,7 @@ Your _tenant_ is your organization's complete instance of Intune for Education. 
 
 Certain settings affect all users and devices you have under management. Intune for Education refers to these as **tenant settings**. Only Intune for Education admins can see or change these settings.
 
-To manage these settings, choose **Tenant settings** in the left-side navigation bar in the [Intune for Education](https://intuneeducation.portal.azure.com) console.
+To manage these settings, choose **Tenant Settings** in the left-side navigation bar in the [Intune for Education](https://intuneeducation.portal.azure.com) console.
 
   ![Screenshot of the "Tenant Settings" option in Intune for Education console showing school, support website, and other information. ](./media/tenant-001-settings-screen.png)
 
