@@ -22,7 +22,7 @@ searchScope:
 #ROBOTS:
 #audience:
 #ms.devlang:
-ms.reviewer:
+#ms.reviewer: travisj
 #ms.suite: ems
 #ms.tgt_pltfrm:
 #ms.custom: intune-education
@@ -31,7 +31,7 @@ ms.reviewer:
 
 # How do I add apps to Intune for Education?
 
-Before you can install apps to your school's devices with Intune for Education, those apps must be added to your Intune for Education account.
+Before you can install apps on your school's devices with Intune for Education, those apps must be added to your Intune for Education account.
 
 Intune for Education supports the following types of apps:
 - Web apps, such as [Microsoft Word Online](https://office.live.com/start/Word.aspx)

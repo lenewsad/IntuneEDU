@@ -22,7 +22,7 @@ searchScope:
 #ROBOTS:
 #audience:
 #ms.devlang:
-ms.reviewer: lpatha
+#ms.reviewer: lpatha
 #ms.suite: ems
 #ms.tgt_pltfrm:
 #ms.custom: intune-education
