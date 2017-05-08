@@ -63,7 +63,7 @@ Consider a subgroup, *Twelfth Grade AP Computer Science*, to the group *Twelfth 
 
 ## Can I ever have settings that don't work together?
 
-Intune for Education will allow you to apply a wide range of settings to your Windows 10 devices. This can sometimes cause an issue where one of your settings may conflict with another setting. You can see settings that are actively conflicting in the [settings conflict report](what-are-reports.md)
+Intune for Education will allow you to apply a wide range of settings to your Windows 10 devices. This can sometimes cause an issue where one of your settings may conflict with another setting. You can see settings that are actively conflicting in the [settings conflict report](what-are-reports.md).
 
 ## Find out more
 
