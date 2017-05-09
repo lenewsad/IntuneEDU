@@ -69,6 +69,12 @@ Express Configuration makes it easy for you to get started quickly, but can also
 
 6. Review your choices and then choose **Finish** to save your changes update them on devices in the selected group.
 
+## Can I ever have settings that don't work together?
+
+It is possible for incompatible settings to be applied to the same group. These inconsistences result in errors, when a user or device is being set up with different settings in multiple places. This happens as a result of the user or device being a member of multiple groups. 
+
+For example, Esperanza is a member of the *6th Grade* group and is also a member of group called *Earth Science*. If you configure a homepage setting and assign to *6th Grade*, and you configure a different homepage setting and assign it to *Earth Science*, she now has two conflicting homepage settings assigned to her user. That results in inconsistent settings assignment leading to an error. You can find which devices and users have settings errors using the [settings errors report](what-are-reports). 
+
 ## Find out more
 
 - [Find out more about the full policy management experience in  Intune](https://docs.microsoft.com/intune/deploy-use/manage-settings-and-features-on-your-devices-with-microsoft-intune-policies)
