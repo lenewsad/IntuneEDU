@@ -24,7 +24,7 @@ searchScope:
 #ms.devlang:
 #ms.reviewer: lpatha
 #ms.suite: ems
-#ms.tgt_pltfrm:
+.md#ms.tgt_pltfrm:
 #ms.custom: intune-education
 
 
