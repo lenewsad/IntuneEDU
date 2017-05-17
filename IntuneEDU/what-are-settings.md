@@ -1,14 +1,14 @@
 ---
 # required metadata
 
-title: What are policy settings?
+title: What are settings?
 titleSuffix: Intune for Education
 description: Learn how to manage settings through Intune for Education policies.
 keywords:
 author: barlanmsft
 ms.author: barlan
 manager: angrobe
-ms.date: 05/02/2017
+ms.date: 05/10/2017
 ms.topic: article
 ms.prod:
 ms.service: microsoft-intune
@@ -22,7 +22,7 @@ searchScope:
 #ROBOTS:
 #audience:
 #ms.devlang:
-ms.reviewer: lpatha
+#ms.reviewer: lpatha
 #ms.suite: ems
 #ms.tgt_pltfrm:
 #ms.custom: intune-education
@@ -32,20 +32,21 @@ ms.reviewer: lpatha
 
 # What are settings?
 
+_Settings_ are what you use to define how your users can work with their devices. This can either modify how the device responds to a user trying to take action, or by simply stopping a user from doing something on a device. Intune for Education settings allow you to manage features on school devices.
+
 Settings are applied to groups. Since groups are set up as hierarchies, with one group above another, any [settings applied to a group are inherited by all of its subgroups](settings-inheritance.md). This makes it easier to apply settings to large groups of users, apps, and devices.
-
-You can manage the simple list of settings using [Express Configuration](how-do-i-manage-settings.md#manage-settings-with-express-configuration) or view a full list of settings for [working with groups](how-do-i-manage-settings.md#manage-settings-for-groups).
-
-## Are there any other kinds of settings?
-
-The only settings in Intune for Education that you cannot use here are tenant settings. Settings modify user, app, and device behavior for your organization. Find out how to manage [tenant settings for your subscription](what-are-tenants.md).
 
 ## Manage settings
 
-Settings are managed on a per-group basis. You can manage the simple list of useful settings using [Express Configuration](how-do-i-manage-settings.md#manage-settings-with-express-configuration) or view a full list of settings for [working with groups](what-are-settings.md#manage-settings-for-groups).
+There are three ways to manage settings in Intune for Education:
 
-Device settings apply to all devices in their group. Settings that are **Not configured** allow the user to define their settings on their devices themselves.
+* __Express Configuration__: A selection of the most commonly used school settings are made available in [Express Configuration](how-do-i-manage-settings.md#manage-settings-with-express-configuration) so your students can be safe and productive using devices in classrooms.
 
+* __Groups__: All settings can be managed for every individual group. This is an expanded list of settings compared to the ones available in Express Configuration. Find out what [settings are available to you here](available-settings.md).
+
+* __Tenant Settings__: Tenant Settings affect all users and devices you have under management. These settings have can only be managed by certain admins with the [appropriate level of access to your tenant](what-are-tenants.md).
+
+Settings can be set up and assigned to users and devices through Groups. Settings assigned to users in a group will stick with the user, no matter what device they are using. Settings assigned to devices in a group will be applied on the device no matter who logs on to the device.
 
 ## Find out more
 
