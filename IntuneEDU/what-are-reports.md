@@ -8,7 +8,7 @@ keywords:
 author: barlanmsft
 ms.author: barlan
 manager: angrobe
-ms.date: 05/02/2017
+ms.date: 05/10/2017
 ms.topic: article
 ms.prod:
 ms.service: microsoft-intune
@@ -22,7 +22,7 @@ searchScope:
 #ROBOTS:
 #audience:
 #ms.devlang:
-ms.reviewer: tanmayb
+ms.reviewer: travisj
 #ms.suite: ems
 #ms.tgt_pltfrm:
 #ms.custom: intune-education
@@ -47,7 +47,7 @@ There are currently three kinds of reports that you can view in Intune for Educa
 
   ![The application inventory report screen, showing a list of apps under Intune for Education management.](./media/reports-002-app-inventory.png)
 
-  * **Settings Errors** — A list of settings that are [currently in conflict](settings-inheritance.md#can-i-ever-have-settings-that-dont-work-together) for any groups in your hierarchy.
+  * **Settings Errors** — A list of settings that are [currently in conflict](settings-inheritance.md) for any groups in your hierarchy.
 
   ![The settings errors report screen, showing a list of setting conflicts.](./media/reports-003-settings-error.png)
 
