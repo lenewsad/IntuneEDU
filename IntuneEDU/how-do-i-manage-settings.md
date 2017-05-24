@@ -30,7 +30,7 @@ searchScope:
 
 ---
 
-## How do I manage settings?
+# How do I manage settings?
 
 You can manage a variety of settings for your users, apps, and devices with Intune. It is how you will change how devices can respond to user actions.
 

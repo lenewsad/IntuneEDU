@@ -37,4 +37,4 @@ You can find the instructions for how to acquire these apps in the [Microsoft St
 
 ## Find out more
 
-- [Find out more about the full experience managing acquiring Store apps using Intune](https://docs.microsoft.com/intune/deploy-use/manage-apps-you-purchased-from-the-windows-store-for-business-with-microsoft-intune)
+- [Find out more about the full experience acquiring Store apps using Intune](https://docs.microsoft.com/intune/deploy-use/manage-apps-you-purchased-from-the-windows-store-for-business-with-microsoft-intune)

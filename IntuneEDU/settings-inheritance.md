@@ -1,7 +1,7 @@
 ---
 # required metadata
 
-title: What is settings inheritance?
+title: "What is settings inheritance?"
 titleSuffix: Intune for Education
 description: Learn how to manage settings for groups of devices with Intune for Education.
 keywords:
@@ -36,20 +36,10 @@ Settings are applied to groups. Since groups are set up as hierarchies, with one
   ![A tree of groups of and subgroups.](./media/groups-002-inheritance.png)
 ​
 This means that for any group with a subgroup underneath it, the subgroup will automatically inherit whatever changes you make to the group above it. This is called _inheritance_.
-<<<<<<< HEAD
 ​
 ## Can I configure subgroups differently after inheriting settings from another group?
 ​
 Subgroups can be configured individually, even if they are inheriting settings from the group above them. You can override inherited settings by simply configuring the settings that you need, then saving them.
-​
-=======
-
-## Can I configure subgroups differently after inheriting settings from another group?
-
-Subgroups can be configured individually, even if they are inheriting settings from the group above them. You can override inherited settings by simply configuring the settings that you need, then saving them.
-
->>>>>>> 0e46e04263057ea99160a80f01468bc1ca810617
-Let's assume that you're configuring devices for a school district, and that you've organized all devices as __School District__ > __School__ > __Grade__ > __Cart Number__. Halfway through the year, one of the schools adds a computer lab, so there's now a group of devices that doesn't work according to your current setup — for example, they can only remain logged in for only 30 minutes before automatically logging out. This is where overriding settings comes into play.
 ​
   ![Are you sure you want to override settings?](./media/groups-003-beginning-to-deviate-from-inheritance.png)
 

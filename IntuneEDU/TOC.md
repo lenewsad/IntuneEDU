@@ -5,6 +5,7 @@
 ## [What is Express Configuration?](what-is-express-configuration.md)
 ## [What is School Data Sync?](what-is-school-data-sync.md)
 ## [What are tenants?](what-are-tenants.md)
+
 ## Settings
 ### [What are settings?](what-are-settings.md)
 ### [What is settings inheritance?](settings-inheritance.md)
@@ -24,6 +25,7 @@
 ### [How do I add apps?](how-to-add-apps.md)
 ### [How do I acquire Store apps?](acquire-store-apps.md)
 ### [How do I install apps on devices?](install-apps.md)
+### [How do I manage Office?](install-office.md)
 ## Use devices
 ### [How do I add devices?](how-do-i-add-devices.md)
 ### [How do I use Take a Test profiles?](take-a-test-profiles.md)
