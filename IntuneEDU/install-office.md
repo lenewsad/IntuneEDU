@@ -31,8 +31,12 @@ searchScope:
 
 ## How do I manage Microsoft Office on my Windows 10 devices?
 
-Microsoft Office comes in a few different flavors. You can assign the [web app](how-to-add-apps.md#add-web-apps) or the full [desktop versions](how-to-add-apps.md#add-desktop-apps).
+Intune for Education allows you to assign either  [web app](how-to-add-apps.md#add-web-apps) or [desktop versions](how-to-add-apps.md#add-desktop-apps) of the Microsoft Office apps.
 
-During [Express Configuration](what-is-express-configuration.md), the Office desktop apps are always presented as a single app called "Office 365." If you select it, you will assign desktop versions of Word, Excel, PowerPoint, and OneNote to your users. If you de-select it, it will remove them from devices or users in that group.
+During [Express Configuration](what-is-express-configuration.md), the Office desktop apps are always presented as a single app called "Office 365." If you select it, you will assign desktop versions of Word, Excel, PowerPoint, OneNote, and Skype for Business to your users.
 
-All of the features of the desktop apps will download in the background. If there is a feature the user is trying to access, that feature will be pushed to the top of the list for immediate use.  
+This is done using [Click-to-Run](https://technet.microsoft.com/library/jj219427.aspx), a Microsoft streaming technology that reduces the time that is required to install Office on your devices.
+
+## Find out more
+
+- [Find out more about getting started with Office 365 Education](https://support.office.com/article/Get-started-with-Office-365-Education-AB02ABE5-A1EE-458C-B749-5B44416CCF14)
