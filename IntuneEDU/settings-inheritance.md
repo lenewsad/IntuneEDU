@@ -1,7 +1,7 @@
 ---
 # required metadata
 
-title: What is settings inheritance?
+title: "What is settings inheritance?"
 titleSuffix: Intune for Education
 description: Learn how to manage settings for groups of devices with Intune for Education.
 keywords:
@@ -16,9 +16,9 @@ ms.technology:
 ms.assetid: 4b69b884-bed9-43f4-8507-c802228a8804
 searchScope:
 - IntuneEDU
-​
+
 # optional metadata
-​
+
 #ROBOTS:
 #audience:
 #ms.devlang:
