@@ -8,7 +8,7 @@ keywords:
 author: barlanmsft
 ms.author: barlan
 manager: angrobe
-ms.date: 05/10/2017
+ms.date: 06/01/2017
 ms.topic: article
 ms.prod:
 ms.service: microsoft-intune
@@ -33,12 +33,12 @@ searchScope:
 
 Microsoft Intune for Education is software that you can use to improve student learning outcomes through connected classrooms and engaging new technologies. It is accessible through our admin console, a web portal that is designed to make it possible for everyone, from professional IT admins, to part-time IT support, to teachers trying to use IT in the classroom, to get groups of Windows 10 devices up and running in minutes. It does this by giving you a streamlined admin portal to accomplish everyday things that you need to do with devices in classrooms — like keeping students from getting off-track while using their devices and evaluating learner progress with assessments.
 
-Intune for Education can be used by itself, or in harmony with the [full device, app, and user management experience available in Intune](https://docs.microsoft.com/intune/understand-explore/introduction-to-microsoft-intune). It can also be used alongside the rest of the tools available in [Microsoft Education](https://microsoft.com/education), which makes it easy for you to use Intune for Education with other useful educational tools from Microsoft. These include:
+Intune for Education can be used by itself, or in harmony with the [full device, app, and user management experience available in Intune](https://docs.microsoft.com/intune/understand-explore/introduction-to-microsoft-intune). It can also be used alongside the rest of the tools available in [Microsoft Education](https://docs.microsoft.com/education/#pivot=itpro), which makes it easy for you to use Intune for Education with other useful educational tools from Microsoft. These include:
 
-- [School Data Sync](what-is-school-data-sync.md)
-- [Learning Tools](https://www.onenote.com/learningtools)
-- [Whiteboard](https://www.microsoft.com/research/publication/whiteboard-it)
-- [Minecraft: Education Edition](https://education.minecraft.net/support/faq)
+- [Office 365 for Education](https://support.office.com/article/Set-up-Office-365-for-business-6a3a29a0-e616-4713-99d1-15eda62d04fa)
+- [Windows 10 for Education](https://docs.microsoft.com/education/windows)
+- [Microsoft Store for Education](https://docs.microsoft.com/microsoft-store/index?toc=/microsoft-store/education/toc.json)
+- [Minecraft: Education Edition](https://docs.microsoft.com/education/windows/school-get-minecraft)
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ukrnCwcLvV8" frameborder="0" allowfullscreen></iframe>
 
