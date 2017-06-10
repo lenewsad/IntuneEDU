@@ -24,6 +24,7 @@
 ## Use apps
 ### [How do I add apps?](how-to-add-apps.md)
 ### [How do I acquire Store apps?](acquire-store-apps.md)
+### [Where are my Store apps?](where-are-my-apps.md)
 ### [How do I install apps on devices?](install-apps.md)
 ### [How do I manage Office?](install-office.md)
 ## Use devices
