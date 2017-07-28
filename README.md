@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 
 # Contributing
 
@@ -30,6 +29,3 @@ Privacy information can be found at https://privacy.microsoft.com/en-us/
 
 Microsoft and any contributors reserve all others rights, whether under their respective copyrights, patents,
 or trademarks, whether by implication, estoppel or otherwise.
-=======
-# IntuneEDU-pr
->>>>>>> 1fd64e9a16006857f87ee509aab1c59038f39e0a
