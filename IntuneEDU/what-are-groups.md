@@ -86,9 +86,9 @@ You can move a group within your group structure, or **hierarchy**.
 4.	Select the group location to which you want to move the group by either searching a group name or by selecting it in the hierarchy.
 5.	Select **OK** to save your changes.
 
-## Why can't I move default groups?
+## Why can't I change the "All Devices", "All Users", "All Students", or "All Teachers" groups?
 
-Intune for Education provides a set of default groups that cannot be moved, **All Users** and **All Devices**, when your [tenant is created](what-are-tenants.md). **All Teachers** and **All Students** are default groups that are created after School Data Sync has imported student and teacher data into Intune for Education.
+Intune for Education provides a set of default groups that are created when your [school's account is created](what-are-tenants.md]. These groups, **All Users** and **All Devices**, cannot be changed as they contain a dynamic list of all users and all devices. The **All Teachers** and **All Students** groups are similarly created after School Data Sync has imported student and teacher data into Intune for Education.
 
 This may rarely cause an issue where you may end up with a subgroup underneath two groups.
 
