@@ -173,7 +173,7 @@ Much of the information in the **What it does** column can also be found in the 
 
 |Setting|What it does|
 |---|---|
-|<a name="Remove built-in Windows 10 apps"</a>Remove built-in Windows 10 apps|Uninstall certain built-in Windows apps. Learn what those apps are [below](available-settings.md#additional-information-about-removing-built-in-apps).|
+|<a name="removew10apps"</a>Remove built-in Windows 10 apps|Uninstall certain built-in Windows apps. Learn what those apps are [below](available-settings.md#additional-information-about-removing-built-in-apps).|
 |Microsoft Store for Education apps|Block users from installing apps from Microsoft Store for Education.|
 |Require Microsoft Store for Education apps to be installed from private store|Only allow users to install apps from the Microsoft Store for Education that your organization has set up.|
 |Trusted apps|Define whether users can install trusted apps signed by Microsoft.|
