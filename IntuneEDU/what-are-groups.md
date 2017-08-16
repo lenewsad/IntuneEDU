@@ -101,7 +101,7 @@ If this happens, you'll need to choose a single group to place above this subgro
 
 ## Why can't I edit this group? 
 
-Intune for Education is made to be a streamlined way to manage your devices in your schools. It uses Intune, an enterprise product, to act as the backbone of how it manages apps and groups. Certain admins in your organization will use both the full Intune console and the Intune for Education console to create specialty groups. You will need to ask the IT admin with the most access to your systems to modify these groups. 
+Intune for Education is designed to be an easy way to manage devices in your schools. It uses [Intune](https://docs.microsoft.com/intune/what-is-intune), an enterprise product, to manage apps and groups. Certain admins in your organization will use both the full Intune console and the Intune for Education console to create special groups. If you can't edit a group, it's likely that you don't have access to the full Intune console to modify these groups. 
 
 ## Delete a group
 
