@@ -37,20 +37,23 @@ When you create groups, consider how you will apply the settings and apps to use
 
 Settings are applied to groups. Since groups are set up as hierarchies, with one group above another, [any settings applied to a group are inherited by all of its subgroups](settings-inheritance.md). This makes it easier to apply settings to large groups of users, apps, and devices.
 
-Intune for Education automatically creates the __All Devices__ and __All Users__ groups when your tenant is created. These default groups represent the broadest categories of users and devices in your school or school district, and [cannot be moved](what-are-groups.md#why-cant-i-move-certain-groups).
+Intune for Education automatically creates the __All Devices__ and __All Users__ groups when your tenant is created. These default groups represent the broadest categories of users and devices in your school or school district, and [cannot be changed](what-are-groups.md#why-cant-i-change-the-all-devices-all-users-all-students-or-all-teachers-groups).
 
 ## Group types
 
 There are two types of groups that you can use to organize objects, such as users and devices, in Intune for Education. **Assigned** groups and **Dynamic** groups. 
 
-### Dynamic
+### Assigned groups
 
-- No subgroups
-- Convert group types from Assigned to Dynamic
+Assigned groups are used when you create a group and manually assign objects, like users or devices, to it. Think of it like organizing a folder together: you choose the right files to go in that folder, and that's where you'll find them when you need those files. As with folders, you can create subgroups that work to further organize your larger groups into smaller ones. 
 
-Dynamic groups are built using rules, and do not contain objects in the same way that Assigned groups do. You can't edit the membership of objects in a Dynamic group without going back and editing the rules that determine what objects appear in that group. 
+### Dynamic groups
 
-### Assigned
+Dynamic groups do not contain objects the same way that Assigned groups do. They are created using rules, which search your tenant for whatever students or devices meet your criteria. For example, you could create a Dynamic group that shows all of the students graduating at the end of this year. If a student was unexpectedly unable to graduate, you wouldn't be able to manually remove them from this Dynamic group. Instead, you'd have to change that student's graduation year, which would remove them from the group. 
+
+Since Dynamic groups can only contain what their rules define, you can't create subgroups underneath them. 
+
+<!--- Convert group types from Assigned to Dynamic-->
 
 ## Managing groups and subgroups
 
