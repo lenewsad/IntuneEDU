@@ -8,7 +8,7 @@ keywords:
 author: barlanmsft
 ms.author: barlan
 manager: angrobe
-ms.date: 05/10/2017
+ms.date: 08/16/2017
 ms.topic: article
 ms.prod:
 ms.service: microsoft-intune
@@ -173,12 +173,31 @@ Much of the information in the **What it does** column can also be found in the 
 
 |Setting|What it does|
 |---|---|
+|<a name="removew10apps"</a>Remove built-in Windows 10 apps|Uninstall certain built-in Windows apps. Learn what those apps are [below](available-settings.md#additional-information-about-removing-built-in-apps).|
 |Microsoft Store for Education apps|Block users from installing apps from Microsoft Store for Education.|
 |Require Microsoft Store for Education apps to be installed from private store|Only allow users to install apps from the Microsoft Store for Education that your organization has set up.|
 |Trusted apps|Define whether users can install trusted apps signed by Microsoft.|
 |Untrusted apps|Define whether users can install unsigned apps or apps signed by external sources that are not trusted by Microsoft.|
 |Automatic app updates|Block Microsoft Store for Education apps from being updated automatically.|
 |Shared app data between users|Allow multiple users of shared devices to share app data.|
+
+## Additional information about removing built-in apps
+
+This setting is automatically turned on when the "Optimize devices for shared use" setting is turned on. The following apps will be fully removed from your users' computers when this setting is turned on:
+
+* 3DBuilder
+* Bing Weather
+* Desktop App Installer
+* Get Started
+* Microsoft Office Hub
+* Solitaire Collection
+* One Connect
+* Windows Feedback Hub
+* Xbox
+* Groove Music
+<!--* Zune Video-->
+* Mail
+* Calendar
 
 ## Sign-in settings
 
