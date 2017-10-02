@@ -38,7 +38,7 @@ Intune for Education offers multiple ways to install apps onto devices.
 ##  Install apps for groups
 This method lets you select a group and install one or more apps to the devices in that group.
 
-1. In the [Intune for Education portal](https://intuneeducation.portal.azure.com), choose > **Manage Groups** to open the **Groups** blade.
+1. In the [Intune for Education portal](https://intuneeducation.portal.azure.com), choose **Manage Groups** to open the **Groups** blade.
 2. Choose the group to which you want to deploy apps.
 3. Choose **Apps** in the taskbar at the top to see a list of available apps.  
 4. Choose the apps you want to deploy to that group. You can choose multiple apps.
