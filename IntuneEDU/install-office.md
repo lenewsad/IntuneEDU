@@ -39,9 +39,9 @@ This is done using [Click-to-Run](https://technet.microsoft.com/library/jj219427
 
 ## What about Windows 10S? 
 
-There is a key difference in how your users will get Office if you are using Windows 10S devices, like [Surface Laptop](https://www.microsoft.com/surface/devices/surface-laptop/overview). Windows 10S will receive the Universal versions of the Office apps - the ones that are available in the Microsoft Store for Education. 
+There is a difference in the version of Office that your users will get if they are using Windows 10S devices, like [Surface Laptop](https://www.microsoft.com/surface/devices/surface-laptop/overview). Windows 10S devices will receive the Universal versions of the Office apps - the ones that are available in the Microsoft Store for Education. 
 
 ## Find out more
 
 - [Find out more about getting started with Office 365 Education](https://support.office.com/article/Get-started-with-Office-365-Education-AB02ABE5-A1EE-458C-B749-5B44416CCF14)
-- [Find out more about Universal Windows Apps](https://docs.microsoft.com/windows/uwp/get-started/whats-a-uwp
+- [Find out more about Universal Windows Apps](https://docs.microsoft.com/windows/uwp/get-started/whats-a-uwp]
