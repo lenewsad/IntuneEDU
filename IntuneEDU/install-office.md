@@ -8,7 +8,7 @@ keywords:
 author: barlanmsft
 ms.author: barlan
 manager: angrobe
-ms.date: 05/25/2017
+ms.date: 10/06/2017
 ms.topic: article
 ms.prod:
 ms.service: microsoft-intune
@@ -29,14 +29,19 @@ searchScope:
 
 ---
 
-## How do I manage Microsoft Office on my Windows 10 devices?
+# How do I manage Microsoft Office on my Windows 10 devices?
 
-Intune for Education allows you to assign either  [web app](how-to-add-apps.md#add-web-apps) or [desktop versions](how-to-add-apps.md#add-desktop-apps) of the Microsoft Office apps.
+Intune for Education allows you to assign either [web app](how-to-add-apps.md#add-web-apps) or [desktop versions](how-to-add-apps.md#add-desktop-apps) of the Microsoft Office apps.
 
 During [Express Configuration](what-is-express-configuration.md), the Office desktop apps are always presented as a single app called "Office 365." If you select it, you will assign desktop versions of Word, Excel, PowerPoint, OneNote, and Skype for Business to your users.
 
-This is done using [Click-to-Run](https://technet.microsoft.com/library/jj219427.aspx), a Microsoft streaming technology that reduces the time that is required to install Office on your devices.
+This is done using [Click-to-Run](https://technet.microsoft.com/library/jj219427.aspx), a Microsoft streaming technology that reduces the time that is required to install Office on your devices. 
+
+## What about Windows 10S? 
+
+There is a key difference in how your users will get Office if you are using Windows 10S devices, like [Surface Laptop](https://www.microsoft.com/surface/devices/surface-laptop/overview). Windows 10S will receive the Universal versions of the Office apps - the ones that are available in the Microsoft Store for Education. 
 
 ## Find out more
 
 - [Find out more about getting started with Office 365 Education](https://support.office.com/article/Get-started-with-Office-365-Education-AB02ABE5-A1EE-458C-B749-5B44416CCF14)
+- [Find out more about Universal Windows Apps](https://docs.microsoft.com/windows/uwp/get-started/whats-a-uwp
