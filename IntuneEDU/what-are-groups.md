@@ -8,7 +8,7 @@ keywords:
 author: barlanmsft
 ms.author: barlan
 manager: angrobe
-ms.date: 05/10/2017
+ms.date: 10/17/2017
 ms.topic: article
 ms.prod:
 ms.service: microsoft-intune
@@ -37,8 +37,21 @@ When you create groups, consider how you will apply the settings and apps to use
 
 Settings are applied to groups. Since groups are set up as hierarchies, with one group above another, [any settings applied to a group are inherited by all of its subgroups](settings-inheritance.md). This makes it easier to apply settings to large groups of users, apps, and devices.
 
-Intune for Education automatically creates the __All Devices__ and __All Users__ groups when your tenant is created. These default groups represent the broadest categories of users and devices in your school or school district, and [cannot be moved](what-are-groups.md#why-cant-i-move-certain-groups).
+Intune for Education automatically creates the __All Devices__ and __All Users__ groups when your tenant is created. These default groups represent the broadest categories of users and devices in your school or school district, and [cannot be changed](what-are-groups.md#why-cant-i-change-the-all-devices-all-users-all-students-or-all-teachers-groups).
 
+## Group types
+
+There are two types of groups that you can use to organize users and devices in Intune for Education: **Assigned** groups and **Dynamic** groups. 
+
+### Assigned groups
+
+Assigned groups are used when you want to and manually add users or devices as group members. Think of it like organizing a folder together: you choose the right files to go in that folder, and that's where you'll find them when you need those files. As with folders, you can create subgroups that work to further organize your larger groups into smaller ones. 
+
+### Dynamic groups
+
+Dynamic groups let you skip the process of manually adding group members instead of having to add them yourself. They are created using rules, which search your tenant for whatever students or devices meet your criteria. For example, you could create a Dynamic group that shows all of the students graduating at the end of this year. If a student was unexpectedly unable to graduate, you wouldn't be able to manually remove them from this Dynamic group. Instead, you'd have to change that student's graduation year, which would remove them from the group. 
+
+Since Dynamic groups can only contain what their rules define, you can't create subgroups underneath them. 
 
 ## Managing groups and subgroups
 
@@ -74,15 +87,23 @@ You can move a group within your group structure, or **hierarchy**.
 4.	Select the group location to which you want to move the group by either searching a group name or by selecting it in the hierarchy.
 5.	Select **OK** to save your changes.
 
-## Why can't I move certain groups?
+## Why can't I change the "All Devices", "All Users", "All Students", or "All Teachers" groups?
 
-Intune for Education provides a set of default groups that cannot be moved, **All Users** and **All Devices**, when your [tenant is created](what-are-tenants.md). **All Teachers** and **All Students** are default groups that are created after School Data Sync has imported student and teacher data into Intune for Education.
+<!--These are tenant level groups and therefore they can't be modified-->
+
+Intune for Education provides a set of default, [tenant-level groups](what-are-tenants.md) that are created when your school's account is created. These groups, **All Users** and **All Devices**, cannot be changed. The **All Teachers** and **All Students** groups are similarly created after School Data Sync has imported student and teacher data into Intune for Education. 
 
 This may rarely cause an issue where you may end up with a subgroup underneath two groups.
 
-  ![Subgroup under multiple groups error message appears](./media/groups-012-subgroup-is-under-two-groups-warning.png)
+  <!--![Subgroup under multiple groups error message appears](./media/groups-012-subgroup-is-under-two-groups-warning.png)-->
 
 If this happens, you'll need to choose a single group to place above this subgroup.
+
+## Why can't I edit this group? 
+
+Intune for Education displays a subset of all dynamic attributes that are available in Intune. If a dynamic attribute isn't available in the Intune for Education console, you'll have to go to Intune or Azure Active Directory to edit it. 
+
+Intune for Education is designed to be an easy way to manage devices in your schools. It uses [Intune](https://docs.microsoft.com/intune/what-is-intune), an enterprise product, to manage apps and groups. Certain admins in your organization will use both the full Intune console and the Intune for Education console to create special groups. If you can't edit a group, it's likely that you don't have access to the full Intune console to modify these groups. 
 
 ## Delete a group
 
