@@ -8,7 +8,7 @@ keywords:
 author: barlanmsft
 ms.author: barlan
 manager: angrobe
-ms.date: 05/10/2017
+ms.date: 10/23/2017
 ms.topic: article
 ms.prod:
 ms.service: microsoft-intune
@@ -31,6 +31,20 @@ searchScope:
 
 # What's New in Intune for Education
 Learn what’s new in this release of Intune for Education. You can also find out about upcoming changes that you should be planning for, as well as information about past releases.
+
+## October 2017
+
+### Dynamic groups
+
+Define rules and we'll create groups that automatically populate based on them. 
+
+### New app status
+
+When adding an app, you'll now see a per-device and per-user status of app installs. 
+
+### Updated details pages
+
+Select a user or device in one of your groups. A pane will now slide up from the bottom of the screen that lets you get more information on that object, and the status of the apps and settings that you've assigned to it.
 
 ## May 2017 (initial release)
 
