@@ -239,7 +239,7 @@ This setting is automatically turned on when the "Optimize devices for shared us
 |Updates and maintenance period|Define the updates and maintenance period for the installation of updates.|
 |Defer feature updates|Define how many days to wait to apply feature updates to devices after they are available.|
 |Defer quality updates|Define how many days to wait to apply quality updates to devices after they are available.|
-|Pre-release features|Define weather users can see pre-release features for settings, settings and experimentations, or no pre-release features.|
+|Pre-release features|Define whether users can see pre-release features for settings, settings and experimentations, or no pre-release features.|
 |Delivery optimization mode|Define how updates are delivered to devices.|
 
 
