@@ -54,7 +54,7 @@ Much of the information in the **What it does** column can also be found in the 
 |Block removable storage|Block users from using removable storage such as USB drives and external hard drives.|
 |Block Internet sharing|Block users from using Internet Sharing to share the device’s Internet connection.|
 |Block Cortana|Block Cortana, the digital assistant built into Windows 10 that can answer questions and perform tasks.|
-|Block adding provisioning packages|Block users from adding add new provisioning packages containing device settings.|
+|Block adding provisioning packages|Block users from adding new provisioning packages containing device settings.|
 |Block removing provisioning packages|Block users from removing provisioning packages containing device settings.|
 |Block changing time and date settings|Block users from changing the device date and time settings.|
 |Block changing language settings|Block users from changing the device language.|
@@ -73,7 +73,7 @@ Much of the information in the **What it does** column can also be found in the 
 |Block address bar suggestions|Block Edge from suggesting possible search terms or previously visited websites as you type a URL or search term.|
 |Block search suggestions|Block Edge from suggesting possible websites as you type a URL or search term.|
 |Block InPrivate browsing|Block users from using InPrivate browsing, which stops Edge from saving data like browsing history and cookies.|
-|Block adult content using a SafeSearch filter|Setting to “Block” will use a strict rather than moderate SafeSearch filter to block adult content.|
+|Block adult content using a SafeSearch filter|Setting to “Block” uses a strict rather than moderate SafeSearch filter to block adult content.|
 |Block browser extensions|Block users from using extensions to customize Edge with added functionality from Microsoft and other sources.|
 |Block first run page|Block users from seeing the first run page for the first time they open Edge.|
 |Clear browsing data upon exit|Automatically erase history, cookies, and cached files after exiting Edge.|
@@ -85,7 +85,7 @@ Much of the information in the **What it does** column can also be found in the 
 |Use cookies|Cookies can store website settings or track user’s browsing behavior.|
 |Block developer tools|Block users from accessing developer tools.|
 |Block access to about:flags page|Block access to the about:flags page, which contains experimental settings and features.|
-|Require intranet sites to be viewed in Internet Explorer|If set to “Block”, internal traffic will be sent to Edge instead of Internet Explorer.|
+|Require intranet sites to be viewed in Internet Explorer|If set to “Block”, internal traffic is sent to Edge instead of Internet Explorer.|
 |Sync Microsoft Edge favorites with Internet Explorer|Sync all favorites added to Edge to Internet Explorer.|
 
 
@@ -100,8 +100,8 @@ Much of the information in the **What it does** column can also be found in the 
 |Real-time monitoring|Enable always-on scanning for malware, spyware, and other threats.|
 |Behavior monitoring|Enable Defender to check for certain known patterns of suspicious activity.|
 |Prompt users for sample submission|Define whether files that might need further analysis are automatically sent to Microsoft.|
-|Type of system scan to perform|Choose whether Windows Defender will use a quick scan, a full scan, or not scan devices at all.|
-|Daily quick scan time|Choose what hour of the day Windows Defender will run a daily quick scan.|
+|Type of system scan to perform|Choose whether Windows Defender uses a quick scan, a full scan, or not scan devices at all.|
+|Daily quick scan time|Choose what hour of the day Windows Defender runs a daily quick scan.|
 |Scan all downloaded files|Automatically scan all downloaded files for malware.|
 |Scan scripts run in Microsoft web browsers|Scan all scripts a website attempts to run in Edge and Internet Explorer.|
 |Scan removable drives during full scan|Include removable drives, such as USB sticks, during full scans.|
@@ -112,9 +112,9 @@ Much of the information in the **What it does** column can also be found in the 
 |Scan file and program activity|Scan for malware when files or programs are opened and alerts users of suspicious activity.|
 |Days before quarantined malware is removed|Define the number of days that a file is saved before removing (0 = immediately delete).|
 |Set update frequency|Define how frequently Defender checks for and downloads anti-malware updates.|
-|Potentially unwanted applications protection|Defender will alert the user and block potentially unwanted software that attempts to install itself on devices.|
+|Potentially unwanted applications protection|Defender alerts the user and blocks potentially unwanted software that attempts to install itself on devices.|
 |Enable cloud-based protection|Get real-time protection when Defender sends info to Microsoft about potential security threats. This feature works best with “Prompt users for sample submission” set to automatically send samples.|
-|Actions on detected malware threats|Windows Defender will automatically quarantine detected malware.|
+|Actions on detected malware threats|Windows Defender automatically quarantines detected malware.|
 |Enable Network Inspection Service|Helps protect devices against network-based exploits by using the signatures of known vulnerabilities from the Microsoft Endpoint Protection Center to help detect and block malicious traffic.|
 |Exclude files with these extensions from scans and real-time protection|Define the types of files that you want users to be able to access without scanning for security threats.|
 |Exclude processes from scans and real-time protection|Define the types of processes that you want users to be able to run without scanning for security threats.
@@ -136,13 +136,13 @@ Much of the information in the **What it does** column can also be found in the 
 ## Proxy settings
 
 |Automatically detect proxy settings|If you've set up proxy to handle device network traffic, you can choose whether devices automatically detect the proxy settings when connected.|
-|Use proxy script|Enable the use of a proxy script for your devices. If you **Allow** this setting, you will need to provide a **Setup script address**.|
-|Use manual proxy server configuration|If you've set up a manual proxy, you can define settings for it here. If you **Allow** this setting, you will need to provide the **Proxy server address**, **Port**, **Proxy exceptions**, and whether to **Use proxy server for local (intranet) connections**.|
+|Use proxy script|Enable the use of a proxy script for your devices. If you **Allow** this setting, you need to provide a **Setup script address**.|
+|Use manual proxy server configuration|If you've set up a manual proxy, you can define settings for it here. If you **Allow** this setting, you need to provide the **Proxy server address**, **Port**, **Proxy exceptions**, and whether to **Use proxy server for local (intranet) connections**.|
 
 
 ## Wi-Fi profiles
 
-Any Wi-Fi profiles that you create will appear here, along with the **Network name (SSID)**, **Security type**, and **Description**.
+Any Wi-Fi profiles that you create appear here, along with the **Network name (SSID)**, **Security type**, and **Description**.
 
 
 ## Device sharing settings
@@ -169,7 +169,7 @@ Any Wi-Fi profiles that you create will appear here, along with the **Network na
 
 ### Additional information about removing built-in apps
 
-This setting is automatically turned on when the "Optimize devices for shared use" setting is turned on. The following apps will be fully removed from your users' computers when this setting is turned on:
+This setting is automatically turned on when the "Optimize devices for shared use" setting is turned on. The following apps are fully removed from your users' computers when this setting is turned on:
 
 * 3DBuilder
 * Bing Weather
@@ -199,18 +199,18 @@ This setting is automatically turned on when the "Optimize devices for shared us
 |---|---|
 |Block toast notifications on lock screen|Stop notifications from appearing in the bottom right corner of the screen while devices are locked.|
 |Block Cortana on lock screen|Prevent users from accessing Cortana from the lock screen.|
-|Set custom lock screen image|Configure a custom background image on the sign-in screen. You can choose a .jpg or .png less than 20MB in size.|
-|Set custom desktop image|Configure a custom background image on the desktop. You can choose a .jpg or .png less than 20MB in size.|
+|Set custom lock screen image|Configure a custom background image on the sign-in screen. You can choose a .jpg or .png less than 20 MB in size.|
+|Set custom desktop image|Configure a custom background image on the desktop. You can choose a .jpg or .png less than 20 MB in size.|
 |Block showing recently opened items in Start menu jump lists|Block recently opened items in jump lists from showing in the Start menu and taskbar.|
 |Block showing recently added apps in Start menu|Block recently added apps from showing in the Start menu.|
 |Block showing the most used apps in Start menu|Block the most used apps from showing in the Start menu.|
 |Block app list in the Start menu|Block the list of all apps on the device from showing in the Start menu.|
-|Block power menu in the Start menu|Block the power menu (e.g. Restart, Shut down) from showing in the Start menu.|
+|Block power menu in the Start menu|Block the power menu (e.g., Restart, Shut down) from showing in the Start menu.|
 |Block user tile in the Start menu|Block the current user’s information from being shown in the Start menu.|
 |Block options from appearing on the user tile in the Start menu|You can choose **Change account settings**, **Lock**, and **Sign out**.|
 |Choose folders that appear in the Start menu|You can choose **File Explorer**, **Settings**, **Documents**, **Downloads**, **Music**, **Pictures**, **Videos**, **HomeGroup**, **Network**, and **Personal Folder**.|
-|Apply custom Start menu layout|Apply a custom Start menu layout using an XML file. You can upload an .xml file less than 2MB in size.|
-|Pin websites as tiles in the Start menu|Pin websites as tiles in the Start menu using an XML file. You can upload an .xml file less than 2MB in size.|
+|Apply custom Start menu layout|Apply a custom Start menu layout using an XML file. You can upload an .xml file less than 2 MB in size.|
+|Pin websites as tiles in the Start menu|Pin websites as tiles in the Start menu using an XML file. You can upload an .xml file less than 2 MB in size.|
 
 
 ## User access and device settings
@@ -255,11 +255,11 @@ This setting is automatically turned on when the "Optimize devices for shared us
 
 |Setting|What it does|
 |---|---|
-|Configure email settings|Choose whether you want to configure email settings for this group. These settings are applied to the Windows 10 Mail app. If you do not **Configure** this setting, none of the other email settings in this table will be available to you.|
-|Account name|Students and teachers will be able to see this on their devices.|
+|Configure email settings|Choose whether you want to configure email settings for this group. These settings are applied to the Windows 10 Mail app. If you do not **Configure** this setting, none of the other email settings in this table are available to you.|
+|Account name|Students and teachers can see the name on their devices.|
 |Email server|Enter the name of the server that hosts your email.|
-|Username|Choose the attribute that Intune will use from Azure Active Directory when applying user name settings to email profiles.|
-|Email address|Choose the attribute that Intune will use from Azure Active Directory when applying email address settings to email profiles.|
+|Username|Choose the attribute that Intune uses from Azure Active Directory when applying user name settings to email profiles.|
+|Email address|Choose the attribute that Intune uses from Azure Active Directory when applying email address settings to email profiles.|
 |Length of time to store email on devices|Choose how long to store email on devices.|
 |Interval to sync email|Choose how much time passes between email syncs.|
 |Contacts|Sync contact information.|
