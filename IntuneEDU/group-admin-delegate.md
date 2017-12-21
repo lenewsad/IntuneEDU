@@ -3,7 +3,7 @@
 
 title: "How do I delegate group management?"
 titleSuffix: Intune for Education
-description: NEW DESC
+description: Learn how to manage roles for groups in Intune for Education.
 keywords:
 author: barlanmsft
 ms.author: barlan
@@ -13,7 +13,7 @@ ms.topic: article
 ms.prod:
 ms.service: microsoft-intune
 ms.technology:
-ms.assetid: ##########
+ms.assetid: 9319be2e-cb7e-43c1-98fe-64281c8c09fd
 searchScope:
 - IntuneEDU
 
@@ -31,25 +31,28 @@ searchScope:
 
 # What is delegating group management?
 
-- IT staff in your school need to manage groups. Delegation lets you choose which groups of admin have access to manage certain groups.
+Your IT staff need to manage groups of students, teachers, and administrators in your school. Since group admins only need to manage specific groups, *delegating* access to different groups of admins makes sure those admins aren't making unauthorized changes. Admin groups are comprised of admins that do this kind of work.
 
+## What can admins do to their delegated groups?
 
+All admin roles have permission to access certain areas in Intune for Education. When delegating an admin group access to these areas, you are automatically assigning a built-in admin role with the right permission for managing school devices and apps. 
 
-## What can admins of admin groups do?
+<!--The permissions available to group admins are: 
+1. 
+2. 
+3. 
+--> 
 
-- Any admin role has permissions associated with it
-- When delegating in EDU, we assign admin role that built in to Intune with the right perms for managing school devices/apps etcs.
-- Here's the permissions
-- **Optional and for advanced people only**, not great if you want to change the perms or create a custom set of perms, then you need to go to [big Intune to do this](thisarticle#findoutmore)
+If you want to change the permissions or create a custom set of permissions, then you need to go to [the full management experience in Intune](group-admin-delegate.md#find-out-more).
 
 ## How do I assign admin groups?
 
-1. Choose your group to manager
-2. "Add admins", pick group
-3. Enjoy
+1. Open the group that you want to allow the group admins to manage. 
+2. Open the **Group admins** tab on that group. 
+3. Click the **Add admins** button, then select **Choose group**. 
 
-
+Once you complete these steps, any of your group admins should be able to manage this group. 
 
 ## Find out more
 
-  - [RBAC in Big Intune](rbacintunetopic)
+  - [Role-based administration control with Intune](https://docs.microsoft.com/intune/role-based-access-control)
