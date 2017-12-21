@@ -8,7 +8,7 @@ keywords:
 author: barlanmsft
 ms.author: barlan
 manager: angrobe
-ms.date: 12/13/2017
+ms.date: 12/21/2017
 ms.topic: article
 ms.prod:
 ms.service: microsoft-intune
@@ -35,9 +35,7 @@ You use _groups_ to manage users, apps, and devices in Intune for Education. You
 
 When you create groups, consider how you will apply the settings and apps to users and devices. For example, you may need to block apps from using location services for all devices. An alternative to this is how specific groups may need certain things, like giving students taking [AP Computer Science](https://www.tealsk12.org) apps to edit their code.
 
-Settings are applied to groups. Since groups are set up as hierarchies, with one group above another, [any settings applied to a group are inherited by all of its subgroups](settings-inheritance.md). This makes it easier to apply settings to large groups of users, apps, and devices.
-
-<!---dupe of the above-ish) With delegated admin privileges, admin groups get privileges over baby groups groupadmindelegate#sectiononaction--->
+Settings are applied to groups. Since groups are set up as hierarchies, with one group above another, [any settings applied to a group are inherited by all of its subgroups](settings-inheritance.md). This makes it easier to apply settings to large groups of users, apps, and devices. You can use [delegated permissions](group-admin-delegate.md#how-do-i-assign-admin-groups) to give admin groups access to manage groups underneath them. 
 
 Intune for Education automatically creates the __All Devices__ and __All Users__ groups when your tenant is created. These default groups represent the broadest categories of users and devices in your school or school district, and [cannot be changed](what-are-groups.md#why-cant-i-change-the-all-devices-all-users-all-students-or-all-teachers-groups).
 
