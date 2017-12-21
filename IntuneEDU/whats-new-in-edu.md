@@ -32,13 +32,10 @@ searchScope:
 # What's New in Intune for Education
 Learn what’s new in this release of Intune for Education. You can also find out about upcoming changes that you should be planning for, as well as information about past releases.
 
-## January 2018
-
+<!--## January 2018
 Audit logs
-
 Defender report
-
-RBAC
+RBAC-->
 
 ## October 2017
 
