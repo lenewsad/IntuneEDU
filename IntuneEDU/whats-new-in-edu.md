@@ -58,6 +58,11 @@ Devices - restart, factory reset, retire (on device details at either bottom or 
 
 Users - reset password (we define the new password and option to prompt the user to change it on login - will need a new doc for all details panes)
 
+
+### Wi-Fi profiles
+
+Fix up your Wi-Fi profiles in their own dedicated location. [Wi-Fi profiles doc](wi-fi-profiles.md)
+
 -->
 
 ## October 2017
