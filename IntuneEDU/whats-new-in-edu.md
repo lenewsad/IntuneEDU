@@ -8,7 +8,7 @@ keywords:
 author: barlanmsft
 ms.author: barlan
 manager: angrobe
-ms.date: 10/24/2017
+ms.date: 01/24/2018
 ms.topic: article
 ms.prod:
 ms.service: microsoft-intune
@@ -29,13 +29,36 @@ searchScope:
 
 ---
 
-# What's New in Intune for Education
+# What's new in Intune for Education
 Learn what’s new in this release of Intune for Education. You can also find out about upcoming changes that you should be planning for, as well as information about past releases.
 
 <!--## January 2018
-Audit logs
-Defender report
-RBAC-->
+
+### History
+
+**Groups** > list of all actions taken by admins to change group admins, apps, and settings for an approved group.
+
+![screenshot of logs](image-logs-history.png)
+
+### Defender report
+
+**Reports** > Defender under the list of reports. View Windows Defender device health status for all devices in your tenant/environment/whatever. [Link to reports](reports doc.md)
+
+### RBAC
+
+### User and device search
+
+We've added two new options to the sidebar: **Users** and **Devices**. You can use these to search for individual users or devices, and quickly open the **Details** for these items. You can add these searches to the sidebar by **See all** > **Star button (Favorite)** to add them to your favorites list.
+
+![screenshot of search](search-image.png)
+
+### Remote actions
+
+Devices - restart, factory reset, retire (on device details at either bottom or on blade)
+
+Users - reset password (we define the new password and option to prompt the user to change it on login - will need a new doc for all details panes)
+
+-->
 
 ## October 2017
 

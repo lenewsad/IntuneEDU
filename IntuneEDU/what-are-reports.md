@@ -8,7 +8,7 @@ keywords:
 author: barlanmsft
 ms.author: barlan
 manager: angrobe
-ms.date: 05/10/2017
+ms.date: 01/24/2018
 ms.topic: article
 ms.prod:
 ms.service: microsoft-intune
@@ -50,6 +50,8 @@ There are currently three kinds of reports that you can view in Intune for Educa
   * **Settings Errors** — A list of settings that are [currently in conflict](settings-inheritance.md) for any groups in your hierarchy.
 
   ![The settings errors report screen, showing a list of setting conflicts.](./media/reports-003-settings-error.png)
+
+ * **Windows Defender** - View Windows Defender device health status for all devices in your tenant/environment/whatever.
 
   You can also select the type of app (web app, Desktop app, Microsoft Store app) to only show information about that specific kind of app.
 
