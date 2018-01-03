@@ -31,7 +31,7 @@ searchScope:
 
 # What is Express Configuration?
 
-Express Configuration is one of the tiles that you see when you first sign in to Intune for Education.
+Express Configuration is one of the tiles that you see when you first sign in to [Intune for Education](https://intuneeducation.portal.azure.com).
 
   ![The Express Configuration tile, which says Launch Express Configuration - Click here to choose apps and settings for a group.](./media/express-config-001-launch-tile.png)
 
