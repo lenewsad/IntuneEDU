@@ -44,4 +44,4 @@ There is a difference in the version of Office that your users will get if they 
 ## Find out more
 
 - [Find out more about getting started with Office 365 Education](https://support.office.com/article/Get-started-with-Office-365-Education-AB02ABE5-A1EE-458C-B749-5B44416CCF14)
-- [Find out more about Universal Windows Apps](https://docs.microsoft.com/windows/uwp/get-started/whats-a-uwp]
+- [Find out more about Universal Windows Apps](https://docs.microsoft.com/windows/uwp/get-started/whats-a-uwp)
