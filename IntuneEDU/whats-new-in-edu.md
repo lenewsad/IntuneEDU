@@ -34,17 +34,19 @@ Learn what’s new in this release of Intune for Education. You can also find ou
 
 <!--## January 2018
 
-### History
+### History of admin actions
 
 **Groups** > list of all actions taken by admins to change group admins, apps, and settings for an approved group.
 
 ![screenshot of logs](image-logs-history.png)
 
-### Defender report
+### Fancy new Defender report
 
 **Reports** > Defender under the list of reports. View Windows Defender device health status for all devices in your tenant/environment/whatever. [Link to reports](reports doc.md)
 
-### RBAC
+### Use role-based access control to enable group admins
+
+Added concept of group admins. Choose groups that have admin priveleges over other groups so that members of groups in admin groups can manage settings for their manageable groups. Use this if you have IT staff to scope the access of mgmt groups for those folks. [rbac groups doc.md]
 
 ### User and device search
 
@@ -54,16 +56,17 @@ We've added two new options to the sidebar: **Users** and **Devices**. You can u
 
 ### Remote actions
 
-Devices - restart, factory reset, retire (on device details at either bottom or on blade)
+Devices - restart, factory reset, retire (on device details at either bottom or on blade), force sync? <!--check with jordan-->
 
 Users - reset password (we define the new password and option to prompt the user to change it on login - will need a new doc for all details panes)
 
 
 ### Wi-Fi profiles
 
-Fix up your Wi-Fi profiles in their own dedicated location. [Wi-Fi profiles doc](wi-fi-profiles.md)
+Fix up your Wi-Fi profiles in their own dedicated location. [Wi-Fi profiles in settings doc](available-settings.md#wi-fi-profiles)
 
--->
+<!--maybe to doc: new links in See all part of sidebar-->
+<!--check with jordan: popup that shows the apps that are installing; adding a tenant setting that the admin can turn off that window, probably need screenshot of that window and the tenant setting for it; maybe for 1802-->
 
 ## October 2017
 
