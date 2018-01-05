@@ -8,7 +8,7 @@ keywords:
 author: barlanmsft
 ms.author: barlan
 manager: angrobe
-ms.date: 12/19/2017
+ms.date: 01/05/2018
 ms.topic: article
 ms.prod:
 ms.service: microsoft-intune
@@ -49,6 +49,7 @@ Much of the information in the **What it does** column can also be found in the 
 |Setting|What it does|
 |---|---|
 |Block manual unenrollment|Block users from manually unenrolling devices from management.|
+|<a name="removew10apps"</a>Remove built-in Windows 10 apps|Uninstall certain built-in Windows apps. Learn what those apps are [below](available-settings.md#additional-information-about-removing-built-in-apps).|
 |Block camera|Block user access to the device camera.|
 |Block OneDrive file sync|Block OneDrive Sync for these devices and users.|
 |Block removable storage|Block users from using removable storage such as USB drives and external hard drives.|
@@ -64,6 +65,24 @@ Much of the information in the **What it does** column can also be found in the 
 |Force Start menu size|Define whether to force the Start menu to appear full screen.|
 |Block Windows Spotlight|Block all Windows Spotlight features on these devices.|
 |Location services|Block apps from using location services to access the device’s location.|
+
+### Additional information about removing built-in apps
+
+This setting is automatically turned on when the "Optimize devices for shared use" setting is turned on. The following apps are fully removed from your users' computers when this setting is turned on:
+
+* 3DBuilder
+* Bing Weather
+* Desktop App Installer
+* Get Started
+* Microsoft Office Hub
+* Solitaire Collection
+* One Connect
+* Windows Feedback Hub
+* Xbox
+* Groove Music
+<!--* Zune Video-->
+* Mail
+* Calendar
 
 ## Microsoft Edge settings
 
@@ -125,8 +144,7 @@ Much of the information in the **What it does** column can also be found in the 
 
 |Setting|What it does|
 |---|---|
-|Block Wi-Fi|Block devices from using Wi-Fi.|
-|Block using Wi-Fi Sense to automatically connect to open Wi-Fi hotspots|If you've enabled **Wi-Fi**, you can choose whether to block devices from automatically connecting to Wi-Fi hotspots.|
+|Block using Wi-Fi Sense to automatically connect to open Wi-Fi hotspots|Choose whether to block devices from automatically connecting to Wi-Fi hotspots.|
 |Block Bluetooth|Block devices from using Bluetooth.|
 |Block Bluetooth discoverability|Block devices from being set as discoverable using Bluetooth.|
 |Block Bluetooth advertising|Block devices from receiving advertising over Bluetooth.|
@@ -135,14 +153,16 @@ Much of the information in the **What it does** column can also be found in the 
 
 ## Proxy settings
 
-|Automatically detect proxy settings|If you've set up proxy to handle device network traffic, you can choose whether devices automatically detect the proxy settings when connected.|
+|Setting|What it does|
+|---|---|
+|Block automatic detection of proxy settings|If you've set up a proxy to handle device network traffic, you can choose whether devices automatically detect the proxy settings when connected.|
 |Use proxy script|Enable the use of a proxy script for your devices. If you **Allow** this setting, you need to provide a **Setup script address**.|
 |Use manual proxy server configuration|If you've set up a manual proxy, you can define settings for it here. If you **Allow** this setting, you need to provide the **Proxy server address**, **Port**, **Proxy exceptions**, and whether to **Use proxy server for local (intranet) connections**.|
 
 
 ## Wi-Fi profiles
 
-Any Wi-Fi profiles that you create appear here, along with the **Network name (SSID)**, **Security type**, and **Description**.
+Any Wi-Fi profiles that you create appear here, along with the **Network name (SSID)**, **Security type**, and **Description**. <!--in ui, choose a list of checkboxes of wifi profiles to assign to the group-->
 
 
 ## Device sharing settings
@@ -158,7 +178,6 @@ Any Wi-Fi profiles that you create appear here, along with the **Network name (S
 
 |Setting|What it does|
 |---|---|
-|<a name="removew10apps"</a>Remove built-in Windows 10 apps|Uninstall certain built-in Windows apps. Learn what those apps are [below](available-settings.md#additional-information-about-removing-built-in-apps).|
 |Block installing apps from the Microsoft Store for Education|Block users from installing apps from unauthorized locations.|
 |Require Microsoft Store for Education apps to be installed from the private store|Only allow users to install apps from the Microsoft Store for Education that your organization has set up.|
 |Trusted apps|Define whether users can install trusted apps signed by Microsoft.|
@@ -167,30 +186,12 @@ Any Wi-Fi profiles that you create appear here, along with the **Network name (S
 |Block automatic app updates|Block Microsoft Store for Education apps from being updated automatically.|
 |Shared app data between users|Allow multiple users of shared devices to share app data.|
 
-### Additional information about removing built-in apps
-
-This setting is automatically turned on when the "Optimize devices for shared use" setting is turned on. The following apps are fully removed from your users' computers when this setting is turned on:
-
-* 3DBuilder
-* Bing Weather
-* Desktop App Installer
-* Get Started
-* Microsoft Office Hub
-* Solitaire Collection
-* One Connect
-* Windows Feedback Hub
-* Xbox
-* Groove Music
-<!--* Zune Video-->
-* Mail
-* Calendar
-
 ## Sign-in settings
 
 |Setting|What it does|
 |---|---|
 |Block signing in using Microsoft account|Block users from signing in with their Microsoft account.|
-|Block signing in using non-Microsoft account|Block users from signing in with any account other than their Microsoft account. Use this setting if you want to force users to sign in with, among other Microsoft accounts, their Office 365 account.|
+|Block adding new non-Microsoft accounts|Block users from adding any account other than their Microsoft account. Use this setting if you want to force users to only use their Microsoft accounts for email.|
 
 
 ## Windows interface customizations
@@ -213,7 +214,7 @@ This setting is automatically turned on when the "Optimize devices for shared us
 |Pin websites as tiles in the Start menu|Pin websites as tiles in the Start menu using an XML file. You can upload an .xml file less than 2 MB in size.|
 
 
-## User access and device settings
+## User access to device settings
 
 |Setting|What it does|
 |---|---|
@@ -247,7 +248,7 @@ This setting is automatically turned on when the "Optimize devices for shared us
 
 |Block users from overriding SmartScreen|Block users from ignoring warnings about websites blocked by the SmartScreen Filter.|
 |SmartScreen override for files|Block users from ignoring SmartScreen Filter warnings about downloading unverified files.|
-|Smartscreen for apps and files|
+|SmartScreen for apps and files|<!--20180105 need explainer--->
 |Block users from dismissing SmartScreen warnings|
 
 
