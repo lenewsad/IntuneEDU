@@ -8,7 +8,7 @@ keywords:
 author: barlanmsft
 ms.author: barlan
 manager: angrobe
-ms.date: 05/10/2017
+ms.date: 01/17/2018
 ms.topic: article
 ms.prod:
 ms.service: microsoft-intune
@@ -39,15 +39,15 @@ There are currently three kinds of reports that you can view in Intune for Educa
 
 2. Select the report you want to view. The following reports are available in Intune for Education:
 
-  * **Device Inventory** — A list of devices managed by Intune for Education.
+  * **Device inventory** — A list of devices managed by Intune for Education.
 
   ![The device inventory report screen, showing a list of devices under Intune for Education management.](./media/reports-001-device-inventory.png)
 
-  * **Application Inventory** — A list of apps installed on devices under management by Intune for Education, including the number of devices with that app installed.
+  * **Application inventory** — A list of apps installed on devices under management by Intune for Education, including the number of devices with that app installed.
 
   ![The application inventory report screen, showing a list of apps under Intune for Education management.](./media/reports-002-app-inventory.png)
 
-  * **Settings Errors** — A list of settings that are [currently in conflict](settings-inheritance.md) for any groups in your hierarchy.
+  * **Settings errors** — A list of settings that are [currently in conflict](settings-inheritance.md) for any groups in your hierarchy.
 
   ![The settings errors report screen, showing a list of setting conflicts.](./media/reports-003-settings-error.png)
 
