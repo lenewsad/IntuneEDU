@@ -51,7 +51,7 @@ There are currently three kinds of reports that you can view in Intune for Educa
 
   ![The settings errors report screen, showing a list of setting conflicts.](./media/reports-003-settings-error.png)
 
- * **Windows Defender** - View Windows Defender device health status for all devices in your tenant/environment/whatever.
+ * **Windows Defender** - View Windows Defender device health status for all your devices.
 
   You can also select the type of app (web app, Desktop app, Microsoft Store app) to only show information about that specific kind of app.
 

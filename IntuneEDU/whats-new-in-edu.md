@@ -22,7 +22,7 @@ searchScope:
 #ROBOTS:
 #audience:
 #ms.devlang:
-#ms.reviewer: travisj
+#ms.reviewer: rashok
 #ms.suite: ems
 #ms.tgt_pltfrm:
 #ms.custom: intune-education
@@ -32,7 +32,7 @@ searchScope:
 # What's new in Intune for Education
 Learn what’s new in this release of Intune for Education. You can also find out about upcoming changes that you should be planning for, as well as information about past releases.
 
-<!--## January 2018
+## January 2018
 
 ### History
 
@@ -42,7 +42,7 @@ Learn what’s new in this release of Intune for Education. You can also find ou
 
 ### Defender report
 
-**Reports** > Defender under the list of reports. View Windows Defender device health status for all devices in your tenant/environment/whatever. [Link to reports](reports doc.md)
+We've added a new report. On the Reports page, you can select **Defender** from the list of reports. This lets you view Windows Defender device health status for all your devices. You can see what this looks like in the [What are reports?](what-are-reports.md) doc.
 
 ### RBAC
 
@@ -50,20 +50,25 @@ Learn what’s new in this release of Intune for Education. You can also find ou
 
 We've added two new options to the sidebar: **Users** and **Devices**. You can use these to search for individual users or devices, and quickly open the **Details** for these items. You can add these searches to the sidebar by **See all** > **Star button (Favorite)** to add them to your favorites list.
 
-![screenshot of search](search-image.png)
-
 ### Remote actions
 
-Devices - restart, factory reset, retire (on device details at either bottom or on blade)
+You can now take remote actions on your users and devices. Select the device you want to take action on, then choose one of the following actions from the details page:
 
-Users - reset password (we define the new password and option to prompt the user to change it on login - will need a new doc for all details panes)
+#### Devices
 
+- Restart
+- Reset to factory settings
+- Sync
+
+#### Users
+
+- Reset password
+
+Find out more about [remote actions](remote-actions.md).
 
 ### Wi-Fi profiles
 
-Fix up your Wi-Fi profiles in their own dedicated location. [Wi-Fi profiles doc](wi-fi-profiles.md)
-
--->
+We've added a new option to the sidebar for **Wi-Fi profiles**.
 
 ## October 2017
 
