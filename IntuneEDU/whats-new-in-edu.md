@@ -34,7 +34,7 @@ Learn what’s new in this release of Intune for Education. You can also find ou
 
 ## January 2018
 
-### History
+### History of admin actions
 
 **Groups** > list of all actions taken by admins to change group admins, apps, and settings for an approved group.
 
@@ -44,7 +44,9 @@ Learn what’s new in this release of Intune for Education. You can also find ou
 
 We've added a new report. On the Reports page, you can select **Defender** from the list of reports. This lets you view Windows Defender device health status for all your devices. You can see what this looks like in the [What are reports?](what-are-reports.md) doc.
 
-### RBAC
+### Use role-based access control to enable group admins
+
+Added concept of group admins. Choose groups that have admin priveleges over other groups so that members of groups in admin groups can manage settings for their manageable groups. Use this if you have IT staff to scope the access of mgmt groups for those folks. [rbac groups doc.md]
 
 ### User and device search
 
