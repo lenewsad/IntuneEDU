@@ -34,11 +34,9 @@ Learn what’s new in this release of Intune for Education. You can also find ou
 
 ## January 2018
 
-### History of admin actions
+### History of group actions taken by admins
 
-**Groups** > list of all actions taken by admins to change group admins, apps, and settings for an approved group.
-
-![screenshot of logs](image-logs-history.png)
+You can now view a history of all actions taken by admins to change group admins, apps, and settings for their approved groups. You can find the log of this history in **Groups** > **Somewhere**.
 
 ### Windows Defender report
 
@@ -46,7 +44,7 @@ We've added a new report. On the Reports page, you can select **Defender** from 
 
 ### Use role-based access control to enable group admins
 
-Added concept of group admins. Choose groups that have admin priveleges over other groups so that members of groups in admin groups can manage settings for their manageable groups. Use this if you have IT staff to scope the access of mgmt groups for those folks. [rbac groups doc.md]
+You can now choose groups of people to manage settings for other groups. For example, you could have a group called *High School Admins*, where the members are your team of admins for high schools in your district. The *High School Admins* group could be given permission to manage settings for groups of high school students. Find out more in the [groups doc](what-are-groups.md)
 
 ### User and device search
 
@@ -70,7 +68,7 @@ Find out more about [remote actions](remote-actions.md).
 
 ### Wi-Fi profiles
 
-We've added a new option to the sidebar for **Wi-Fi profiles**.
+We've added a new option to the sidebar for **Wi-Fi profiles**. This lets you define Wi-Fi settings that you can assign to different devices, users, and groups. 
 
 ## October 2017
 
