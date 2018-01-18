@@ -31,7 +31,7 @@ searchScope:
 
 # What are certificates?
 
-[Cryptography](https://technet.microsoft.com/library/cc962030.aspx) is the science of providing security for information. Traditionally, cryptography has been used to pass coded messages to [ensure that communication is kept secret](https://technet.microsoft.com/library/cc962019.aspx). In its simpliest form, cryptography substitutes or transposes letters to create a coded message into an unreadable, scrambled, or hidden message. Only someone with a decoding key, or _certificate_, can convert the coded message back into its original, readable form.
+[Cryptography](https://technet.microsoft.com/library/cc962030.aspx) is the science of providing security for information. Traditionally, cryptography has been used to pass coded messages to [ensure that communication is kept secret](https://technet.microsoft.com/library/cc962019.aspx). In its simplest form, cryptography substitutes or transposes letters to create a coded message into an unreadable, scrambled, or hidden message. Only someone with a decoding key, or _certificate_, can convert the coded message back into its original, readable form.
 
 ## Can I manage certificates in Intune for Education?
 
