@@ -40,7 +40,7 @@ Learn what’s new in this release of Intune for Education. You can also find ou
 
 ![screenshot of logs](image-logs-history.png)
 
-### Defender report
+### Windows Defender report
 
 We've added a new report. On the Reports page, you can select **Defender** from the list of reports. This lets you view Windows Defender device health status for all your devices. You can see what this looks like in the [What are reports?](what-are-reports.md) doc.
 
