@@ -36,11 +36,11 @@ Learn what’s new in this release of Intune for Education. You can also find ou
 
 ### History of group actions taken by admins
 
-You can now view a history of all actions taken by admins to change group admins, apps, and settings for their approved groups. You can find the log of this history in **Groups** > **Somewhere**.
+You can now view a history of all actions taken by admins to change group admins, apps, and settings for their approved groups. You can find the log of this history in **Groups** > **History**.
 
 ### Windows Defender report
 
-We've added a new report. On the Reports page, you can select **Defender** from the list of reports. This lets you view Windows Defender device health status for all your devices. You can see what this looks like in the [What are reports?](what-are-reports.md) doc.
+We've added a new report. On the Reports page, you can select **Windows Defender report** from the list of reports. This lets you view Windows Defender device health status for all your devices. You can see what this looks like in the [What are reports?](what-are-reports.md) doc.
 
 ### Use role-based access control to enable group admins
 
