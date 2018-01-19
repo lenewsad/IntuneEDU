@@ -8,7 +8,7 @@ keywords:
 author: barlanmsft
 ms.author: barlan
 manager: angrobe
-ms.date: 12/13/2017
+ms.date: 01/18/2018
 ms.topic: article
 ms.prod:
 ms.service: microsoft-intune
@@ -37,21 +37,24 @@ Your IT staff need to manage groups of students, teachers, and administrators in
 
 All admin roles have permission to access certain areas in Intune for Education. When delegating an admin group access to these areas, you are automatically assigning a built-in admin role with the right permission for managing school devices and apps. 
 
-<!--The permissions available to group admins are: 
-1. 
-2. 
-3. 
---> 
+Group admins are able to take a few different types of actions:
 
-If you want to change the permissions or create a custom set of permissions, then you need to go to [the full management experience in Intune](group-admin-delegate.md#find-out-more).
+- View information about devices, users, and apps
+- Assign, create, delete, view, and update device and user settings
+- Assign, create, delete, view, and update apps
+- View reports
+- Take remote actions on devices, including resetting to factory settings, rebooting, locking an unlocked device, and forcing a sync
+
+> [!TIP]
+> Modifying these permissions is an advanced task. If you want to change the permissions or create a custom set of permissions, then you need to go to [the full management experience in Intune](group-admin-delegate.md#find-out-more). These permissions comprise the built-in School Administrator role in Intune. 
 
 ## How do I assign admin groups?
 
-1. Open the group that you want to allow the group admins to manage. 
-2. Open the **Group admins** tab on that group. 
-3. Click the **Add admins** button, then select **Choose group**. 
+1. Open the group that you want to allow the group admins to manage.
+2. Open the **Group admins** tab on that group.
+3. Click the **Add admins** button, then select **Choose group**.
 
-Once you complete these steps, any of your group admins should be able to manage this group. 
+Once you complete these steps, any of your group admins should be able to manage this group.
 
 ## Find out more
 
