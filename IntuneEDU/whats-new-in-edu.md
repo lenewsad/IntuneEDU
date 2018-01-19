@@ -59,6 +59,7 @@ You can now take remote actions on your users and devices. Select the device you
 - Restart
 - Reset to factory settings
 - Sync
+- Remove from management
 
 #### Users
 
@@ -68,7 +69,7 @@ Find out more about [remote actions](remote-actions.md).
 
 ### Wi-Fi profiles
 
-We've added a new option to the sidebar for **Wi-Fi profiles**. This lets you define Wi-Fi settings that you can assign to different devices, users, and groups. 
+We've added a new option to the sidebar for **Wi-Fi profiles**. This lets you define Wi-Fi settings that you can assign to different devices, users, and groups.
 
 ## October 2017
 
