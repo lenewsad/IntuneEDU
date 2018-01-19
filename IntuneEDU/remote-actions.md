@@ -31,13 +31,14 @@ searchScope:
 
 # How do I use remote actions?
 
-As an admin, you may need to help your users if they have issues with their devices. It can be easier to do this remotely, especially if you're in a different location than a device or its user. Intune for Education offers remote actions that you can take for both devices and users. First, select the device or user that you want to take action on. On the details page, you will see buttons for the following actions:
+As an admin, you may need to help your users if they have issues with their devices. It can be easier to do this remotely, especially if you're in a different location than a device or its user. Intune for Education offers remote actions that you can take for both devices and users. First, select the device or user that you want to take action on. On the details pane, you will see buttons for the following actions:
 
 ## Devices
 
 - **Restart** the device
 - **Reset device** to factory settings
 - **Sync** device to get updated settings, app assignments, or group memberships. This can also help you if you're trying to troubleshoot why a device may be causing user issues.
+- **Remove from management** - Remove the device from Intune management without removing any personal data. It will no longer be able to access school resources. 
 
 ## Users
 
