@@ -8,7 +8,7 @@ keywords:
 author: barlanmsft
 ms.author: barlan
 manager: angrobe
-ms.date: 10/24/2017
+ms.date: 01/22/2018
 ms.topic: article
 ms.prod:
 ms.service: microsoft-intune
@@ -22,20 +22,54 @@ searchScope:
 #ROBOTS:
 #audience:
 #ms.devlang:
-#ms.reviewer: travisj
+#ms.reviewer: rashok
 #ms.suite: ems
 #ms.tgt_pltfrm:
 #ms.custom: intune-education
 
 ---
 
-# What's New in Intune for Education
+# What's new in Intune for Education
 Learn what’s new in this release of Intune for Education. You can also find out about upcoming changes that you should be planning for, as well as information about past releases.
 
-<!--## January 2018
-Audit logs
-Defender report
-RBAC-->
+## January 2018
+
+### History of group actions taken by admins
+
+You can now view a history of all actions taken by admins to change group admins, apps, and settings for their approved groups. You can find the log of this history in **Groups** > **History**.
+
+### Windows Defender report
+
+We've added a new report. On the Reports page, you can select **Windows Defender report** from the list of reports. This lets you view Windows Defender device health status for all your devices. You can see what this looks like in the [What are reports?](what-are-reports.md) doc.
+
+### Use role-based access control to enable group admins
+
+You can now choose groups of people to manage settings for other groups. For example, you could have a group called *High School Admins*, where the members are your team of admins for high schools in your district. The *High School Admins* group could be given permission to manage settings for groups of high school students. Find out more in the [groups doc](what-are-groups.md)
+
+### User and device search
+
+We've added two new options to the sidebar: **Users** and **Devices**. You can use these to search for individual users or devices, and quickly open the **Details** for these items. You can add these searches to the sidebar by **See all** > **Star button (Favorite)** to add them to your favorites list.
+
+### Remote actions
+
+You can now take remote actions on your users and devices. Select the device you want to take action on, then choose one of the following actions from the details page:
+
+#### Devices
+
+- Restart
+- Reset to factory settings
+- Sync
+- Remove from management
+
+#### Users
+
+- Reset password
+
+Find out more about [remote actions](remote-actions.md).
+
+### Wi-Fi profiles
+
+We've added a new option to the sidebar for **Wi-Fi profiles**. This lets you define Wi-Fi settings that you can assign to different devices, users, and groups.
 
 ## October 2017
 
