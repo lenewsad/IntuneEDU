@@ -21,7 +21,7 @@ searchScope:
 
 #ROBOTS:
 #audience:
-#ms.devlang:
+.#ms.devlang:
 #ms.reviewer: rashok
 #ms.suite: ems
 #ms.tgt_pltfrm:
@@ -44,7 +44,7 @@ We've added a new report. On the Reports page, you can select **Windows Defender
 
 ### Use role-based access control to enable group admins
 
-You can now choose groups of people to manage settings for other groups. For example, you could have a group called *High School Admins*, where the members are your team of admins for high schools in your district. The *High School Admins* group could be given permission to manage settings for groups of high school students. Find out more in the [groups doc](what-are-groups.md)
+You can now choose groups of people to manage settings for other groups. For example, you could have a group called *High School Admins*, where the members are your team of admins for high schools in your district. The *High School Admins* group could be given permission to manage settings for groups of high school students. Find out more in the [What are groups? doc](what-are-groups.md).
 
 ### User and device search
 
