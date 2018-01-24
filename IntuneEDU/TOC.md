@@ -31,6 +31,6 @@
 ## Use devices
 ### [How do I add devices?](how-do-i-add-devices.md)
 ### [How do I use Take a Test profiles?](take-a-test-profiles.md)
-### [How do I use remote actions?][remote-actions.md]
+### [How do I use remote actions?](remote-actions.md)
 ## Use reports
 ### [What are reports?](what-are-reports.md)
