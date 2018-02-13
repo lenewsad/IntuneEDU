@@ -8,7 +8,7 @@ keywords:
 author: barlanmsft
 ms.author: barlan
 manager: angrobe
-ms.date: 01/17/2018
+ms.date: 02/13/2018
 ms.topic: article
 ms.prod:
 ms.service: microsoft-intune
@@ -162,7 +162,12 @@ This setting is automatically turned on when the "Optimize devices for shared us
 
 ## Wi-Fi profiles
 
-Any Wi-Fi profiles that you create appear here, along with the **Network name (SSID)**, **Security type**, and **Description**. <!--in ui, choose a list of checkboxes of wifi profiles to assign to the group-->
+Any Wi-Fi profiles that you create appear here, along with the **Network name (SSID)**, **Security type**, and **Description**. 
+
+> [!NOTE]
+> You can configure a WPA-2 Enterprise Wi-Fi network using the [full Wi-Fi profile management experience in Intune](https://docs.microsoft.com//intune/wi-fi-settings-import-windows-8-1). You can also use Intune to set up [SCEP](https://docs.microsoft.com/intune/certificates-scep-configure) and [PKI](https://docs.microsoft.com/intune/certficates-pfx-configure) integration. 
+
+<!--in ui, choose a list of checkboxes of wifi profiles to assign to the group-->
 
 
 ## Device sharing settings
