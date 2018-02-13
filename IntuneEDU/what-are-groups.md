@@ -8,7 +8,7 @@ keywords:
 author: barlanmsft
 ms.author: barlan
 manager: angrobe
-ms.date: 01/17/2018
+ms.date: 02/13/2018
 ms.topic: article
 ms.prod:
 ms.service: microsoft-intune
@@ -51,7 +51,10 @@ Assigned groups are used when you want to and manually add users or devices as g
 
 Dynamic groups let you skip the process of manually adding group members instead of having to add them yourself. They are created using rules, which search your tenant for whatever students or devices meet your criteria. For example, you could create a dynamic group that shows all of the students graduating at the end of this year. If a student was unexpectedly unable to graduate, you wouldn't be able to manually remove them from this dynamic group. Instead, you'd have to change that student's graduation year, which would remove them from the group.
 
-Since dynamic groups can only contain what their rules define, you can't create subgroups underneath them.
+> [!TIP]
+> Dynamic groups are great for managing large groups of objects. Manually assigning devices and users to groups in a very large school district will require a significant amount of time and manual effort to organize. Using dynamic groups to filter along existing criteria - for example, if your devices are named *DeviceType_School_Grade_0001* - can make it very easy to manage large numbers of users and devices.
+
+Since dynamic groups can only contain what their rules define, you can't create subgroups underneath them. 
 
 ## Managing groups and subgroups
 
