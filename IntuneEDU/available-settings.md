@@ -8,7 +8,7 @@ keywords:
 author: barlanmsft
 ms.author: barlan
 manager: angrobe
-ms.date: 02/16/2018
+ms.date: 02/20/2018
 ms.topic: article
 ms.prod:
 ms.service: microsoft-intune
@@ -133,7 +133,7 @@ This setting is automatically turned on when the "Optimize devices for shared us
 |Set update frequency|Define how frequently Defender checks for and downloads anti-malware updates.|
 |Potentially Unwanted Applications protection|Defender alerts the user and blocks potentially unwanted software that attempts to install itself on devices.|
 |Enable cloud-based protection|Get real-time protection when Defender sends info to Microsoft about potential security threats. This feature works best with “Prompt users for sample submission” set to automatically send samples.|
-|<a name="blocksuspiciousfiles"></a>Block suspicious files|If this setting is on, Windows Defender Antivirus will be more aggressive when identifying suspicious files to block and scan; otherwise, it will be less aggressive and therefore block and scan with less frequency.|
+|<a name="blocksuspiciousfiles"></a>Block suspicious files|If this setting is on, Windows Defender Antivirus will be more aggressive when identifying suspicious files to block and scan; otherwise, it will be less aggressive and therefore block and scan with less frequency. You can select **Default**, **High**, **High+**, and **Zero Tolerance**. **High** aggressively blocks unknown files while minimizing impact to impacting the device performance. **High+** aggressively blocks unknown files, but may negatively impact device performance. **Zero tolerance** blocks all unknown files from running.|
 |Actions on detected malware threats|Windows Defender automatically quarantines detected malware.|
 |Enable Network Inspection Service|Helps protect devices against network-based exploits by using the signatures of known vulnerabilities from the Microsoft Endpoint Protection Center to help detect and block malicious traffic.|
 |Exclude files with these extensions from scans and real-time protection|Define the types of files that you want users to be able to access without scanning for security threats.|
