@@ -28,7 +28,6 @@ searchScope:
 #ms.custom: intune-education
 
 ---
-
 # What's new in Intune for Education
 Learn what’s new in this release of Intune for Education. You can also find out about upcoming changes that you should be planning for, as well as information about past releases.
 
