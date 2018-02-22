@@ -20,7 +20,7 @@ searchScope:
 # optional metadata
 
 #ROBOTS:
-#audience:
+#audience: NOINDEX,NOFOLLOW
 .#ms.devlang:
 #ms.reviewer: rashok
 #ms.suite: ems

@@ -1,5 +1,4 @@
 # [What is Intune for Education?](what-is-intune-for-education.md)
-## [What's new](whats-new-in-edu.md)
 
 # [Get Started](get-started-with-intune-edu.md)
 ## [What is Express Configuration?](what-is-express-configuration.md)
