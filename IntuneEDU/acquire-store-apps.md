@@ -8,7 +8,7 @@ keywords:
 author: barlanmsft
 ms.author: barlan
 manager: angrobe
-ms.date: 05/10/2017
+ms.date: 02/23/2018
 ms.topic: article
 ms.prod:
 ms.service: microsoft-intune
@@ -29,7 +29,7 @@ searchScope:
 
 ---
 
-## How do I acquire apps from the Microsoft Store for Education?
+# How do I acquire apps from the Microsoft Store for Education?
 
 Apps that you've acquired from the Microsoft Store for Education are automatically available in Intune for Education. This makes it easy for you to access hundreds of thousands of apps for your Windows 10 devices.
 
