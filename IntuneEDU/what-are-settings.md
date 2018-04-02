@@ -5,8 +5,8 @@ title: What are settings?
 titleSuffix: Intune for Education
 description: Learn how to manage settings through Intune for Education policies.
 keywords:
-author: barlanmsft
-ms.author: barlan
+author: lenewsad
+ms.author: lanewsad
 manager: angrobe
 ms.date: 05/10/2017
 ms.topic: article

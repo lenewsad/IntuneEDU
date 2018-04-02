@@ -4,8 +4,8 @@
 title: [Title]  | Intune for Education | Microsoft Docs
 description:
 keywords:
-author: barlanmsft
-ms.author: barlan
+author: lenewsad
+ms.author: lanewsad
 manager: angrobe
 ms.date: 05/10/2017
 ms.topic: article

@@ -5,8 +5,8 @@ title: How do I use Take a Test profiles?
 titleSuffix: Intune for Education
 description: Learn how to use Take A Test profiles to make it easy to administer and capture student test results.
 keywords:
-author: barlanmsft
-ms.author: barlan
+author: lenewsad
+ms.author: lanewsad
 manager: angrobe
 ms.date: 01/17/2018
 ms.topic: article

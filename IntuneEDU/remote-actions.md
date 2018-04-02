@@ -5,8 +5,8 @@ title: How do I use remote actions?
 titleSuffix: Intune for Education
 description: Learn how to use remote actions to make managing your devices easier.
 keywords:
-author: barlanmsft
-ms.author: barlan
+author: lenewsad
+ms.author: lanewsad
 manager: angrobe
 ms.date: 01/22/2018
 ms.topic: article

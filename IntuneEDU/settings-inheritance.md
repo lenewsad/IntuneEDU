@@ -5,8 +5,8 @@ title: "What is settings inheritance?"
 titleSuffix: Intune for Education
 description: Learn how to manage settings for groups of devices with Intune for Education.
 keywords:
-author: barlanmsft
-ms.author: barlan
+author: lenewsad
+ms.author: lanewsad
 manager: angrobe
 ms.date: 01/17/2018
 ms.topic: article

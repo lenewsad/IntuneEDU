@@ -5,8 +5,8 @@ title: What is School Data Sync?
 titleSuffix: Intune for Education
 description: Use School Data Sync to import school groups and people into Azure AD.
 keywords:
-author: barlanmsft
-ms.author: barlan
+author: lenewsad
+ms.author: lanewsad
 manager: angrobe
 ms.date: 08/11/2017
 ms.topic: article
