@@ -5,8 +5,8 @@ title: What are Enrollment Managers?
 titleSuffix: Intune for Education
 description: Learn how to use Enrollment Managers in Intune for Education.
 keywords:
-author: barlanmsft
-ms.author: barlan
+author: lenewsad
+ms.author: lanewsad
 manager: angrobe
 ms.date: 01/17/2018
 ms.topic: article

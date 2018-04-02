@@ -5,8 +5,8 @@ title: What are tenants?
 titleSuffix: Intune for Education
 description: Learn how to manage your tenant with tenant-wide settings.
 keywords:
-author: barlanmsft
-ms.author: barlan
+author: lenewsad
+ms.author: lanewsad
 manager: angrobe
 ms.date: 01/17/2018
 ms.topic: article

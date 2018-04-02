@@ -5,8 +5,8 @@ title: "How do I delegate group management?"
 titleSuffix: Intune for Education
 description: Learn how to manage roles for groups in Intune for Education.
 keywords:
-author: barlanmsft
-ms.author: barlan
+author: lenewsad
+ms.author: lanewsad
 manager: angrobe
 ms.date: 01/18/2018
 ms.topic: article

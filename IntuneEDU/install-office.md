@@ -5,8 +5,8 @@ title: Manage Microsoft Office for your Windows 10 devices
 titleSuffix: Intune for Education
 description: Learn how to install Microsoft Office on Windows 10 devices.
 keywords:
-author: barlanmsft
-ms.author: barlan
+author: lenewsad
+ms.author: lanewsad
 manager: angrobe
 ms.date: 10/06/2017
 ms.topic: article

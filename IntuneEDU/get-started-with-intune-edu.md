@@ -5,8 +5,8 @@ title: Get started with Intune for Education
 titleSuffix: Intune for Education
 description: Learn the requirements to set up Intune for Education.
 keywords:
-author: barlanmsft
-ms.author: barlan
+author: lenewsad
+ms.author: lanewsad
 manager: angrobe
 ms.date: 05/10/2017
 ms.topic: article
