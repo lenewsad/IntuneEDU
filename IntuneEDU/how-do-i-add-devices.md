@@ -5,8 +5,8 @@ title: Add devices
 titleSuffix: Intune for Education
 description: Learn how to set up Windows 10 devices for Intune for Education.
 keywords:
-author: barlanmsft
-ms.author: barlan
+author: lenewsad
+ms.author: lanewsad
 manager: angrobe
 ms.date: 05/10/2017
 ms.topic: article

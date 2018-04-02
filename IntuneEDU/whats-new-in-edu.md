@@ -5,8 +5,8 @@ title: What's new
 titleSuffix: Intune for Education
 description: Find out what's recently released in Intune for Education.
 keywords:
-author: barlanmsft
-ms.author: barlan
+author: lenewsad
+ms.author: lanewsad
 manager: angrobe
 ms.date: 01/22/2018
 ms.topic: article

@@ -5,8 +5,8 @@ title: How do I customize my dashboard?
 titleSuffix: Intune for Education
 description: Learn how to customize your dashboard and sidebar in Intune for Education.
 keywords:
-author: barlanmsft
-ms.author: barlan
+author: lenewsad
+ms.author: lanewsad
 manager: angrobe
 ms.date: 01/17/2018
 ms.topic: article

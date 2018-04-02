@@ -5,8 +5,8 @@ title: How do I manage settings?
 titleSuffix: Intune for Education
 description: Follow these steps to manage settings through Intune for Education policies.
 keywords:
-author: barlanmsft
-ms.author: barlan
+author: lenewsad
+ms.author: lanewsad
 manager: angrobe
 ms.date: 01/17/2018
 ms.topic: article

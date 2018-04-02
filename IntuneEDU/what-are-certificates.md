@@ -5,8 +5,8 @@ title: What are certificates?
 titleSuffix: Intune for Education
 description: Get a short introduction to certificates and where you need to go to manage them.
 keywords:
-author: barlanmsft
-ms.author: barlan
+author: lenewsad
+ms.author: lanewsad
 manager: angrobe
 ms.date: 05/10/2017
 ms.topic: article

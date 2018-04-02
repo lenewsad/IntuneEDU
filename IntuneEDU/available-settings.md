@@ -5,8 +5,8 @@ title: Available settings
 titleSuffix: Intune for Education
 description: Learn more about the settings available for Intune for Education.
 keywords:
-author: barlanmsft
-ms.author: barlan
+author: lenewsad
+ms.author: lanewsad
 manager: angrobe
 ms.date: 02/20/2018
 ms.topic: article

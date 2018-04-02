@@ -5,8 +5,8 @@ title: Acquire Microsoft Store for Education apps
 titleSuffix: Intune for Education
 description: Learn how to purchase apps from the Microsoft Store for Education.
 keywords:
-author: barlanmsft
-ms.author: barlan
+author: lenewsad
+ms.author: lanewsad
 manager: angrobe
 ms.date: 02/23/2018
 ms.topic: article

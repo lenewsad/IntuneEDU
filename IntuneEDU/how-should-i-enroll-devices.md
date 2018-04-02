@@ -5,8 +5,8 @@ title: How should I enroll my devices?
 titleSuffix: Intune for Education
 description: Get advice for ways to enroll your devices in to Intune for Education.
 keywords:
-author: barlanmsft
-ms.author: barlan
+author: lenewsad
+ms.author: lanewsad
 manager: angrobe
 ms.date: 05/10/2017
 ms.topic: article

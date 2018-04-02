@@ -5,8 +5,8 @@ title: What is Express Configuration?
 titleSuffix: Intune for Education
 description: Use Express Configuration to quickly set up your groups in Intune for Education.
 keywords:
-author: barlanmsft
-ms.author: barlan
+author: lenewsad
+ms.author: lanewsad
 manager: angrobe
 ms.date: 01/17/2018
 ms.topic: article
