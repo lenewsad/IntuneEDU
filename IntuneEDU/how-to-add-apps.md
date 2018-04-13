@@ -53,9 +53,9 @@ You can assign web apps as links in the Start menu of Windows 10 devices using I
 1. In the [Intune for Education](https://intuneeducation.portal.azure.com) console, choose **Apps**.
 
 2. Under **Web apps**, select **+ New app**, then enter the following details:
- * **URL** — The URL of the app that you want to assign
- * **App name** — The name of the app displayed in the Start menu on devices
- * **Icon** — Upload a PNG or JPG from your computer to use as an icon for the app
+   * **URL** — The URL of the app that you want to assign
+   * **App name** — The name of the app displayed in the Start menu on devices
+   * **Icon** — Upload a PNG or JPG from your computer to use as an icon for the app
 
 3. Choose **Save**. Your web app is now ready.
 
@@ -72,15 +72,15 @@ You can install desktop apps through the same interface on the **Apps** page. Th
 1. In the [Intune for Education](https://intuneeducation.portal.azure.com) console, choose **Apps**.
 
 2. Under **Desktop apps**, select **+ New app**. This will open the **New desktop app** screen, then enter the following details:
- * **App file** — Upload an MSI installer for the app
- * **App name** — The name of the app to appear on devices
- * **Description** — A description of the app to help you with quickly identifying which app it is
- * **Publisher** — The name of the app publisher, to help you with quickly identifying who developed the app
- * **Icon** — Upload a PNG or JPG from your computer to use as an icon for the app
+   * **App file** — Upload an MSI installer for the app
+   * **App name** — The name of the app to appear on devices
+   * **Description** — A description of the app to help you with quickly identifying which app it is
+   * **Publisher** — The name of the app publisher, to help you with quickly identifying who developed the app
+   * **Icon** — Upload a PNG or JPG from your computer to use as an icon for the app
 
 3. Choose **Save and upload file**.
 
-  ![The add new desktop app screen, with all fields filled out for sample app, evernote.](./media/apps-004-filled-out-desktop-app.png)
+   ![The add new desktop app screen, with all fields filled out for sample app, evernote.](./media/apps-004-filled-out-desktop-app.png)
 
 4. The app will then upload to Intune for Education. Once the upload is complete, you can [install the app on devices](install-apps.md).
 
@@ -100,15 +100,15 @@ The Intune for Education portal shows the top twelve educational web apps and to
 
 1. In the [Intune for Education](https://intuneeducation.portal.azure.com) console, choose  **Manage Apps** > **Add apps** > **Quick add popular apps**. A list of **Web apps** and **Microsoft Store apps** is displayed.
 
-  ![The quick add popular apps screen.](./media/apps-006-add-popular-apps.png)
+   ![The quick add popular apps screen.](./media/apps-006-add-popular-apps.png)
 
 2. Select the apps you want to add, then choose **Add apps**.
 
-  ![Selecting multiple popular apps to add to the portal.](./media/apps-007-select-multiple-popular-apps.png)
+   ![Selecting multiple popular apps to add to the portal.](./media/apps-007-select-multiple-popular-apps.png)
 
 3. Your apps will add in the background and appear in the left hand sidebar when ready.
 
-  ![Your apps are being added screen.](./media/apps-008-your-popular-apps-are-being-added.png)
+   ![Your apps are being added screen.](./media/apps-008-your-popular-apps-are-being-added.png)
 
 ## Find out more
 

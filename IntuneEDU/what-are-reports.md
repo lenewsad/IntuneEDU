@@ -39,21 +39,21 @@ There are currently three kinds of reports that you can view in Intune for Educa
 
 2. Select the report you want to view. The following reports are available in Intune for Education:
 
-  * **Device inventory** — A list of devices managed by Intune for Education.
+   * **Device inventory** — A list of devices managed by Intune for Education.
 
-  ![The device inventory report screen, showing a list of devices under Intune for Education management.](./media/reports-001-device-inventory.png)
+   ![The device inventory report screen, showing a list of devices under Intune for Education management.](./media/reports-001-device-inventory.png)
 
-  * **Application inventory** — A list of apps installed on devices under management by Intune for Education, including the number of devices with that app installed.
+   * **Application inventory** — A list of apps installed on devices under management by Intune for Education, including the number of devices with that app installed.
 
-  ![The application inventory report screen, showing a list of apps under Intune for Education management.](./media/reports-002-app-inventory.png)
+   ![The application inventory report screen, showing a list of apps under Intune for Education management.](./media/reports-002-app-inventory.png)
 
-  * **Settings errors** — A list of settings that are [currently in conflict](settings-inheritance.md) for any groups in your hierarchy.
+   * **Settings errors** — A list of settings that are [currently in conflict](settings-inheritance.md) for any groups in your hierarchy.
 
-  ![The settings errors report screen, showing a list of setting conflicts.](./media/reports-003-settings-error.png)
+   ![The settings errors report screen, showing a list of setting conflicts.](./media/reports-003-settings-error.png)
 
- * **Windows Defender** - View Windows Defender device health status for all your devices.
+   * **Windows Defender** - View Windows Defender device health status for all your devices.
 
-  You can also select the type of app (web app, Desktop app, Microsoft Store app) to only show information about that specific kind of app.
+   You can also select the type of app (web app, Desktop app, Microsoft Store app) to only show information about that specific kind of app.
 
 ## Download reports
 
