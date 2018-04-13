@@ -80,7 +80,7 @@ This setting is automatically turned on when the "Optimize devices for shared us
 * Windows Feedback Hub
 * Xbox
 * Groove Music
-<!--* Zune Video-->
+  <!--* Zune Video-->
 * Mail
 * Calendar
 
